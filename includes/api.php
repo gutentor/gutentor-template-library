@@ -62,7 +62,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Api' ) ) {
 
             $templates_list = array();
 
-			$templates = apply_filters( 'gutentor_advanced_import_templates', $templates_list );
+			$templates = apply_filters( 'gutentor_advanced_import_gutentor_template_library', $templates_list );
 
 			return rest_ensure_response( $templates );
 		}

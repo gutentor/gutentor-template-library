@@ -25,7 +25,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Base' ) ) {
         public function run(){
 
             if( method_exists( $this, 'add_block_template_library' ) ){
-                add_filter( 'gutentor_advanced_import_templates', array( $this, 'add_block_template_library' ) );
+                add_filter( 'gutentor_advanced_import_gutentor_template_library', array( $this, 'add_block_template_library' ) );
             }
         }
     }
