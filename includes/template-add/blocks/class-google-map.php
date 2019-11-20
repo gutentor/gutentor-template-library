@@ -68,7 +68,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Google_Map' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'google-map', 'google-map 1' ),
 					'categories'		=> array( 'google-map' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/google-map/google-map-1/gutentor_google-map-post.json',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/google-map/google-map-1/gutentor_google-map.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/google-map/google-map-1/google-map.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/google-map/#section-90380ab9-e0eb-4857-aaf3-aa976c680c39',
 				),

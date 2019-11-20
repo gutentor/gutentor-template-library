@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 				array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced-columns 1' ),
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-1/gutentor_advanced-columns.json',
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 				array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced-columns 2' ),
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-2/gutentor_advanced-columns.json',
@@ -85,7 +85,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 				array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced-columns 3' ),
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-3/gutentor_advanced-columns.json',
