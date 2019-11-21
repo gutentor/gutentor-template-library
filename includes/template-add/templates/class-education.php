@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Education' ) ) {
                 array(
                     'title'             => __( 'Education', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'education', 'education 2' ),
                     'categories'        => array( 'education' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/education/education-2/template.json',

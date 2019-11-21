@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
                 array(
                     'title'             => __( 'Service', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'service', 'service 1' ),
                     'categories'        => array( 'service' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/services-page/service-1/template.json',
@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
                 array(
                     'title'             => __( 'Service', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'service', 'service 2' ),
                     'categories'        => array( 'service' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/services-page/service-2/template.json',
@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
                 array(
                     'title'             => __( 'Service', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'service', 'service 3' ),
                     'categories'        => array( 'service' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/services-page/service-3/template.json',
@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
                 array(
                     'title'             => __( 'Service', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'service', 'service 4' ),
                     'categories'        => array( 'service' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/services-page/service-4/template.json',
@@ -97,7 +97,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
                 array(
                     'title'             => __( 'Service', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'service', 'service 5' ),
                     'categories'        => array( 'service' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/services-page/service-5/template.json',

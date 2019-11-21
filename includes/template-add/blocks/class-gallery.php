@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Gallery' ) ) {
 				array(
 					'title'				=> __( 'Gallery', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'gallery', 'gallery 3' ),
 					'categories'		=> array( 'gallery' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/gallery/gallery-3/gutentor_gallery.json',

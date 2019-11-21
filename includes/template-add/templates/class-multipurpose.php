@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Multipurpose' ) ) {
                 array(
                     'title'             => __( 'Multipurpose', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'multipurpose', 'multipurpose 3' ),
                     'categories'        => array( 'multipurpose' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/multipurpose/multipurpose-3/template.json',

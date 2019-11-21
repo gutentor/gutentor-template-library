@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Fitness' ) ) {
                 array(
                     'title'             => __( 'Fitness', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'fitness', 'fitness 2' ),
                     'categories'        => array( 'fitness' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/fitness/fitness-2/template.json',

@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Blog_Post' ) ) {
 				array(
 					'title'				=> __( 'Blog', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'blog', 'blog 2' ),
 					'categories'		=> array( 'blog' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/blog/blog-2/gutentor_blog-post.json',

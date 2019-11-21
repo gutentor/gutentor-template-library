@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 1' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-1/template.json',
@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 2' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-2/template.json',
@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 3' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-3/template.json',
@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 4' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-4/template.json',
@@ -96,7 +96,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 5' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-5/template.json',
@@ -106,7 +106,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 6' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-6/template.json',
@@ -116,7 +116,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 7' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-7/template.json',
@@ -126,7 +126,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 8' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-8/template.json',
@@ -137,7 +137,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 9' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-9/template.json',
@@ -147,7 +147,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
                 array(
                     'title'             => __( 'Contact', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 10' ),
                     'categories'        => array( 'contact' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/contact-page/contact-10/template.json',

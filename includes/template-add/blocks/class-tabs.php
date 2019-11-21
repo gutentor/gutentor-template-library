@@ -85,7 +85,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Tabs' ) ) {
 				array(
 					'title'				=> __( 'Tabs', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'tabs', 'tabs 3' ),
 					'categories'		=> array( 'tabs' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/tabs/tabs-3/gutentor_tabs.json',

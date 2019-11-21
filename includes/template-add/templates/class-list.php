@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_List' ) ) {
                 array(
                     'title'             => __( 'List', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'list', 'list 1' ),
                     'categories'        => array( 'list' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/list-page/list-1/template.json',
@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_List' ) ) {
                 array(
                     'title'             => __( 'List', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'list', 'list 2' ),
                     'categories'        => array( 'list' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/list-page/list-2/template.json',
@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_List' ) ) {
                 array(
                     'title'             => __( 'List', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'list', 'list 3' ),
                     'categories'        => array( 'list' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/list-page/list-3/template.json',

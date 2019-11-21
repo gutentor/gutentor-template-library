@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Photography' ) ) {
                 array(
                     'title'             => __( 'Photography', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'photography', 'photography 1' ),
                     'categories'        => array( 'photography' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/photography/photography-1/template.json',

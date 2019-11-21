@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Team' ) ) {
 				array(
 					'title'				=> __( 'Team', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 3' ),
 					'categories'		=> array( 'team' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/team/team-3/gutentor_team.json',
@@ -96,7 +96,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Team' ) ) {
 				array(
 					'title'				=> __( 'Team', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 4' ),
 					'categories'		=> array( 'team' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/team/team-4/gutentor_team.json',
@@ -106,7 +106,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Team' ) ) {
 				array(
 					'title'				=> __( 'Team', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 5' ),
 					'categories'		=> array( 'team' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/team/team-5/gutentor_team.json',

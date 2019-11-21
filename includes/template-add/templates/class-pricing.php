@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Pricing' ) ) {
                 array(
                     'title'             => __( 'Pricing', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'pricing', 'pricing 1' ),
                     'categories'        => array( 'pricing' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/pricing-page/pricing-1/template.json',

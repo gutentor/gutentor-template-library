@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Counter_Box' ) ) {
 				array(
 					'title'				=> __( 'Counter', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'counter', 'counter 3' ),
 					'categories'		=> array( 'counter' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/counter/counter-3/gutentor_counter-box.json',

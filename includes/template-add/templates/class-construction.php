@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Construction' ) ) {
                 array(
                     'title'             => __( 'Construction', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'construction', 'construction 2' ),
                     'categories'        => array( 'construction' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/construction/construction-2/template.json',

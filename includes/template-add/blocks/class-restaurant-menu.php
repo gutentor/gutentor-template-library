@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Restaurant_Menu' ) ) {
 				array(
 					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'restaurant-menu', 'restaurant-menu 3' ),
 					'categories'		=> array( 'restaurant-menu' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/restaurant-menu/restaurant-menu-3/gutentor_restaurant-menu.json',

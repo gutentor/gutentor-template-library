@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Content_Box' ) ) {
 				array(
 					'title'				=> __( 'Content Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'content-box', 'content-box 1' ),
 					'categories'		=> array( 'content-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/content-box/content-box-1/gutentor_content-box.json',

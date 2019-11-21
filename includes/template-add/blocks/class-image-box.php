@@ -85,7 +85,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Box' ) ) {
 				array(
 					'title'				=> __( 'Image Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 3' ),
 					'categories'		=> array( 'image-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/image-box/image-box-3/gutentor_image-box.json',
@@ -95,7 +95,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Box' ) ) {
 				array(
 					'title'				=> __( 'Image Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 4' ),
 					'categories'		=> array( 'image-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/image-box/image-box-4/gutentor_image-box.json',

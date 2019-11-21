@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Medical' ) ) {
                 array(
                     'title'             => __( 'Medical', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'medical', 'medical 2' ),
                     'categories'        => array( 'medical' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/medical/medical-2/template.json',

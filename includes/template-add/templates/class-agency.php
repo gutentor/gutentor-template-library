@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Agency' ) ) {
                 array(
                     'title'             => __( 'Agency', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'agency', 'agency 2' ),
                     'categories'        => array( 'agency' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/agency/agency-2/template.json',

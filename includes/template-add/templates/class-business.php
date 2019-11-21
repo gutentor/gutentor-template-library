@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Business' ) ) {
                 array(
                     'title'             => __( 'Business', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'business', 'business 3' ),
                     'categories'        => array( 'business' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/business/business-3/template.json',

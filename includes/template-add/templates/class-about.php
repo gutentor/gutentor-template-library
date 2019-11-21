@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 1' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-1/template.json',
@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 2' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-2/template.json',
@@ -76,7 +76,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 3' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-3/template.json',
@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 4' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-4/template.json',
@@ -96,7 +96,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 5' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-5/template.json',
@@ -106,7 +106,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 6' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-6/template.json',
@@ -116,7 +116,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 7' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-7/template.json',
@@ -126,7 +126,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 8' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-8/template.json',
@@ -136,7 +136,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
                 array(
                     'title'             => __( 'About', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'about', 'about 9' ),
                     'categories'        => array( 'about' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/about-page/about-9/template.json',

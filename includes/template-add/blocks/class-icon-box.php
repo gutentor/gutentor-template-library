@@ -95,7 +95,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 4' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-4/gutentor_icon-box.json',
@@ -105,7 +105,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 5' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-5/gutentor_icon-box.json',
@@ -115,7 +115,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 6' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-6/gutentor_icon-box.json',
@@ -125,7 +125,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 7' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-7/gutentor_icon-box.json',
@@ -135,7 +135,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 8' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-8/gutentor_icon-box.json',
@@ -145,7 +145,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 9' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-9/gutentor_icon-box.json',
@@ -155,7 +155,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 10' ),
 					'categories'		=> array( 'icon-box' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/icon-box/icon-box-10/gutentor_icon-box.json',

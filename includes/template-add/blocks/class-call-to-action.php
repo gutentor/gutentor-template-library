@@ -85,7 +85,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Call_To_Action' ) ) {
 				array(
 					'title'				=> __( 'Call To Action', 'gutentor' ),
 					'type'				=> 'block',
-					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'call-to-action', 'call-to-action 3' ),
 					'categories'		=> array( 'call-to-action' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/call-to-action/call-to-action-3/gutentor_call-to-action.json',

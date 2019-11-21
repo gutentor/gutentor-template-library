@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Travel' ) ) {
                 array(
                     'title'             => __( 'Travel', 'gutentor' ),
                     'type'              => 'template',
-                    'author'            => __( 'Gutentor', 'gutentor' ),
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'travel', 'travel 2' ),
                     'categories'        => array( 'travel' ),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/templates/travel/travel-2/template.json',
