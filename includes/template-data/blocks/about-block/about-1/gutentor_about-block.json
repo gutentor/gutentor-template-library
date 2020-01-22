@@ -1,9 +1,9 @@
 {
-    "clientId": "07ed6c20-b87a-45ba-a600-b0c459787b46",
+    "clientId": "b66e4bb9-3d12-4526-8b72-6c12d05834f2",
     "name": "gutentor/about-block",
     "isValid": true,
     "attributes": {
-        "blockID": "10bce8b7-ab9c-4d2e-9e57-64af59a93d78",
+        "blockID": "b2454536-f8c1-4d7b-a382-3794d2a6b840",
         "timestamp": 0,
         "gutentorBlockName": "gutentor/about-block",
         "blockAboutTemplate": "about-template1",
@@ -1502,5 +1502,5 @@
     },
     "innerBlocks": [],
     "validationIssues": [],
-    "originalContent": "<section id=\"section-10bce8b7-ab9c-4d2e-9e57-64af59a93d78\" class=\"wp-block-gutentor-about-block gutentor-section gutentor-about about-template1 has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"gutentor-grid-item-wrap\"><div class=\"gutentor-single-item\"><div class=\"grid-row\"><div class=\"grid-md-6 about-grid\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/08/banner-laptop.png\" alt=\"\"/></div></div></div><div class=\"grid-md-6 about-grid\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-about-content\"><h3 class=\"gutentor-single-item-title\">Enjoy simple living with Gutentor</h3><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident</p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div></div></div></div></section>"
+    "originalContent": "<section id=\"section-b2454536-f8c1-4d7b-a382-3794d2a6b840\" class=\"wp-block-gutentor-about-block gutentor-section gutentor-about about-template1 has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"gutentor-grid-item-wrap\"><div class=\"gutentor-single-item\"><div class=\"grid-row\"><div class=\"grid-md-6 about-grid\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/08/banner-laptop.png\" alt=\"\"/></div></div></div><div class=\"grid-md-6 about-grid\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-about-content\"><h3 class=\"gutentor-single-item-title\">Enjoy simple living with Gutentor</h3><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident</p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div></div></div></div></section>"
 }
