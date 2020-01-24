@@ -1,5 +1,5 @@
 {
-    "clientId": "3bfb7419-29d2-4ad0-8488-ffbf2ab091ca",
+    "clientId": "1188659a-e1c3-45ea-a7f8-264a1d4f91ab",
     "name": "gutentor/advanced-columns",
     "isValid": true,
     "attributes": {
@@ -3182,7 +3182,7 @@
     },
     "innerBlocks": [
         {
-            "clientId": "d054377d-cc57-4691-8b2f-be23e9f80399",
+            "clientId": "db595bbe-cbce-47fc-aba1-084e9a614ad0",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
@@ -6326,7 +6326,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "ae0cf78e-44bb-47dc-a243-b2e443d95385",
+                    "clientId": "997e8d5b-048a-4d44-8c64-62cf17097f7c",
                     "name": "gutentor/content-box",
                     "isValid": true,
                     "attributes": {
@@ -7585,19 +7585,18 @@
                             "desktop": "",
                             "tablet": "",
                             "mobile": true
-                        },
-                        "className": "text-left"
+                        }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<section id=\"section-16172444-2c25-46c8-b456-1f9bf8d47c7b\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1 text-left\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">A creative agency specialized in brand strategy and digital creation. </h3></div></div></div></div></div></div></section>"
+                    "originalContent": "<section id=\"section-16172444-2c25-46c8-b456-1f9bf8d47c7b\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">A creative agency specialized in brand strategy and digital creation. </h3></div></div></div></div></div></div></section>"
                 }
             ],
             "validationIssues": [],
             "originalContent": "<section id=\"section-6a430afb-f224-4404-81ac-32bd914def4b\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-4 grid-md-12 grid-12\"><style>\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-section-title .gutentor-title{\n\n\ncolor: #111111;\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-grid-item-wrap{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-grid-item-wrap{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-grid-item-wrap{\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title,\n            #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item:hover .gutentor-single-item-title,\n            #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item:hover .gutentor-single-item-title a{\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title,\n                 #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title,\n                #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b{\n\n\n\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg path,\n            #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg polygon{\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg path,\n              #section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg polygon{\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b:hover{\n\n}\n\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b{\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b{\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-top svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-block-shape-bottom svg{\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b.{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b.{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b.{\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item{\n\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item:hover{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item {\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item {\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item:hover .gutentor-single-item-desc{\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item-image-box{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item-image-box{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b .gutentor-single-item-image-box{\n\n\n}\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n@media only screen and (min-width: 992px) {\n#section-6a430afb-f224-4404-81ac-32bd914def4b{\nflex-basis: 33.33333333333333%;\nmax-width: 33.33333333333333%;\n}\n}</style></section>"
         },
         {
-            "clientId": "002c88a9-9447-4f8e-8b19-903c5b55eae5",
+            "clientId": "8637abe8-0b3b-4e9f-b473-ee50c4998d18",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
@@ -10741,7 +10740,7 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "2c75dee3-7664-4947-b699-c9c4ebd99a20",
+                    "clientId": "4d6ff1d7-5d7e-44a8-ac92-4d9cda26c35e",
                     "name": "gutentor/content-box",
                     "isValid": true,
                     "attributes": {
