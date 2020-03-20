@@ -64,13 +64,23 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Post_Module' ) ) {
 
                 array(
 					'title'				=> __( 'Post Module', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'module',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'post-module', 'post-module 1' ),
 					'categories'		=> array( 'post-module' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/post-module/post-module-1/gutentor_video-popup.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/post-module/post-module-1/post-module.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/post-module/template-1/gutentor_p1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/post-module/template-1/template-1.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/post-module/#6d2f0a30-c266-4cb6-8663-1b718547277d',
+				),
+				array(
+					'title'				=> __( 'Post Module', 'gutentor' ),
+					'type'				=> 'module',
+					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'keywords'			=> array( 'post-module', 'post-module 2' ),
+					'categories'		=> array( 'post-module' ),
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/post-module/template-2/gutentor_p1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/post-module/template-2/template-1.jpg',
+					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/post-module/#fea8aa8a-39da-4530-96b3-ccb189ad67b2',
 				),
                 
             );
