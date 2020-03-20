@@ -206,7 +206,7 @@ class Gutentor_Template_Library {
 		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-list.php';
 		
 		/*Modules*/
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/post-module.php';
+		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-post-module.php';
 
 		$this->loader = new Gutentor_Template_Library_Loader();
 	}
