@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Post_Module' ) ) {
 
                 array(
 					'title'				=> __( 'Post Module', 'gutentor' ),
-					'type'				=> 'module',
+					'type'				=> 'block',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'post-module', 'post-module 1' ),
 					'categories'		=> array( 'post-module' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Post_Module' ) ) {
 				),
 				array(
 					'title'				=> __( 'Post Module', 'gutentor' ),
-					'type'				=> 'module',
+					'type'				=> 'block',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'post-module', 'post-module 2' ),
 					'categories'		=> array( 'post-module' ),
