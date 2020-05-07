@@ -80,7 +80,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-2/gutentor_advanced-columns.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-2/advance-column.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-c88172ba-7cc6-4b85-86ec-354a461aaf4a',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-1f999e47-40e4-47a3-ade6-caa083d59572',
 				),
 				array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
@@ -90,7 +90,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-3/gutentor_advanced-columns.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-3/advance-column.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-e7c9c57c-fca6-4436-a253-c8c00775ebf9',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-267ec38a-40a2-493f-ad1b-1f249dbc66a9',
 				),
 				array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
@@ -110,7 +110,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 					'categories'		=> array( 'advanced-columns' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-5/gutentor_advanced-columns.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/blocks/advance-column/advance-column-5/advance-column.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/contact/#section-d4ef2fb0-8660-4788-9eba-178c90ae9192',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/contact/#section-0e9f01f6-da57-4c44-8e66-9c6d3b057499',
 				),
 				// array(
 				// 	'title'				=> __( 'Advanced Columns', 'gutentor' ),
