@@ -99,8 +99,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_News_Ticker' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'news-ticker', 'news-ticker 4' ),
 					'categories'		=> array( 'news-ticker' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/news-ticker/template-3/gutentor_p5.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/news-ticker/template-3/template-4.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/news-ticker/template-4/gutentor_p5.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/news-ticker/template-4/template-4.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/news-ticker/#gmcc19fba',
 				),
                 
