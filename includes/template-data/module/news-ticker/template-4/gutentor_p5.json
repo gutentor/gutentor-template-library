@@ -1,0 +1,113 @@
+{
+    "clientId": "41a263cb-f9a3-41d9-881e-989267486c7e",
+    "name": "gutentor/p5",
+    "isValid": true,
+    "attributes": {
+        "gID": "559d4652-d638-449d-b4fa-03b7209c7377",
+        "pPostType": "post",
+        "postsToShow": 6,
+        "pTaxType": "category",
+        "order": "desc",
+        "orderBy": "date",
+        "pMetaKey": "",
+        "timestamp": 0,
+        "gName": "gutentor/p5",
+        "p5NewsTxt": "Breaking News",
+        "p5Type": "typewriter",
+        "p5Direction": "up",
+        "p5Speed": 50,
+        "p5PauseOnHover": false,
+        "p5OnControl": true,
+        "p5OnNewsTxt": true,
+        "p5NewsTxtColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "m5TxtBgColor": {
+            "enable": true,
+            "normal": "#275cf6",
+            "hover": ""
+        },
+        "m5ControlColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "m5ControlBgColor": {
+            "enable": true,
+            "normal": "#275cf6",
+            "hover": "#1e4cd9"
+        },
+        "p5ControlBorder": {
+            "styleN": "dashed",
+            "topN": "0",
+            "rightN": "0",
+            "bottomN": "0",
+            "leftN": "1",
+            "colorN": "#ffffff"
+        },
+        "m5BgColor": {
+            "enable": true,
+            "normal": "#fcfcfc",
+            "hover": ""
+        },
+        "pOnTitle": true,
+        "pTitleColor": {
+            "enable": true,
+            "normal": "#275cf6",
+            "hover": ""
+        },
+        "p5WrapBorder": {
+            "styleN": "dashed",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#275cf6",
+            "rRightN": "5",
+            "rBottomN": "5",
+            "rLeftN": "5",
+            "rTopN": "5"
+        },
+        "p5WrapOnHeight": true,
+        "p5WrapHeight": {
+            "type": "px",
+            "desktop": 60
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mTag": "section",
+        "pID": "",
+        "mOnPos": false,
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        }
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": ""
+}

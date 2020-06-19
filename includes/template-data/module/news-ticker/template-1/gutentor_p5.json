@@ -1,0 +1,92 @@
+{
+    "clientId": "1ec95723-8bfa-48c2-864d-3aca452d5db2",
+    "name": "gutentor/p5",
+    "isValid": true,
+    "attributes": {
+        "gID": "ce5336b8-9dbc-487a-987d-6f934a3dc5c1",
+        "pPostType": "post",
+        "postsToShow": 6,
+        "pTaxType": "category",
+        "order": "desc",
+        "orderBy": "date",
+        "pMetaKey": "",
+        "timestamp": 0,
+        "gName": "gutentor/p5",
+        "p5NewsTxt": "News",
+        "p5Type": "marquee",
+        "p5Direction": "up",
+        "p5Speed": 0.05,
+        "p5PauseOnHover": false,
+        "p5OnControl": true,
+        "p5OnNewsTxt": true,
+        "p5NewsTxtColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "m5TxtBgColor": {
+            "enable": false,
+            "normal": "275cf6",
+            "hover": ""
+        },
+        "m5ControlColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "m5ControlBgColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "m5BgColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pOnTitle": true,
+        "pTitleColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "p5WrapOnHeight": false,
+        "p5WrapHeight": {
+            "type": "px"
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mTag": "section",
+        "pID": "",
+        "mOnPos": false,
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        }
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": ""
+}
