@@ -72,6 +72,26 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Accordion_Module' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-1/template-1.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/accordion/#gm61ae590',
 				),
+				 array(
+					'title'				=> __( 'Accordion Module', 'gutentor' ),
+					'type'				=> 'block',
+					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'keywords'			=> array( 'accordion-module', 'accordion-module 2' ),
+					'categories'		=> array( 'accordion-module' ),
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-2/gutentor_m6.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-2/template-2.jpg',
+					'demo_url'    => 'https://www.demo.gutentor.com/accordion/#gm87741c2',
+				),
+				array(
+					'title'				=> __( 'Accordion Module', 'gutentor' ),
+					'type'				=> 'block',
+					'author'			=> __( 'Gutentor', 'gutentor' ),
+					'keywords'			=> array( 'accordion-module', 'accordion-module 3' ),
+					'categories'		=> array( 'accordion-module' ),
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-3/gutentor_m6.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-3/template-3.jpg',
+					'demo_url'    => 'https://www.demo.gutentor.com/accordion/#gm5d5884c',
+				),
 						
                 
             );
