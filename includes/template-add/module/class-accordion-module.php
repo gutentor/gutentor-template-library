@@ -68,7 +68,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Accordion_Module' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'accordion-module', 'accordion-module 1' ),
 					'categories'		=> array( 'accordion-module' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-1/gutentor_p1.json',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-1/gutentor_m6.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_URL.'includes/template-data/module/accordion-module/template-1/template-1.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/accordion/#gm61ae590',
 				),
