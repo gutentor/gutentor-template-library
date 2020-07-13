@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                 // ),
                 
                 array(
-                    'title'				=> __( 'Home', 'gutentor' ),
+                    'title'				=> __( 'Home 1', 'CosmosWP' ),
                     'type'				=> 'template',
                     'author'			=> __( 'CosmosWP', 'cosmmoswp' ),
                     'keywords'			=> array( 'home-page', 'home page' ),
