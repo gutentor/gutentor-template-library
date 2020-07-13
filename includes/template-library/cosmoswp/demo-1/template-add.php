@@ -54,11 +54,11 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
             $block_library_list = array(
 
                 array(
-                    'title'				=> __( 'About Block', 'gutentor' ),
+                    'title'				=> __( 'About', 'gutentor' ),
                     'type'				=> 'block',
-                    'author'			=> __( 'Gutentor', 'gutentor' ),
-                    'keywords'			=> array( 'about-block', 'about 1' ),
-                    'categories'		=> array( 'about' ),
+                    'author'			=> __( 'CosmosWP', 'gutentor' ),
+                    'keywords'			=> array( 'widget', 'about 1' ),
+                    'categories'		=> array( 'cosmoswp','widget','about' ),
                     'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL.'demo-1/template-data/modules/about/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL.'demo-1/template-data/modules/about/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/about/#section-1699fc93-7cc0-4c85-a359-39d052779978',
