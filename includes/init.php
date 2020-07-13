@@ -152,66 +152,7 @@ class Gutentor_Template_Library {
         require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/api.php';
 
         /*Template Library Base*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/class-template-library-base.php';
-
-        /*Block Library*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-about-block.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-accordion.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-advanced-columns.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-author-profile.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-blog-post.php';/* ***Do not remove required for PHP BLOCK*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-call-to-action.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-content-box.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-count-down.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-counter-box.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-divider.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-featured-block.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-gallery.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-google-map.php';/* ***Do not remove required for PHP BLOCK*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-icon-box.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-image-box.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-image-slider.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-list.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-notification.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-opening-hours.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-pricing.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-progress-bar.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-restaurant-menu.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-show-more.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-single-column.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-social.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-tabs.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-team.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-testimonial.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-timeline.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/blocks/class-video-popup.php';
-
-        /*Template Library*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-agency.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-business.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-construction.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-education.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-fitness.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-medical.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-multipurpose.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-travel.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-blog.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-photography.php';
-        /*Inner Pages Library*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-about.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-service.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-contact.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-gallery.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-pricing.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/templates/class-list.php';
-		
-		/*Modules*/
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-post-module.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-post-feature.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-advanced-post-module.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-post-carousel.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-news-ticker.php';
-		require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-add/module/class-accordion-module.php';
+        require_once GUTENTOR_TEMPLATE_LIBRARY_PATH . 'includes/template-library/class-template-library-base.php';
 
 		$this->loader = new Gutentor_Template_Library_Loader();
 	}
