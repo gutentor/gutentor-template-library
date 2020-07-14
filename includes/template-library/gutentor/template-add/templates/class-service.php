@@ -53,17 +53,6 @@ if ( ! class_exists( 'Gutentor_Template_Library_Service' ) ) {
 
             $block_library_list = array(
 
-             
-                // array(
-                //     'title'             => __( 'Service', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'service', 'service 2' ),
-                //     'categories'        => array( 'service' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/services-page/service-2/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/services-page/service-2/service.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/services/',
-                // ),
                 // array(
                 //     'title'             => __( 'Service', 'gutentor' ),
                 //     'type'              => 'template',
