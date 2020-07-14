@@ -151,26 +151,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_3' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-3/template-data/templates/service/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/services/',
                 ),
-                array(
-                    'title'             => __( 'Gallery 3', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'gallery', 'gallery 3' ),
-                    'categories'        => array('cosmoswp','gallery' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-3/template-data/templates/gallery/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-3/template-data/templates/gallery/screenshot.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/portfolio/',
-                ),
-                array(
-                    'title'             => __( 'Pricing 3', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'pricing', 'pricing 3' ),
-                    'categories'        => array('cosmoswp','pricing' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-3/template-data/templates/pricing/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-3/template-data/templates/pricing/screenshot.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/pricing/',
-                ),
+                
                 array(
                     'title'             => __( 'Contact 3', 'gutentor' ),
                     'type'              => 'template',
