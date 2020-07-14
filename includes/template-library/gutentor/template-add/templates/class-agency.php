@@ -63,16 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Agency' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/agency/agency-1/agency-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/agency-1/',
                 ),
-                // array(
-                //     'title'             => __( 'Agency', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'agency', 'agency 2' ),
-                //     'categories'        => array( 'agency' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/agency/agency-2/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/agency/agency-2/agency-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/',
-                // ),
+                
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
