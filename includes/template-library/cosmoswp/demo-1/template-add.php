@@ -104,6 +104,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/team/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/team/screenshot.jpg',
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-41be7ade-1721-4cf9-b989-d56eb8be0f85',
+                ),
+                array(
+					'title'				=> __( 'Call To Action', 'gutentor' ),
+					'type'				=> 'block',
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
+					'keywords'			=> array( 'call-to-action', 'call-to-action 3' ),
+					'categories'		=> array( 'cosmoswp','call-to-action' ),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/call-to-action/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/call-to-action/screenshot.jpg',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-388c17c0-984d-4720-b47d-cbee12299db3',
 				),
                 
                 //Block Templates ends

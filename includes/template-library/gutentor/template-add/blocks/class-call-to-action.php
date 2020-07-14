@@ -82,16 +82,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Call_To_Action' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/call-to-action/call-to-action-2/call-to-action.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/call-to-action/#section-84e22d48-168a-4acb-90ab-7c1567cd25eb',
 				),
-				// array(
-				// 	'title'				=> __( 'Call To Action', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'call-to-action', 'call-to-action 3' ),
-				// 	'categories'		=> array( 'call-to-action' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/call-to-action/call-to-action-3/gutentor_call-to-action.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/call-to-action/call-to-action-3/call-to-action.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-2ece930a-a3b6-4e5a-87ea-feb106be0aca',
-				// ),
+				
                 
             );
 
