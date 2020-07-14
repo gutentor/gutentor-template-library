@@ -55,7 +55,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 
                 //Block/Modules Templates Starts
                 array(
-					'title'				=> __( 'About Block 1', 'gutentor' ),
+					'title'				=> __( 'About Block', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'about-block', 'about 3' ),
@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/about/#section-2a6b9277-d4f1-4767-944c-5dcd80dc8ec5',
                 ),
                 array(
-					'title'				=> __( 'Icon Box 1', 'gutentor' ),
+					'title'				=> __( 'Icon Box', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-50bb61c4-17ce-43e6-a31d-7c0097c3f4e7',
 				),
                 array(
-					'title'				=> __( 'Counter 1', 'gutentor' ),
+					'title'				=> __( 'Counter', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'counter', 'counter 3' ),
@@ -86,7 +86,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                 ),
                 
                 array(
-					'title'				=> __( 'Image Box 1', 'gutentor' ),
+					'title'				=> __( 'Image Box', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 4' ),
@@ -96,7 +96,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-7f016bc2-26cd-4e12-8070-23fde6abe445',
                 ),
                 	array(
-					'title'				=> __( 'Team 1', 'gutentor' ),
+					'title'				=> __( 'Team', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 3' ),
@@ -106,7 +106,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-41be7ade-1721-4cf9-b989-d56eb8be0f85',
                 ),
                 array(
-					'title'				=> __( 'Call To Action 1', 'gutentor' ),
+					'title'				=> __( 'Call To Action', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'call-to-action', 'call-to-action 3' ),
@@ -116,7 +116,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-388c17c0-984d-4720-b47d-cbee12299db3',
 				),
                 array(
-					'title'				=> __( 'Blog 1', 'gutentor' ),
+					'title'				=> __( 'Blog', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'blog', 'blog 2' ),
@@ -127,7 +127,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                 ),
 
                 array(
-					'title'				=> __( 'Advanced Columns 1', 'gutentor' ),
+					'title'				=> __( 'Advanced Columns', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced-columns 1' ),
