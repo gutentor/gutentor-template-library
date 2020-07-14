@@ -63,26 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Advanced_Columns' ) ) {
 
 
 
-				// array(
-				// 	'title'				=> __( 'Advanced Columns', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'advanced-columns', 'advanced-columns 6' ),
-				// 	'categories'		=> array( 'advanced-columns' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/advance-column/advance-column-6/gutentor_advanced-columns.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/advance-column/advance-column-6/advance-column.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/#section-3753ec3e-56f6-485f-8fb8-123241372e30',
-				// ),
-				// array(
-				// 	'title'				=> __( 'Advanced Columns', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'advanced-columns', 'advanced-columns 7' ),
-				// 	'categories'		=> array( 'advanced-columns' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/advance-column/advance-column-7/gutentor_advanced-columns.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/advance-column/advance-column-7/advance-column.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/#section-ff179439-9a55-44bd-9a65-32e1b2a5a086',
-				// ),
+
 				// array(
 				// 	'title'				=> __( 'Advanced Columns', 'gutentor' ),
 				// 	'type'				=> 'block',
