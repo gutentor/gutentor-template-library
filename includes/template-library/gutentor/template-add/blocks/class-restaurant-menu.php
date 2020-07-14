@@ -83,16 +83,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Restaurant_Menu' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/restaurant-menu/restaurant-menu-2/restaurant-menu.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/restaurant-menu/#section-992c7ec6-25e3-4eb2-8369-a4238352803f',
 				),
-				array(
-					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
-					'type'				=> 'block',
-					'author'			=> __( 'CosmosWP', 'gutentor' ),
-					'keywords'			=> array( 'restaurant-menu', 'restaurant-menu 3' ),
-					'categories'		=> array( 'restaurant-menu' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/restaurant-menu/restaurant-menu-3/gutentor_restaurant-menu.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/restaurant-menu/restaurant-menu-3/restaurant-menu.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-c0190583-0922-498c-979a-52ecb3973cc9',
-				),
+				// array(
+				// 	'title'				=> __( 'Restaurant Menu', 'gutentor' ),
+				// 	'type'				=> 'block',
+				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
+				// 	'keywords'			=> array( 'restaurant-menu', 'restaurant-menu 3' ),
+				// 	'categories'		=> array( 'restaurant-menu' ),
+				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/restaurant-menu/restaurant-menu-3/gutentor_restaurant-menu.json',
+				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/restaurant-menu/restaurant-menu-3/restaurant-menu.jpg',
+				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-c0190583-0922-498c-979a-52ecb3973cc9',
+				// ),
                 
             );
 
