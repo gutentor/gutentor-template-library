@@ -63,16 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Medical' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/medical/medical-1/medical-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/medical-1/',
                 ),
-                // array(
-                //     'title'             => __( 'Medical', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'medical', 'medical 2' ),
-                //     'categories'        => array( 'medical' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/medical/medical-2/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/medical/medical-2/medical-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-5/',
-                // ),
+      
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
