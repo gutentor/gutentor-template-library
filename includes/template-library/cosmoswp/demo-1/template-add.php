@@ -105,7 +105,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/services/',
                 ),
                 array(
-                    'title'             => __( 'Contact', 'gutentor' ),
+                    'title'             => __( 'Contact 1', 'gutentor' ),
                     'type'              => 'template',
                     'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array( 'contact', 'contact 1' ),
