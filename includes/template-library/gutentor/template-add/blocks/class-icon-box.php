@@ -92,27 +92,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-3/icon-box.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/icon-box/#section-971dbb03-7d2f-4f25-84ad-72a8c94d6c3a',
 				),
-				
-				// array(
-				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'icon-box', 'icon-box 6' ),
-				// 	'categories'		=> array( 'icon-box' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-6/gutentor_icon-box.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-6/icon-box.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/#section-81b2878b-6404-4567-bdd9-7930a3a1b88a',
-				// ),
-				// array(
-				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'icon-box', 'icon-box 7' ),
-				// 	'categories'		=> array( 'icon-box' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-7/gutentor_icon-box.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-7/icon-box.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/services/#section-b5ce6999-a9c3-4a41-9ee5-004c629d296a',
-				// ),
+
+
 				// array(
 				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
 				// 	'type'				=> 'block',
