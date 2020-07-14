@@ -82,16 +82,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Tabs' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/tabs/tabs-2/tabs.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/tabs/#section-0eadb066-bbf6-464e-ae09-14a9a7c2f1e1',
 				),
-				// array(
-				// 	'title'				=> __( 'Tabs', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'tabs', 'tabs 3' ),
-				// 	'categories'		=> array( 'tabs' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/tabs/tabs-3/gutentor_tabs.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/tabs/tabs-3/tabs.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-e7c9c57c-fca6-4436-a253-c8c00775ebf9',
-				// ),
+				
                 
             );
 
