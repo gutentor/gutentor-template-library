@@ -53,6 +53,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
 
             $block_library_list = array(
 
+                //Block/Modules Templates Starts
                 array(
 					'title'				=> __( 'About Block', 'gutentor' ),
 					'type'				=> 'block',
@@ -82,7 +83,23 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/counter/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/counter/screenshot.jpg',
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-be6e9959-dd4f-473b-b407-52d245e37172',
-				),
+                ),
+                
+                array(
+					'title'				=> __( 'Image Box', 'gutentor' ),
+					'type'				=> 'block',
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
+					'keywords'			=> array( 'image-box', 'image-box 4' ),
+					'categories'		=> array( 'cosmoswp','image-box' ),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/image-box/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/image-box/screenshot.jpg',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-7f016bc2-26cd-4e12-8070-23fde6abe445',
+                ),
+                
+                //Block Templates ends
+
+
+                //Page Templates Starts
                 
                 array(
                     'title'				=> __( 'Home 1', 'gutentor' ),
@@ -124,6 +141,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/templates/contact/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/contact-us/',
                 ),
+                //Page Templates Ends
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
