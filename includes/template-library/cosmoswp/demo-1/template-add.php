@@ -115,6 +115,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/call-to-action/screenshot.jpg',
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-388c17c0-984d-4720-b47d-cbee12299db3',
 				),
+                array(
+					'title'				=> __( 'Blog', 'gutentor' ),
+					'type'				=> 'block',
+					'author'			=> __( 'CosmosWP', 'gutentor' ),
+					'keywords'			=> array( 'blog', 'blog 2' ),
+					'categories'		=> array( 'cosmoswp','blog' ),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/blog/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-1/template-data/modules/blog/screenshot.jpg',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/#section-db90a0b0-1386-4383-8618-c57f8a8b8244',
+                ),
                 
                 //Block Templates ends
 
