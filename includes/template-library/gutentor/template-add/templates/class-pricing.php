@@ -53,16 +53,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_Pricing' ) ) {
 
             $block_library_list = array(
 
-                array(
-                    'title'             => __( 'Pricing', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'pricing', 'pricing 1' ),
-                    'categories'        => array( 'pricing' ),
-                    'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/pricing-page/pricing-1/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/pricing-page/pricing-1/pricing-template.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/pricing/',
-                ),
+                // array(
+                //     'title'             => __( 'Pricing', 'gutentor' ),
+                //     'type'              => 'template',
+                //     'author'            => __( 'CosmosWP', 'gutentor' ),
+                //     'keywords'          => array( 'pricing', 'pricing 1' ),
+                //     'categories'        => array( 'pricing' ),
+                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/pricing-page/pricing-1/template.json',
+                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/pricing-page/pricing-1/pricing-template.jpg',
+                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/pricing/',
+                // ),
                 
             );
 

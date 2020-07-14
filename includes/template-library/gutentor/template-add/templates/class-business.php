@@ -73,16 +73,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_Business' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/business/business-2/business-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/business-2/',
                 ),
-                array(
-                    'title'             => __( 'Business', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'business', 'business 3' ),
-                    'categories'        => array( 'business' ),
-                    'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/business/business-3/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/business/business-3/business-template.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1',
-                ),
+                // array(
+                //     'title'             => __( 'Business', 'gutentor' ),
+                //     'type'              => 'template',
+                //     'author'            => __( 'CosmosWP', 'gutentor' ),
+                //     'keywords'          => array( 'business', 'business 3' ),
+                //     'categories'        => array( 'business' ),
+                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/business/business-3/template.json',
+                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/business/business-3/business-template.jpg',
+                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1',
+                // ),
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );

@@ -73,16 +73,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_Multipurpose' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/multipurpose/multipurpose-2/multipurpose-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/multipurpose-2/',
                 ),
-                array(
-                    'title'             => __( 'Multipurpose', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'multipurpose', 'multipurpose 3' ),
-                    'categories'        => array( 'multipurpose' ),
-                    'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/multipurpose/multipurpose-3/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/multipurpose/multipurpose-3/multipurpose-template.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/',
-                ),
+                // array(
+                //     'title'             => __( 'Multipurpose', 'gutentor' ),
+                //     'type'              => 'template',
+                //     'author'            => __( 'CosmosWP', 'gutentor' ),
+                //     'keywords'          => array( 'multipurpose', 'multipurpose 3' ),
+                //     'categories'        => array( 'multipurpose' ),
+                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/multipurpose/multipurpose-3/template.json',
+                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/multipurpose/multipurpose-3/multipurpose-template.jpg',
+                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-3/',
+                // ),
                 
             );
 

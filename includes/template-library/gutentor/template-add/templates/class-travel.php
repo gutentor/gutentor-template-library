@@ -63,16 +63,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_Travel' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/travel/travel-1/travel-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/travel-1/',
                 ),
-                array(
-                    'title'             => __( 'Travel', 'gutentor' ),
-                    'type'              => 'template',
-                    'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array( 'travel', 'travel 2' ),
-                    'categories'        => array( 'travel' ),
-                    'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/travel/travel-2/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/travel/travel-2/travel-template.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-10/',
-                ),
+                // array(
+                //     'title'             => __( 'Travel', 'gutentor' ),
+                //     'type'              => 'template',
+                //     'author'            => __( 'CosmosWP', 'gutentor' ),
+                //     'keywords'          => array( 'travel', 'travel 2' ),
+                //     'categories'        => array( 'travel' ),
+                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/travel/travel-2/template.json',
+                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/travel/travel-2/travel-template.jpg',
+                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-10/',
+                // ),
                 
             );
 
