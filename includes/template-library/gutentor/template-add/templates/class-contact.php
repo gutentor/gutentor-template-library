@@ -53,16 +53,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Contact' ) ) {
 
             $block_library_list = array(
 
-                // array(
-                //     'title'             => __( 'Contact', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'contact', 'contact 1' ),
-                //     'categories'        => array( 'contact' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/contact-page/contact-1/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/contact-page/contact-1/contact.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/contact-us/',
-                // ),
+               
                 // array(
                 //     'title'             => __( 'Contact', 'gutentor' ),
                 //     'type'              => 'template',
