@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                 // ),
                 
                 array(
-                    'title'				=> __( 'Home', 'gutentor' ),
+                    'title'				=> __( 'Home 1', 'gutentor' ),
                     'type'				=> 'template',
                     'author'			=> __( 'CosmosWP', 'gutentor' ),
                     'keywords'			=> array( 'home-page', 'home page' ),
@@ -85,7 +85,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-1/',
                 ),
                 array(
-                    'title'				=> __( 'About', 'gutentor' ),
+                    'title'				=> __( 'About 1', 'gutentor' ),
                     'type'				=> 'template',
                     'author'			=> __( 'CosmosWP', 'gutentor' ),
                     'keywords'			=> array( 'about-page', 'about page' ),
