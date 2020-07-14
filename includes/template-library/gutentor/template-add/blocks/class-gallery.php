@@ -83,17 +83,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Gallery' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/gallery/gallery-2/gallery.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/gallery/#section-55f5836a-bcb5-4347-8878-5be8bc0e0bda',
 				),
-				// array(
-				// 	'title'				=> __( 'Gallery', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'gallery', 'gallery 3' ),
-				// 	'categories'		=> array( 'gallery' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/gallery/gallery-3/gutentor_gallery.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/gallery/gallery-3/gallery.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-2/#section-bb3df405-4baf-46f6-ac64-cc976a0ca1f6',
-				// ),
-                
+
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
