@@ -153,10 +153,10 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_2' ) ) {
                 ),
 
                 array(
-                    'title'				=> __( 'About 1', 'gutentor' ),
+                    'title'				=> __( 'About 2', 'gutentor' ),
                     'type'				=> 'template',
                     'author'			=> __( 'CosmosWP', 'gutentor' ),
-                    'keywords'			=> array( 'about-page', 'about page 1' ),
+                    'keywords'			=> array( 'about-page', 'about page 2' ),
                     'categories'		=> array( 'cosmoswp','about' ),
                     'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL.'demo-2/template-data/templates/about/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL.'demo-2/template-data/templates/about/screenshot.jpg',
