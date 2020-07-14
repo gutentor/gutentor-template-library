@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_2' ) ) {
+if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_3' ) ) {
 
     /**
      * Functions related to Demo 3
@@ -12,7 +12,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_2' ) ) {
      *
      */
 
-    class Gutentor_Template_Library_CosmosWP_Demo_2 extends Gutentor_Template_Library_Base{
+    class Gutentor_Template_Library_CosmosWP_Demo_3 extends Gutentor_Template_Library_Base{
 
         /**
          * Gets an instance of this object.
@@ -188,4 +188,4 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_2' ) ) {
         }
     }
 }
-Gutentor_Template_Library_CosmosWP_Demo_2::get_instance()->run();
+Gutentor_Template_Library_CosmosWP_Demo_3::get_instance()->run();
