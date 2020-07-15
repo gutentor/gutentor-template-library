@@ -1,39 +1,39 @@
 {
-    "clientId": "135b909e-5e23-4f06-9c19-3158077c6f48",
+    "clientId": "ac59089c-e261-4cc8-9da4-9a35bcc8f561",
     "name": "gutentor/icon-box",
     "isValid": true,
     "attributes": {
-        "blockID": "81a4b885-de6f-42dc-af04-a99314cb9a23",
+        "blockID": "2d473184-45b6-4c4d-8ab7-bc7a2d1c3732",
         "timestamp": 0,
         "gutentorBlockName": "gutentor/icon-box",
         "blockIconBoxTemplate": "icon-template2",
         "blockSortableItems": [
             {
                 "icon": {
-                    "label": "fa-user-clock",
-                    "value": "fas fa-user-clock",
-                    "code": "f4fd"
+                    "label": "fa-bell",
+                    "value": "far fa-bell",
+                    "code": "f0f3"
                 },
-                "title": "Doctors Round<br>the Clock ",
-                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. "
+                "title": " Online Course Facilities",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do "
             },
             {
                 "icon": {
-                    "label": "fa-heartbeat",
-                    "value": "fas fa-heartbeat",
-                    "code": "f21e"
+                    "label": "fa-book-open",
+                    "value": "fas fa-book-open",
+                    "code": "f518"
                 },
-                "title": "Extensive Cardiac<br>Support ",
-                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. "
+                "title": " Modern Book Library ",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do  "
             },
             {
                 "icon": {
-                    "label": "fa-pills",
-                    "value": "fas fa-pills",
-                    "code": "f484"
+                    "label": "fa-user-graduate",
+                    "value": "fas fa-user-graduate",
+                    "code": "f501"
                 },
-                "title": "Prescription of<br>Pharmacy ",
-                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. "
+                "title": " Be Industrial Leader ",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do "
             }
         ],
         "blockIconBoxIconSize": 50,
@@ -41,34 +41,34 @@
             "enable": true,
             "normal": {
                 "color": {
-                    "_originalInput": "#3498db",
-                    "_r": 52,
-                    "_g": 152,
-                    "_b": 219,
+                    "_originalInput": "#ff3169",
+                    "_r": 255,
+                    "_g": 49,
+                    "_b": 105,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 94
+                    "_tc_id": 27
                 },
-                "hex": "#3498db",
+                "hex": "#ff3169",
                 "hsl": {
-                    "h": 204,
-                    "s": 70,
-                    "l": 53,
+                    "h": 344,
+                    "s": 100,
+                    "l": 60,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 204,
-                    "s": 76,
-                    "v": 86,
+                    "h": 344,
+                    "s": 81,
+                    "v": 100,
                     "a": 1
                 },
-                "oldHue": 204,
+                "oldHue": 344,
                 "rgb": {
-                    "r": 52,
-                    "g": 152,
-                    "b": 219,
+                    "r": 255,
+                    "g": 49,
+                    "b": 105,
                     "a": 1
                 },
                 "source": "hex"
@@ -888,10 +888,10 @@
                 },
                 "source": "rgb"
             },
-            "boxShadowX": "0",
-            "boxShadowY": "0",
-            "boxShadowBlur": "20",
-            "boxShadowSpread": "1",
+            "boxShadowX": "",
+            "boxShadowY": "",
+            "boxShadowBlur": "",
+            "boxShadowSpread": "",
             "boxShadowPosition": ""
         },
         "blockSingleItemBoxMargin": {
@@ -980,34 +980,34 @@
             },
             "hover": {
                 "color": {
-                    "_originalInput": "#297cb4",
-                    "_r": 41,
-                    "_g": 124,
-                    "_b": 180,
+                    "_originalInput": "#202c45",
+                    "_r": 32,
+                    "_g": 44,
+                    "_b": 69,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 43
+                    "_tc_id": 3
                 },
-                "hex": "#297cb4",
+                "hex": "#202c45",
                 "hsl": {
-                    "h": 204,
-                    "s": 63,
-                    "l": 43,
+                    "h": 221,
+                    "s": 37,
+                    "l": 20,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 204,
-                    "s": 77,
-                    "v": 71,
+                    "h": 221,
+                    "s": 54,
+                    "v": 27,
                     "a": 1
                 },
-                "oldHue": 204,
+                "oldHue": 221,
                 "rgb": {
-                    "r": 41,
-                    "g": 124,
-                    "b": 180,
+                    "r": 32,
+                    "g": 44,
+                    "b": 69,
                     "a": 1
                 },
                 "source": "hex"
@@ -1017,34 +1017,34 @@
             "enable": true,
             "normal": {
                 "color": {
-                    "_originalInput": "#3498db",
-                    "_r": 52,
-                    "_g": 152,
-                    "_b": 219,
+                    "_originalInput": "#202c45",
+                    "_r": 32,
+                    "_g": 44,
+                    "_b": 69,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 16
+                    "_tc_id": 32
                 },
-                "hex": "#3498db",
+                "hex": "#202c45",
                 "hsl": {
-                    "h": 204,
-                    "s": 70,
-                    "l": 53,
+                    "h": 221,
+                    "s": 37,
+                    "l": 20,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 204,
-                    "s": 76,
-                    "v": 86,
+                    "h": 221,
+                    "s": 54,
+                    "v": 27,
                     "a": 1
                 },
-                "oldHue": 204,
+                "oldHue": 221,
                 "rgb": {
-                    "r": 52,
-                    "g": 152,
-                    "b": 219,
+                    "r": 32,
+                    "g": 44,
+                    "b": 69,
                     "a": 1
                 },
                 "source": "hex"
@@ -1094,7 +1094,7 @@
             "tabletRight": "",
             "tabletBottom": "",
             "tabletLeft": "",
-            "mobileTop": "",
+            "mobileTop": "15",
             "mobileRight": "",
             "mobileBottom": "",
             "mobileLeft": ""
@@ -1156,34 +1156,34 @@
             "borderLeft": "1",
             "borderColorNormal": {
                 "color": {
-                    "_originalInput": "#3498db",
-                    "_r": 52,
-                    "_g": 152,
-                    "_b": 219,
+                    "_originalInput": "#202c45",
+                    "_r": 32,
+                    "_g": 44,
+                    "_b": 69,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 33
+                    "_tc_id": 37
                 },
-                "hex": "#3498db",
+                "hex": "#202c45",
                 "hsl": {
-                    "h": 204,
-                    "s": 70,
-                    "l": 53,
+                    "h": 221,
+                    "s": 37,
+                    "l": 20,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 204,
-                    "s": 76,
-                    "v": 86,
+                    "h": 221,
+                    "s": 54,
+                    "v": 27,
                     "a": 1
                 },
-                "oldHue": 204,
+                "oldHue": 221,
                 "rgb": {
-                    "r": 52,
-                    "g": 152,
-                    "b": 219,
+                    "r": 32,
+                    "g": 44,
+                    "b": 69,
                     "a": 1
                 },
                 "source": "hex"
@@ -1239,12 +1239,10 @@
         "blockSingleItemButtonTypography": {
             "fontType": "google",
             "systemFont": "",
-            "googleFont": "Open+Sans",
+            "googleFont": "Roboto",
             "customFont": "",
-            "desktopFontSize": "14",
-            "tabletFontSize": "14",
             "mobileFontSize": "14",
-            "fontWeight": "600",
+            "fontWeight": "500",
             "textTransform": "normal",
             "fontStyle": "",
             "textDecoration": "",
@@ -1253,7 +1251,7 @@
             "mobileLineHeight": "",
             "desktopLetterSpacing": "",
             "tabletLetterSpacing": "",
-            "mobileLetterSpacing": ""
+            "mobileLetterSpacing": 1
         },
         "blockSingleItemButtonIcon": {
             "label": "fa-book",
@@ -1270,34 +1268,34 @@
             "enable": true,
             "normal": {
                 "color": {
-                    "_originalInput": "#5f666d",
-                    "_r": 95,
+                    "_originalInput": "#666666",
+                    "_r": 102,
                     "_g": 102,
-                    "_b": 109,
+                    "_b": 102,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 14
+                    "_tc_id": 13
                 },
-                "hex": "#5f666d",
+                "hex": "#666666",
                 "hsl": {
-                    "h": 210,
-                    "s": 7,
+                    "h": 0,
+                    "s": 0,
                     "l": 40,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 210,
-                    "s": 13,
-                    "v": 43,
+                    "h": 0,
+                    "s": 0,
+                    "v": 40,
                     "a": 1
                 },
-                "oldHue": 210,
+                "oldHue": 0,
                 "rgb": {
-                    "r": 95,
+                    "r": 102,
                     "g": 102,
-                    "b": 109,
+                    "b": 102,
                     "a": 1
                 },
                 "source": "hex"
@@ -1307,18 +1305,18 @@
         "blockSingleItemDescriptionTypography": {
             "fontType": "google",
             "systemFont": "",
-            "googleFont": "Open+Sans",
+            "googleFont": "Roboto",
             "customFont": "",
             "desktopFontSize": "",
             "tabletFontSize": "",
-            "mobileFontSize": 14,
+            "mobileFontSize": 15,
             "fontWeight": "regular",
             "textTransform": "",
             "fontStyle": "",
             "textDecoration": "",
             "desktopLineHeight": "",
             "tabletLineHeight": "",
-            "mobileLineHeight": 2,
+            "mobileLineHeight": 1.5,
             "desktopLetterSpacing": "",
             "tabletLetterSpacing": "",
             "mobileLetterSpacing": ""
@@ -1360,34 +1358,34 @@
             "enable": true,
             "normal": {
                 "color": {
-                    "_originalInput": "#0f4469",
-                    "_r": 15,
-                    "_g": 68,
-                    "_b": 105,
+                    "_originalInput": "#202c45",
+                    "_r": 32,
+                    "_g": 44,
+                    "_b": 69,
                     "_a": 1,
                     "_roundA": 1,
                     "_format": "hex",
                     "_ok": true,
-                    "_tc_id": 9
+                    "_tc_id": 7
                 },
-                "hex": "#0f4469",
+                "hex": "#202c45",
                 "hsl": {
-                    "h": 205,
-                    "s": 75,
-                    "l": 24,
+                    "h": 221,
+                    "s": 37,
+                    "l": 20,
                     "a": 1
                 },
                 "hsv": {
-                    "h": 205,
-                    "s": 86,
-                    "v": 41,
+                    "h": 221,
+                    "s": 54,
+                    "v": 27,
                     "a": 1
                 },
-                "oldHue": 205,
+                "oldHue": 221,
                 "rgb": {
-                    "r": 15,
-                    "g": 68,
-                    "b": 105,
+                    "r": 32,
+                    "g": 44,
+                    "b": 69,
                     "a": 1
                 },
                 "source": "hex"
@@ -1397,7 +1395,7 @@
         "blockSingleItemTitleTypography": {
             "fontType": "google",
             "systemFont": "",
-            "googleFont": "Open+Sans",
+            "googleFont": "Roboto",
             "customFont": "",
             "desktopFontSize": "",
             "tabletFontSize": "",
@@ -1452,43 +1450,37 @@
         "blockComponentBGType": "color",
         "blockComponentBGColor": {
             "color": {
-                "_originalInput": {
-                    "h": 198,
-                    "s": 100,
-                    "l": 32,
-                    "a": 0,
-                    "source": "rgb"
-                },
-                "_r": 0,
-                "_g": 114.23999999999994,
-                "_b": 163.20000000000002,
-                "_a": 0,
-                "_roundA": 0,
-                "_format": "hsl",
+                "_originalInput": "#fcfcfc",
+                "_r": 252,
+                "_g": 252,
+                "_b": 252,
+                "_a": 1,
+                "_roundA": 1,
+                "_format": "hex",
                 "_ok": true,
-                "_tc_id": 6
+                "_tc_id": 11
             },
-            "hex": "#0072a3",
+            "hex": "#fcfcfc",
             "hsl": {
-                "h": 198,
-                "s": 100,
-                "l": 32,
-                "a": 0
+                "h": 0,
+                "s": 0,
+                "l": 99,
+                "a": 1
             },
             "hsv": {
-                "h": 198,
-                "s": 100,
-                "v": 64,
-                "a": 0
+                "h": 0,
+                "s": 0,
+                "v": 99,
+                "a": 1
             },
-            "oldHue": 198,
+            "oldHue": 0,
             "rgb": {
-                "r": 0,
-                "g": 114,
-                "b": 163,
-                "a": 0
+                "r": 252,
+                "g": 252,
+                "b": 252,
+                "a": 1
             },
-            "source": "rgb"
+            "source": "hex"
         },
         "blockComponentBGVideoLoop": true,
         "blockComponentBGVideoMuted": true,
@@ -1516,28 +1508,28 @@
             "desktopRight": "",
             "desktopBottom": "",
             "desktopLeft": "",
-            "tabletTop": "-100",
+            "tabletTop": "",
             "tabletRight": "",
             "tabletBottom": "",
             "tabletLeft": "",
-            "mobileTop": "0",
+            "mobileTop": "",
             "mobileRight": "",
             "mobileBottom": "",
             "mobileLeft": ""
         },
         "blockComponentPadding": {
             "type": "px",
-            "desktopTop": "",
+            "desktopTop": "60",
             "desktopRight": "",
-            "desktopBottom": "",
+            "desktopBottom": "60",
             "desktopLeft": "",
-            "tabletTop": "0",
+            "tabletTop": "40",
             "tabletRight": "",
-            "tabletBottom": "0",
+            "tabletBottom": "40",
             "tabletLeft": "",
-            "mobileTop": "40",
+            "mobileTop": "15",
             "mobileRight": "",
-            "mobileBottom": "40",
+            "mobileBottom": "15",
             "mobileLeft": ""
         },
         "blockComponentBoxShadowOptions": {
@@ -3021,5 +3013,5 @@
     },
     "innerBlocks": [],
     "validationIssues": [],
-    "originalContent": "<section id=\"section-81a4b885-de6f-42dc-af04-a99314cb9a23\" class=\"wp-block-gutentor-icon-box gutentor-section gutentor-icon-wrapper icon-template2 has-color-bg has-custom-bg text-left\"><style>\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-grid-item-wrap{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-grid-item-wrap{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-grid-item-wrap{\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-title{\ncolor: #0f4469;\nfont-family: Open Sans;font-size: 18px;font-weight: 700;\nmargin: 30px 0px 15px 0px;\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item:hover .gutentor-single-item-title{\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-title{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-title{\n\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23{\nbackground-color: rgba(0, 114, 163, 0);\n\n\nmargin: 0px 0px 0px 0px;\npadding: 40px 0px 40px 0px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg path,\n            #section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg polygon{\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg path,\n              #section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg polygon{\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23:hover{\n\n}\n\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23{\nmargin: -100px 0px 0px 0px;\npadding: 0px 0px 0px 0px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23{\n\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-top svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-shape-bottom svg{\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button{\ncolor: #3498db;\nbackground-color: rgba(40, 91, 246, 0);\n\npadding: 15px 30px 15px 30px;\nborder-style: solid;border-width: 1px 1px 1px 1px ;border-color: rgba(52, 152, 219, 1);border-top-left-radius: 50px;border-top-right-radius: 50px;border-bottom-right-radius: 50px;border-bottom-left-radius: 50px;\n\nfont-family: Open Sans;font-size: 14px;font-weight: 600;text-transform: normal;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button:hover{\ncolor: #ffffff;\nborder-color: rgba(41, 124, 180, 1);\nbackground-color: rgba(41, 124, 180, 1);\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button .gutentor-button-icon{\n\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button{\n\n\nfont-size: 14px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button .gutentor-button-icon{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button{\n\n\nfont-size: 14px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-button .gutentor-button-icon{\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item{\nbackground: #ffffff;\nborder-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-right-radius: 3px;border-bottom-left-radius: 3px;\nbox-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.06) ;\n\npadding: 40px 40px 40px 40px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item:hover{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item {\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item {\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-desc{\ncolor: #5f666d;\nfont-family: Open Sans;font-size: 14px;font-weight: 400;line-height: 2;\n\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item:hover .gutentor-single-item-desc{\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-image-box{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-image-box{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item-image-box{\n\n\n}\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item .gutentor-single-item-icon-box{\ncolor: #3498db;\nfont-size: 50px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-single-item:hover .gutentor-single-item-icon-box{\n\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button{\ncolor: #fff;\nbackground-color: rgba(39, 92, 246, 1);\n\npadding: 12px 25px 12px 25px;\nborder-width: 0px 0px 0px 0px ;border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-right-radius: 3px;border-bottom-left-radius: 3px;\n\nfont-size: 16px;text-transform: normal;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button:hover{\n\n\nbackground-color: rgba(25, 73, 212, 1);\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button .gutentor-button-icon{\n\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button{\n\npadding: 12px 25px 12px 25px;\nfont-size: 16px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button .gutentor-button-icon{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button{\n\npadding: 12px 25px 12px 25px;\nfont-size: 16px;\n}\n#section-81a4b885-de6f-42dc-af04-a99314cb9a23 .gutentor-block-button .gutentor-button-icon{\n\n\n}\n}</style><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"fas fa-user-clock\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Doctors Round<br>the Clock </h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"fas fa-heartbeat\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Extensive Cardiac<br>Support </h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"fas fa-pills\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Prescription of<br>Pharmacy </h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt. </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div></div></div></section>"
+    "originalContent": "<section id=\"section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732\" class=\"wp-block-gutentor-icon-box gutentor-section gutentor-icon-wrapper icon-template2 has-color-bg has-custom-bg text-left\"><style>\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-grid-item-wrap{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-grid-item-wrap{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-grid-item-wrap{\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-title{\ncolor: #202c45;\nfont-family: Roboto;font-size: 18px;font-weight: 700;\nmargin: 30px 0px 15px 0px;\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item:hover .gutentor-single-item-title{\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-title{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-title{\n\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732{\nbackground-color: rgba(252, 252, 252, 1);\n\n\n\npadding: 15px 0px 15px 0px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg path,\n            #section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg polygon{\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg path,\n              #section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg polygon{\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732:hover{\n\n}\n\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732{\n\npadding: 40px 0px 40px 0px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732{\n\npadding: 60px 0px 60px 0px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-top svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-shape-bottom svg{\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button{\ncolor: #202c45;\nbackground-color: rgba(40, 91, 246, 0);\nmargin: 15px 0px 0px 0px;\npadding: 15px 30px 15px 30px;\nborder-style: solid;border-width: 1px 1px 1px 1px ;border-color: rgba(32, 44, 69, 1);border-top-left-radius: 50px;border-top-right-radius: 50px;border-bottom-right-radius: 50px;border-bottom-left-radius: 50px;\n\nfont-family: Roboto;font-size: 14px;font-weight: 500;text-transform: normal;letter-spacing: 1px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button:hover{\ncolor: #ffffff;\nborder-color: rgba(41, 124, 180, 1);\nbackground-color: rgba(32, 44, 69, 1);\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button .gutentor-button-icon{\n\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button{\n\n\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button .gutentor-button-icon{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button{\n\n\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-button .gutentor-button-icon{\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item{\nbackground: #ffffff;\nborder-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-right-radius: 3px;border-bottom-left-radius: 3px;\n\n\npadding: 40px 40px 40px 40px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item:hover{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item {\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item {\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-desc{\ncolor: #666666;\nfont-family: Roboto;font-size: 15px;font-weight: 400;line-height: 1.5;\n\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item:hover .gutentor-single-item-desc{\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-image-box{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-image-box{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item-image-box{\n\n\n}\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item .gutentor-single-item-icon-box{\ncolor: #ff3169;\nfont-size: 50px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-single-item:hover .gutentor-single-item-icon-box{\n\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button{\ncolor: #fff;\nbackground-color: rgba(39, 92, 246, 1);\n\npadding: 12px 25px 12px 25px;\nborder-width: 0px 0px 0px 0px ;border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-right-radius: 3px;border-bottom-left-radius: 3px;\n\nfont-size: 16px;text-transform: normal;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button:hover{\n\n\nbackground-color: rgba(25, 73, 212, 1);\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button .gutentor-button-icon{\n\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button{\n\npadding: 12px 25px 12px 25px;\nfont-size: 16px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button .gutentor-button-icon{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button{\n\npadding: 12px 25px 12px 25px;\nfont-size: 16px;\n}\n#section-2d473184-45b6-4c4d-8ab7-bc7a2d1c3732 .gutentor-block-button .gutentor-button-icon{\n\n\n}\n}</style><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"far fa-bell\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\"> Online Course Facilities</h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"fas fa-book-open\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\"> Modern Book Library </h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do  </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div><div class=\"gutentor-grid-column grid-lg-4 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-icon gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-icon-box\"><i class=\"fas fa-user-graduate\"></i></div><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\"> Be Industrial Leader </h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do </p><a class=\"gutentor-button gutentor-single-item-button gutentor-icon-hide\" href=\"#\"><i class=\"gutentor-button-icon fas fa-book\"></i><span>Read More</span></a></div></div></div></div></div></div></section>"
 }

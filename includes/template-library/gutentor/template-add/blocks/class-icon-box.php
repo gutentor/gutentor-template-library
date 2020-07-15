@@ -93,16 +93,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 					'demo_url'    => 'https://www.demo.gutentor.com/free-block-demo/icon-box/#section-971dbb03-7d2f-4f25-84ad-72a8c94d6c3a',
 				),
 
-				// array(
-				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'icon-box', 'icon-box 9' ),
-				// 	'categories'		=> array( 'icon-box' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-9/gutentor_icon-box.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-9/icon-box.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-319f93aa-d8a0-48ad-afc2-8b091c271162',
-				// ),
+		
 				// array(
 				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
 				// 	'type'				=> 'block',

@@ -62,7 +62,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
 					'categories'		=> array( 'cosmoswp','advanced-columns' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/advance-column/advance-column-1/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/advance-column/advance-column-1/screenshot.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/doctors/#section-64135dc2-614e-4739-8edd-60bbee9277cf',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-a9360b40-5b13-4e4c-9cc0-f6d1fbcd0b84',
 				),
                 array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
@@ -72,7 +72,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
 					'categories'		=> array( 'cosmoswp','advanced-columns' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/advance-column/advance-column-2/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/advance-column/advance-column-2/screenshot.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/contact/#section-e7c7e381-46b1-4209-a952-f7a7606ecd05',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/contact/#section-88d08964-cfa4-48e3-b0f4-c8a5323d5eba',
                 ),
             
                 array(
@@ -83,18 +83,18 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
 					'categories'		=> array( 'cosmoswp','icon-box' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/icon-box/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/icon-box/screenshot.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-ce465975-1e18-444c-9d80-411189985950',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-3fdb569c-72a1-4fee-9836-4749ce304793',
                 ),
                 array(
-					'title'				=> __( 'Team', 'gutentor' ),
+					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
 					'type'				=> 'block',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
-					'keywords'			=> array( 'team' ),
-					'categories'		=> array( 'cosmoswp','team' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/team/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/team/screenshot.jpg',
-					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-a027f102-3313-40a0-9fed-024d79b6ac68',
-                ),
+					'keywords'			=> array( 'restaurant-menu' ),
+					'categories'		=> array( 'cosmoswp','restaurant-menu' ),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restauranrt-menu/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restauranrt-menu/screenshot.jpg',
+					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-0eff7c83-90cb-44ca-b56a-b42633b4b5b0',
+				),
 
                         
 
