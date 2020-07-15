@@ -54,17 +54,6 @@ if ( ! class_exists( 'Gutentor_Template_Library_About' ) ) {
             $block_library_list = array(
 
 
-   
-                // array(
-                //     'title'             => __( 'About', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'about', 'about 7' ),
-                //     'categories'        => array( 'about' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/about-page/about-7/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/about-page/about-7/about.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/about/',
-                // ),
                 // array(
                 //     'title'             => __( 'About', 'gutentor' ),
                 //     'type'              => 'template',

@@ -97,8 +97,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_9' ) ) {
                     'title'             => __('Home 9', 'gutentor' ),
                     'type'              => 'template',
                     'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array('photography','home','home 9' ),
-                    'categories'        => array( 'cosmoswp', 'photography' ),
+                    'keywords'          => array('construction','home','home 9' ),
+                    'categories'        => array( 'cosmoswp', 'construction' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/',
@@ -113,6 +113,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_9' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/about/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/about/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/about/',
+                ),
+                array(
+                    'title'             => __( 'Service 9', 'gutentor' ),
+                    'type'              => 'template',
+                    'author'            => __( 'CosmosWP', 'gutentor' ),
+                    'keywords'          => array('service', 'service 9' ),
+                    'categories'        => array('cosmoswp', 'service' ),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/service/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-9/template-data/templates/service/screenshot.jpg',
+                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/services/',
                 ),
                 
                 array(
