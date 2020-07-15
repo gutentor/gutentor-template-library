@@ -63,16 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Construction' ) ) {
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/construction/construction-1/construction-template.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/templates/construction-1/',
 				),
-                // array(
-                //     'title'             => __( 'Construction', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'construction', 'construction 2' ),
-                //     'categories'        => array( 'construction' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/construction/construction-2/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/construction/construction-2/construction-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/',
-                // ),
+        
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
