@@ -53,16 +53,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Photography' ) ) {
 
             $block_library_list = array(
 
-                // array(
-                //     'title'             => __( 'Photography', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'photography', 'photography 1' ),
-                //     'categories'        => array( 'photography' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/photography/photography-1/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/photography/photography-1/photography-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-8/',
-                // ),
+          
                 
             );
 
