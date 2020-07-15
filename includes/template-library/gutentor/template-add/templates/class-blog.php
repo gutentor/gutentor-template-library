@@ -53,16 +53,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Blog' ) ) {
 
             $block_library_list = array(
 
-                // array(
-                //     'title'             => __( 'Blog', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'blog', 'blog 1' ),
-                //     'categories'        => array( 'blog' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/blog/blog-1/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/blog/blog-1/blog-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-7/',
-                // ),
+              
                 
             );
 
