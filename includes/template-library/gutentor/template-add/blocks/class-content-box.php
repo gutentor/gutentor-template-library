@@ -63,17 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Content_Box' ) ) {
             $block_library_list = array(
 
                 
-				// array(
-				// 	'title'				=> __( 'Content Box', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'content-box', 'content-box 1' ),
-				// 	'categories'		=> array( 'content-box' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/content-box/content-box-1/gutentor_content-box.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/content-box/content-box-1/content-box.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-9/#section-447d7b44-aa4b-40f2-9eaa-206a2ef5f561',
-				// ),
-				
+		
                 
             );
 
