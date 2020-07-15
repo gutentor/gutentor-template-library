@@ -91,8 +91,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'restaurant-menu' ),
 					'categories'		=> array( 'cosmoswp','restaurant-menu' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restauranrt-menu/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restauranrt-menu/screenshot.jpg',
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restaurant-menu/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-6/template-data/modules/restaurant-menu/screenshot.jpg',
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-6/#section-0eff7c83-90cb-44ca-b56a-b42633b4b5b0',
 				),
 
