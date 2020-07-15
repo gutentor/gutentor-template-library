@@ -120,8 +120,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_10' ) ) {
                     'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array('list', 'list 1' ),
                     'categories'        => array('cosmoswp', 'list' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/screenshot.jpg',
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/list-1/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/list-1/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-10/destinations/',
                 ),
                 array(
@@ -130,8 +130,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_10' ) ) {
                     'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array('list', 'list 2' ),
                     'categories'        => array('cosmoswp', 'list' ),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/screenshot.jpg',
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/list-2/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-10/template-data/templates/list-page/list-2/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-10/tours/',
                 ),
                 
