@@ -1,9 +1,9 @@
 {
-    "clientId": "ce9a5791-838e-4ca5-ad71-3fb54b5dd6c4",
+    "clientId": "9bcf7036-9471-44d6-b5df-ca32b5027b76",
     "name": "gutentor/advanced-columns",
     "isValid": true,
     "attributes": {
-        "blockID": "4d22afa1-3f4c-4451-9a24-686b0fc53b6b",
+        "blockID": "ae55e8b6-1aaf-4560-901a-f227ca9e1c54",
         "timestamp": 0,
         "gutentorBlockName": "gutentor/advanced-columns",
         "columns": 2,
@@ -71,8 +71,7 @@
             "Animation": "none",
             "Delay": "",
             "Speed": "",
-            "IterationType": "1",
-            "Iteration": "1"
+            "Iteration": ""
         },
         "blockComponentTitleDesignEnable": true,
         "blockComponentTitleSeperatorPosition": "seperator-bottom",
@@ -137,8 +136,7 @@
             "Animation": "none",
             "Delay": "",
             "Speed": "",
-            "IterationType": "1",
-            "Iteration": "1"
+            "Iteration": ""
         },
         "blockComponentSubTitleDesignEnable": false,
         "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
@@ -714,8 +712,7 @@
             "Animation": "none",
             "Delay": "",
             "Speed": "",
-            "IterationType": "1",
-            "Iteration": "1"
+            "Iteration": ""
         },
         "blockItemsColumn": {
             "desktop": "grid-lg-4",
@@ -908,7 +905,7 @@
             "boxShadowPosition": ""
         },
         "blockSingleItemButtonTypography": {
-            "fontType": "default",
+            "fontType": "system",
             "systemFont": "",
             "googleFont": "",
             "customFont": "",
@@ -1052,16 +1049,15 @@
             "Animation": "none",
             "Delay": "",
             "Speed": "",
-            "IterationType": "1",
-            "Iteration": "1"
+            "Iteration": ""
         },
         "blockComponentBGType": "color",
         "blockComponentBGColor": {
             "color": {
                 "_originalInput": {
-                    "h": 198,
+                    "h": 300,
                     "s": 0,
-                    "v": 133.80916449019713,
+                    "v": 129.30127589150416,
                     "a": 1,
                     "source": "rgb"
                 },
@@ -1072,22 +1068,22 @@
                 "_roundA": 1,
                 "_format": "hsv",
                 "_ok": true,
-                "_tc_id": 5
+                "_tc_id": 9
             },
             "hex": "#ffffff",
             "hsl": {
-                "h": 198,
+                "h": 300,
                 "s": 0,
                 "l": 100,
                 "a": 1
             },
             "hsv": {
-                "h": 198,
+                "h": 300,
                 "s": 0,
                 "v": 100,
                 "a": 1
             },
-            "oldHue": 198,
+            "oldHue": 300,
             "rgb": {
                 "r": 255,
                 "g": 255,
@@ -1193,12 +1189,12 @@
         "blockShapeBottomPosition": "",
         "blockComponentEnablePosition": false,
         "blockComponentEnableContentVerticalAlign": false,
-        "blockComponentContentVerticalAlignMobile": "gutentor-content-no-valign",
-        "blockComponentContentVerticalAlignTablet": "gutentor-content-no-valign",
-        "blockComponentContentVerticalAlignDesktop": "gutentor-content-no-valign",
-        "blockComponentPositionTypeDesktop": "gutentor-position-default",
-        "blockComponentPositionTypeTablet": "gutentor-position-default",
-        "blockComponentPositionTypeMobile": "gutentor-position-default",
+        "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+        "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+        "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+        "blockComponentPositionTypeDesktop": "g-pos-d",
+        "blockComponentPositionTypeTablet": "g-pos-d",
+        "blockComponentPositionTypeMobile": "g-pos-d",
         "blockComponentPositionDesktop": {
             "type": "px",
             "top": "",
@@ -1280,8 +1276,10 @@
             }
         ],
         "blockSocialIconColorInsideRepeater": {
-            "enable": false,
-            "normal": "",
+            "enable": true,
+            "normal": {
+                "hex": "#275cf6"
+            },
             "hover": ""
         },
         "blockSocialInsideRepeaterIconWidthEnable": true,
@@ -3182,11 +3180,11 @@
     },
     "innerBlocks": [
         {
-            "clientId": "29eb8744-2373-42fb-a079-cfdfc1aa842b",
+            "clientId": "da61f89f-ebab-43f3-bc50-61063509d97b",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
-                "blockID": "af669b8c-ae55-4db7-81a8-49c0b9b286a6",
+                "blockID": "e0620a5f-1c06-4ab8-b7c6-8f90297ce6dd",
                 "timestamp": 0,
                 "gutentorBlockName": "gutentor/single-column",
                 "columns": 2,
@@ -3256,8 +3254,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentTitleDesignEnable": true,
                 "blockComponentTitleSeperatorPosition": "seperator-bottom",
@@ -3322,8 +3319,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentSubTitleDesignEnable": false,
                 "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
@@ -3899,8 +3895,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockItemsColumn": {
                     "desktop": "grid-lg-4",
@@ -4093,7 +4088,7 @@
                     "boxShadowPosition": ""
                 },
                 "blockSingleItemButtonTypography": {
-                    "fontType": "default",
+                    "fontType": "system",
                     "systemFont": "",
                     "googleFont": "",
                     "customFont": "",
@@ -4237,8 +4232,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentBGVideoLoop": true,
                 "blockComponentBGVideoMuted": true,
@@ -4337,12 +4331,12 @@
                 "blockShapeBottomPosition": "",
                 "blockComponentEnablePosition": false,
                 "blockComponentEnableContentVerticalAlign": false,
-                "blockComponentContentVerticalAlignMobile": "gutentor-content-no-valign",
-                "blockComponentContentVerticalAlignTablet": "gutentor-content-no-valign",
-                "blockComponentContentVerticalAlignDesktop": "gutentor-content-no-valign",
-                "blockComponentPositionTypeDesktop": "gutentor-position-default",
-                "blockComponentPositionTypeTablet": "gutentor-position-default",
-                "blockComponentPositionTypeMobile": "gutentor-position-default",
+                "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+                "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+                "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+                "blockComponentPositionTypeDesktop": "g-pos-d",
+                "blockComponentPositionTypeTablet": "g-pos-d",
+                "blockComponentPositionTypeMobile": "g-pos-d",
                 "blockComponentPositionDesktop": {
                     "type": "px",
                     "top": "",
@@ -4424,8 +4418,10 @@
                     }
                 ],
                 "blockSocialIconColorInsideRepeater": {
-                    "enable": false,
-                    "normal": "",
+                    "enable": true,
+                    "normal": {
+                        "hex": "#275cf6"
+                    },
                     "hover": ""
                 },
                 "blockSocialInsideRepeaterIconWidthEnable": true,
@@ -6326,11 +6322,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "fee3acc2-b1dd-487c-8a4f-2af35bcae328",
+                    "clientId": "00ddddf0-66bb-4d4a-abc8-dd989aa27ea8",
                     "name": "gutentor/tabs",
                     "isValid": true,
                     "attributes": {
-                        "blockID": "a40369cc-e386-47d7-9c5b-0904a4d94d76",
+                        "blockID": "8f1fd80e-f795-448c-89f6-411b6adb5c30",
                         "timestamp": 0,
                         "gutentorBlockName": "gutentor/tabs",
                         "blockSortableItems": [
@@ -6395,7 +6391,40 @@
                         },
                         "blockTabListBgColor": {
                             "enable": false,
-                            "normal": "",
+                            "normal": {
+                                "color": {
+                                    "_originalInput": "#fbf6fb",
+                                    "_r": 251,
+                                    "_g": 246,
+                                    "_b": 251,
+                                    "_a": 1,
+                                    "_roundA": 1,
+                                    "_format": "hex",
+                                    "_ok": true,
+                                    "_tc_id": 16
+                                },
+                                "hex": "#fbf6fb",
+                                "hsl": {
+                                    "h": 300,
+                                    "s": 38,
+                                    "l": 97,
+                                    "a": 1
+                                },
+                                "hsv": {
+                                    "h": 300,
+                                    "s": 2,
+                                    "v": 98,
+                                    "a": 1
+                                },
+                                "oldHue": 300,
+                                "rgb": {
+                                    "r": 251,
+                                    "g": 246,
+                                    "b": 251,
+                                    "a": 1
+                                },
+                                "source": "hex"
+                            },
                             "hover": ""
                         },
                         "blockTabListTextColor": {
@@ -6823,8 +6852,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentTitleDesignEnable": false,
                         "blockComponentTitleSeperatorPosition": "seperator-bottom",
@@ -6889,8 +6917,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentSubTitleDesignEnable": false,
                         "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
@@ -7378,8 +7405,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockSingleItemBoxColor": {
                             "enable": true,
@@ -7565,7 +7591,7 @@
                             "boxShadowPosition": ""
                         },
                         "blockSingleItemButtonTypography": {
-                            "fontType": "default",
+                            "fontType": "system",
                             "systemFont": "",
                             "googleFont": "",
                             "customFont": "",
@@ -7709,8 +7735,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentBGVideoLoop": true,
                         "blockComponentBGVideoMuted": true,
@@ -7809,12 +7834,12 @@
                         "blockShapeBottomPosition": "",
                         "blockComponentEnablePosition": false,
                         "blockComponentEnableContentVerticalAlign": false,
-                        "blockComponentContentVerticalAlignMobile": "gutentor-content-no-valign",
-                        "blockComponentContentVerticalAlignTablet": "gutentor-content-no-valign",
-                        "blockComponentContentVerticalAlignDesktop": "gutentor-content-no-valign",
-                        "blockComponentPositionTypeDesktop": "gutentor-position-default",
-                        "blockComponentPositionTypeTablet": "gutentor-position-default",
-                        "blockComponentPositionTypeMobile": "gutentor-position-default",
+                        "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+                        "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+                        "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+                        "blockComponentPositionTypeDesktop": "g-pos-d",
+                        "blockComponentPositionTypeTablet": "g-pos-d",
+                        "blockComponentPositionTypeMobile": "g-pos-d",
                         "blockComponentPositionDesktop": {
                             "type": "px",
                             "top": "",
@@ -7879,18 +7904,18 @@
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<section id=\"section-a40369cc-e386-47d7-9c5b-0904a4d94d76\" class=\"wp-block-gutentor-tabs gutentor-section gutentor-tabs-wrapper tabs-template1 tab-horizontal\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"gutentor-block-header\"><div class=\"gutentor-section-title text-left\"><h2 class=\"gutentor-title\">Our Services</h2></div></div><div class=\"gutentor-tabs-container gutentor-grid-item-wrap\"><div class=\"gutentor-tabs tablist-left\"><span class=\"gutentor-tabs-list gutentor-single-item-0 gutentor-tab-active\" data-index=\"gutentor-single-item-0\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Web Design</div></span><span class=\"gutentor-tabs-list gutentor-single-item-1\" data-index=\"gutentor-single-item-1\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Graphic Design</div></span><span class=\"gutentor-tabs-list gutentor-single-item-2\" data-index=\"gutentor-single-item-2\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Marketing</div></span></div><div class=\"gutentor-tabs-content-wrap text-left\"><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-0 gutentor-tab-content-active\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-1\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-2\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div></div></div></div></section>"
+                    "originalContent": "<section id=\"section-8f1fd80e-f795-448c-89f6-411b6adb5c30\" class=\"wp-block-gutentor-tabs gutentor-section gutentor-tabs-wrapper tabs-template1 tab-horizontal\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"gutentor-block-header\"><div class=\"gutentor-section-title text-left\"><h2 class=\"gutentor-title\">Our Services</h2></div></div><div class=\"gutentor-tabs-container gutentor-grid-item-wrap\"><div class=\"gutentor-tabs tablist-left\"><span class=\"gutentor-tabs-list gutentor-single-item-0 gutentor-tab-active\" data-index=\"gutentor-single-item-0\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Web Design</div></span><span class=\"gutentor-tabs-list gutentor-single-item-1\" data-index=\"gutentor-single-item-1\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Graphic Design</div></span><span class=\"gutentor-tabs-list gutentor-single-item-2\" data-index=\"gutentor-single-item-2\"><div class=\"gutentor-single-item-tabs gutentor-single-item\">Marketing</div></span></div><div class=\"gutentor-tabs-content-wrap text-left\"><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-0 gutentor-tab-content-active\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-1\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div><div class=\"gutentor-single-item gutentor-tabs-content gutentor-single-item-2\"><div class=\"gutentor-single-item-tabs gutentor-single-item\"><div class=\"gutentor-single-item-content\"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do  eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad  minim  veniam            </p></div></div></div></div></div></div></section>"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div id=\"section-af669b8c-ae55-4db7-81a8-49c0b9b286a6\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-7 grid-md-12 grid-12\"><style>\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-section-title .gutentor-title{\n\n\ncolor: #111111;\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-grid-item-wrap{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-grid-item-wrap{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-grid-item-wrap{\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title,\n            #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item:hover .gutentor-single-item-title,\n            #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item:hover .gutentor-single-item-title a{\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title,\n                 #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title,\n                #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6{\n\n\n\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg path,\n            #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg polygon{\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg path,\n              #section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg polygon{\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6:hover{\n\n}\n\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6{\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6{\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-top svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-block-shape-bottom svg{\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6.{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6.{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6.{\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item{\n\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item:hover{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item {\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item {\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item:hover .gutentor-single-item-desc{\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item-image-box{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item-image-box{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6 .gutentor-single-item-image-box{\n\n\n}\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n@media only screen and (min-width: 992px) {\n#section-af669b8c-ae55-4db7-81a8-49c0b9b286a6{\nflex-basis: 58.333333333333336%;\nmax-width: 58.333333333333336%;\n}\n}</style></div>"
+            "originalContent": "<div id=\"section-e0620a5f-1c06-4ab8-b7c6-8f90297ce6dd\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-7 grid-md-12 grid-12\"></div>"
         },
         {
-            "clientId": "d13a4b00-0147-4bbe-b459-b1373ff2d699",
+            "clientId": "4cf268f6-6437-460d-be5c-cd970f404653",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
-                "blockID": "1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb",
+                "blockID": "a8ea19e9-2002-49cd-a5a7-12065b83f806",
                 "timestamp": 0,
                 "gutentorBlockName": "gutentor/single-column",
                 "columns": 2,
@@ -7960,8 +7985,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentTitleDesignEnable": true,
                 "blockComponentTitleSeperatorPosition": "seperator-bottom",
@@ -8026,8 +8050,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentSubTitleDesignEnable": false,
                 "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
@@ -8603,8 +8626,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockItemsColumn": {
                     "desktop": "grid-lg-4",
@@ -8797,7 +8819,7 @@
                     "boxShadowPosition": ""
                 },
                 "blockSingleItemButtonTypography": {
-                    "fontType": "default",
+                    "fontType": "system",
                     "systemFont": "",
                     "googleFont": "",
                     "customFont": "",
@@ -8941,8 +8963,7 @@
                     "Animation": "none",
                     "Delay": "",
                     "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": ""
                 },
                 "blockComponentBGVideoLoop": true,
                 "blockComponentBGVideoMuted": true,
@@ -9041,12 +9062,12 @@
                 "blockShapeBottomPosition": "",
                 "blockComponentEnablePosition": false,
                 "blockComponentEnableContentVerticalAlign": false,
-                "blockComponentContentVerticalAlignMobile": "gutentor-content-no-valign",
-                "blockComponentContentVerticalAlignTablet": "gutentor-content-no-valign",
-                "blockComponentContentVerticalAlignDesktop": "gutentor-content-no-valign",
-                "blockComponentPositionTypeDesktop": "gutentor-position-default",
-                "blockComponentPositionTypeTablet": "gutentor-position-default",
-                "blockComponentPositionTypeMobile": "gutentor-position-default",
+                "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+                "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+                "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+                "blockComponentPositionTypeDesktop": "g-pos-d",
+                "blockComponentPositionTypeTablet": "g-pos-d",
+                "blockComponentPositionTypeMobile": "g-pos-d",
                 "blockComponentPositionDesktop": {
                     "type": "px",
                     "top": "",
@@ -9128,8 +9149,10 @@
                     }
                 ],
                 "blockSocialIconColorInsideRepeater": {
-                    "enable": false,
-                    "normal": "",
+                    "enable": true,
+                    "normal": {
+                        "hex": "#275cf6"
+                    },
                     "hover": ""
                 },
                 "blockSocialInsideRepeaterIconWidthEnable": true,
@@ -11030,11 +11053,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "8b924285-e39e-4699-9477-a0538374ce07",
+                    "clientId": "452bee96-f303-42ea-83a2-c4182cae3345",
                     "name": "gutentor/progress-bar",
                     "isValid": true,
                     "attributes": {
-                        "blockID": "ca7c8fb1-3209-461c-96f9-5324bb1f1fd6",
+                        "blockID": "aa618cb7-c38e-4e94-92d0-3ff98ee97c26",
                         "timestamp": 0,
                         "gutentorBlockName": "gutentor/progress-bar",
                         "blockSortableItems": [
@@ -11128,26 +11151,13 @@
                             "mobileLeft": ""
                         },
                         "blockComponentTitlePadding": {
-                            "type": "px",
-                            "desktopTop": "",
-                            "desktopRight": "",
-                            "desktopBottom": "",
-                            "desktopLeft": "",
-                            "tabletTop": "",
-                            "tabletRight": "",
-                            "tabletBottom": "",
-                            "tabletLeft": "",
-                            "mobileTop": "",
-                            "mobileRight": "",
-                            "mobileBottom": "",
-                            "mobileLeft": "15"
+                            "type": "px"
                         },
                         "blockComponentTitleAnimation": {
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentTitleDesignEnable": false,
                         "blockComponentTitleSeperatorPosition": "seperator-bottom",
@@ -11212,8 +11222,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentSubTitleDesignEnable": false,
                         "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
@@ -11789,8 +11798,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockItemsColumn": {
                             "desktop": "grid-lg-12",
@@ -11983,7 +11991,7 @@
                             "boxShadowPosition": ""
                         },
                         "blockSingleItemButtonTypography": {
-                            "fontType": "default",
+                            "fontType": "system",
                             "systemFont": "",
                             "googleFont": "",
                             "customFont": "",
@@ -12128,18 +12136,7 @@
                         },
                         "blockSingleItemTitleMargin": {
                             "type": "px",
-                            "desktopTop": "",
-                            "desktopRight": "",
-                            "desktopBottom": "",
-                            "desktopLeft": "",
-                            "tabletTop": "",
-                            "tabletRight": "",
-                            "tabletBottom": "",
-                            "tabletLeft": "",
-                            "mobileTop": "",
-                            "mobileRight": "",
-                            "mobileBottom": "0",
-                            "mobileLeft": ""
+                            "mobileBottom": "20"
                         },
                         "blockSingleItemTitlePadding": {
                             "type": "px",
@@ -12160,8 +12157,7 @@
                             "Animation": "none",
                             "Delay": "",
                             "Speed": "",
-                            "IterationType": "1",
-                            "Iteration": "1"
+                            "Iteration": ""
                         },
                         "blockComponentBGVideoLoop": true,
                         "blockComponentBGVideoMuted": true,
@@ -12260,12 +12256,12 @@
                         "blockShapeBottomPosition": "",
                         "blockComponentEnablePosition": false,
                         "blockComponentEnableContentVerticalAlign": false,
-                        "blockComponentContentVerticalAlignMobile": "gutentor-content-no-valign",
-                        "blockComponentContentVerticalAlignTablet": "gutentor-content-no-valign",
-                        "blockComponentContentVerticalAlignDesktop": "gutentor-content-no-valign",
-                        "blockComponentPositionTypeDesktop": "gutentor-position-default",
-                        "blockComponentPositionTypeTablet": "gutentor-position-default",
-                        "blockComponentPositionTypeMobile": "gutentor-position-default",
+                        "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+                        "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+                        "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+                        "blockComponentPositionTypeDesktop": "g-pos-d",
+                        "blockComponentPositionTypeTablet": "g-pos-d",
+                        "blockComponentPositionTypeMobile": "g-pos-d",
                         "blockComponentPositionDesktop": {
                             "type": "px",
                             "top": "",
@@ -12325,7 +12321,7 @@
                         "blockComponentRemoveColumnSpace": {
                             "desktop": "",
                             "tablet": "",
-                            "mobile": false
+                            "mobile": true
                         },
                         "blockProgressBarTemplate": "progress-bar-template2",
                         "blockProgressBarEnableBarColor": true,
@@ -12400,17 +12396,17 @@
                             }
                         },
                         "blockProgressBarHidePercentage": false,
-                        "blockProgressBarDesignAddOns": "default"
+                        "blockProgressBarDesignAddOns": "striped-animated"
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-ca7c8fb1-3209-461c-96f9-5324bb1f1fd6\" class=\"wp-block-gutentor-progress-bar gutentor-section gutentor-progressbar progress-bar-template2\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"gutentor-block-header\"><div class=\"gutentor-section-title text-left\"><h2 class=\"gutentor-title\">Our Skills</h2></div></div><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar default\" data-width=\"87\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">Photoshop</h3></div></div></div></div><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar default\" data-width=\"95\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">PHP</h3></div></div></div></div><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar default\" data-width=\"90\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">HTML/Css</h3></div></div></div></div></div></div></div>"
+                    "originalContent": "<div id=\"section-aa618cb7-c38e-4e94-92d0-3ff98ee97c26\" class=\"wp-block-gutentor-progress-bar gutentor-section gutentor-progressbar progress-bar-template2\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"gutentor-block-header\"><div class=\"gutentor-section-title text-left\"><h2 class=\"gutentor-title\">Our Skills</h2></div></div><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar striped-animated\" data-width=\"87\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">Photoshop</h3></div></div></div></div><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar striped-animated\" data-width=\"95\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">PHP</h3></div></div></div></div><div class=\"gutentor-progressbar-column grid-lg-12 grid-md-4 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-porgress-bar-item\"><div class=\"progressbar-wrap\"><span class=\"progressbar striped-animated\" data-width=\"90\" data-size=\"10\"></span></div><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">HTML/Css</h3></div></div></div></div></div></div></div>"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div id=\"section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-5 grid-md-12 grid-12\"><style>\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-section-title .gutentor-title{\n\n\ncolor: #111111;\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-section-title .gutentor-title{\n\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-grid-item-wrap{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-grid-item-wrap{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-grid-item-wrap{\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title,\n            #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item:hover .gutentor-single-item-title,\n            #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item:hover .gutentor-single-item-title a{\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title,\n                 #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title,\n                #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-title a{\n\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb{\n\n\n\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg path,\n            #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg polygon{\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg path,\n              #section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg polygon{\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb:hover{\n\n}\n\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb{\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb{\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-top svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-block-shape-bottom svg{\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb.{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb.{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb.{\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item{\n\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item:hover{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item {\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item {\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item:hover .gutentor-single-item-desc{\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item .gutentor-single-item-desc{\n\n\n\n}\n}\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item-image-box{\n\n\n}\n@media only screen and (min-width: 768px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item-image-box{\n\n\n}\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb .gutentor-single-item-image-box{\n\n\n}\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n#section-undefined .block-editor-inner-blocks{\nwidth: 100%;\npadding-right: 15px;\npadding-left: 15px;\nmargin-right: auto;\nmargin-left: auto;\n}\n#section-undefined .block-editor-inner-blocks .block-editor-block-list__layout{\ndisplay: flex;\nflex-wrap: wrap;\nmargin-right: -15px;\nmargin-left: -15px;\n}\n@media only screen and (min-width: 992px) {\n#section-1cd80aa6-21aa-41bb-b4fa-db364d1e1bcb{\nflex-basis: 41.66666666666667%;\nmax-width: 41.66666666666667%;\n}\n}</style></div>"
+            "originalContent": "<div id=\"section-a8ea19e9-2002-49cd-a5a7-12065b83f806\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-5 grid-md-12 grid-12\"></div>"
         }
     ],
     "validationIssues": [],
-    "originalContent": "<section id=\"section-4d22afa1-3f4c-4451-9a24-686b0fc53b6b\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>"
+    "originalContent": "<section id=\"section-ae55e8b6-1aaf-4560-901a-f227ca9e1c54\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>"
 }
