@@ -94,16 +94,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				),
 
 		
-				// array(
-				// 	'title'				=> __( 'Icon Box', 'gutentor' ),
-				// 	'type'				=> 'block',
-				// 	'author'			=> __( 'CosmosWP', 'gutentor' ),
-				// 	'keywords'			=> array( 'icon-box', 'icon-box 10' ),
-				// 	'categories'		=> array( 'icon-box' ),
-				// 	'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-10/gutentor_icon-box.json',
-				// 	'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/blocks/icon-box/icon-box-10/icon-box.jpg',
-				// 	'demo_url'    => 'https://www.demo.cosmoswp.com/demo-11/#section-d2551c3a-af95-4482-a5fe-06b82b6b4a7e',
-				// ),
+
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
