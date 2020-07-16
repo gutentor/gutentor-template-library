@@ -74,11 +74,9 @@ class Gutentor_Template_Library_Gutentor {
         /*Block Library*/
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-about-block.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-accordion.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-advanced-columns.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-author-profile.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-blog-post.php';/* ***Do not remove required for PHP BLOCK*/
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-call-to-action.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-content-box.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-count-down.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-counter-box.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-divider.php';
@@ -112,15 +110,6 @@ class Gutentor_Template_Library_Gutentor {
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-medical.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-multipurpose.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-travel.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-blog.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-photography.php';
-        /*Inner Pages Library*/
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-about.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-service.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-contact.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-gallery.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-pricing.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/templates/class-list.php';
 
         /*Modules*/
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-post-module.php';
