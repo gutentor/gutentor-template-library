@@ -63,16 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Fitness' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/fitness/fitness-1/fitness-template.jpg',
                     'demo_url'    => 'https://www.demo.gutentor.com/templates/fitness-1/',
                 ),
-                // array(
-                //     'title'             => __( 'Fitness', 'gutentor' ),
-                //     'type'              => 'template',
-                //     'author'            => __( 'CosmosWP', 'gutentor' ),
-                //     'keywords'          => array( 'fitness', 'fitness 2' ),
-                //     'categories'        => array( 'fitness' ),
-                //     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/fitness/fitness-2/template.json',
-                //     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/templates/fitness/fitness-2/fitness-template.jpg',
-                //     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-11/',
-                // ),
+          
             );
 
             return array_merge_recursive( $templates_list, $block_library_list );
