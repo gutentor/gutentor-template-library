@@ -1,9 +1,9 @@
 {
-    "clientId": "5a778662-892a-4372-894f-24ca20dff8a0",
+    "clientId": "25e4dbfe-6adc-4c42-9333-726d2d0cb3b6",
     "name": "gutentor/advanced-columns",
     "isValid": true,
     "attributes": {
-        "blockID": "b5e91926-edfe-4835-8bc8-067d63280116",
+        "blockID": "92a9130c-7c5f-4974-bb3b-eeb8a5532bb8",
         "timestamp": 0,
         "gutentorBlockName": "gutentor/advanced-columns",
         "columns": 2,
@@ -3176,11 +3176,11 @@
     },
     "innerBlocks": [
         {
-            "clientId": "78739b37-1d9b-4355-90e6-c94a8e0afae9",
+            "clientId": "596741b2-d513-4bc9-8489-ce82eb4e24e8",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
-                "blockID": "9f434fd1-c870-48c2-b9d1-91857402c94c",
+                "blockID": "05520ac7-1016-4ff4-881f-1c261959fafb",
                 "timestamp": 0,
                 "gutentorBlockName": "gutentor/single-column",
                 "columns": 2,
@@ -6351,11 +6351,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "22311b7a-6e41-420a-b7f6-8399871527f0",
+                    "clientId": "91b6b2b6-37ac-432d-8847-456fa331cfee",
                     "name": "gutentor/content-box",
                     "isValid": true,
                     "attributes": {
-                        "blockID": "0d1863f3-80f8-4af1-9652-503ff3baae26",
+                        "blockID": "cfc31675-a21f-47b6-ba35-39229ba5120e",
                         "timestamp": 0,
                         "gutentorBlockName": "gutentor/content-box",
                         "blockContentBoxTemplate": "content-template1",
@@ -7670,19 +7670,18 @@
                             "desktop": "",
                             "tablet": "",
                             "mobile": ""
-                        },
-                        "className": "gutentor-no-gap-desktop gutentor-no-gap-tablet gutentor-no-gap-mobile text-left"
+                        }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-0d1863f3-80f8-4af1-9652-503ff3baae26\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1 gutentor-no-gap-desktop gutentor-no-gap-tablet gutentor-no-gap-mobile text-left\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Office location  </h5><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim   veniam  </p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Office Hours </h5><p class=\"gutentor-single-item-desc\"><strong>Monday to Friday:</strong> 9:00 AM to 6:00 PM<br><strong>Saturday:</strong> 9:00 AM to 5:00 PM<br><strong>Sunday:</strong> Closed  </p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Contact Info </h5><p class=\"gutentor-single-item-desc\"><strong>Address:</strong> 685 Lane Drive St. California, 33020<br><strong>Phone:</strong> +010 234 7892 34<br><strong>Fax:</strong> +010 435 5798982<br><strong>Email:</strong> info@demo.cosmoswp.com<br></p></div></div></div></div></div></div></div>"
+                    "originalContent": "<div id=\"section-cfc31675-a21f-47b6-ba35-39229ba5120e\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Office location  </h5><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim   veniam  </p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Office Hours </h5><p class=\"gutentor-single-item-desc\"><strong>Monday to Friday:</strong> 9:00 AM to 6:00 PM<br><strong>Saturday:</strong> 9:00 AM to 5:00 PM<br><strong>Sunday:</strong> Closed  </p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h5 class=\"gutentor-single-item-title\">Contact Info </h5><p class=\"gutentor-single-item-desc\"><strong>Address:</strong> 685 Lane Drive St. California, 33020<br><strong>Phone:</strong> +010 234 7892 34<br><strong>Fax:</strong> +010 435 5798982<br><strong>Email:</strong> info@demo.cosmoswp.com<br></p></div></div></div></div></div></div></div>"
                 },
                 {
-                    "clientId": "ba134bce-c5d5-4444-a275-c2b2d3ad792b",
+                    "clientId": "0c26db23-cead-45ae-9dc1-09906a43412d",
                     "name": "gutentor/social",
                     "isValid": true,
                     "attributes": {
-                        "blockID": "21056f4a-5116-4612-96fd-cb7f5e5fa996",
+                        "blockID": "fc7c736a-5742-48b3-84f5-080daf8e0d1b",
                         "timestamp": 0,
                         "gutentorBlockName": "gutentor/social",
                         "blockSortableItems": [
@@ -8788,23 +8787,22 @@
                             "desktop": "",
                             "tablet": "",
                             "mobile": "80"
-                        },
-                        "className": "text-left"
+                        }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<section id=\"section-21056f4a-5116-4612-96fd-cb7f5e5fa996\" class=\"wp-block-gutentor-social gutentor-section gutentor-social social-template1 text-left\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-twitter\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-3\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-instagram\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-4\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-google-plus-g\"></i></a></div></div></div></div></div></div></section>"
+                    "originalContent": "<section id=\"section-fc7c736a-5742-48b3-84f5-080daf8e0d1b\" class=\"wp-block-gutentor-social gutentor-section gutentor-social social-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-twitter\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-3\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-instagram\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2m3 grid-md-2m3 grid-4\"><div class=\"gutentor-single-item gutentor-single-item-4\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-google-plus-g\"></i></a></div></div></div></div></div></div></section>"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<section id=\"section-9f434fd1-c870-48c2-b9d1-91857402c94c\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-5 grid-md-12 grid-12 has-color-bg has-custom-bg\">\n\n</section>"
+            "originalContent": "<section id=\"section-05520ac7-1016-4ff4-881f-1c261959fafb\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-5 grid-md-12 grid-12 has-color-bg has-custom-bg\">\n\n</section>"
         },
         {
-            "clientId": "5704a10b-82b7-4ee8-b187-377971334912",
+            "clientId": "72aace83-ec33-4213-9ea0-a604687b2c16",
             "name": "gutentor/single-column",
             "isValid": true,
             "attributes": {
-                "blockID": "b743f4a9-96ff-4646-a696-35d24a746a95",
+                "blockID": "027f2a26-7894-4f13-855b-1d2bfdf4564f",
                 "timestamp": 0,
                 "gutentorBlockName": "gutentor/single-column",
                 "columns": 2,
@@ -11979,11 +11977,11 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "891f8468-947a-47de-a139-de50777b03d9",
+                    "clientId": "1895ceb6-328a-4fb1-8b4e-387a0d0ec465",
                     "name": "gutentor/content-box",
                     "isValid": true,
                     "attributes": {
-                        "blockID": "8732b281-f372-4484-b20a-e2cdc75edc71",
+                        "blockID": "43f63265-44fe-49c1-b640-9a69e1e46ea7",
                         "timestamp": 0,
                         "gutentorBlockName": "gutentor/content-box",
                         "blockContentBoxTemplate": "content-template1",
@@ -13266,21 +13264,20 @@
                         "blockComponentRemoveRowSpace": {
                             "desktop": "",
                             "tablet": "",
-                            "mobile": ""
+                            "mobile": true
                         },
                         "blockComponentRemoveColumnSpace": {
                             "desktop": "",
                             "tablet": "",
-                            "mobile": ""
-                        },
-                        "className": "text-left"
+                            "mobile": true
+                        }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<section id=\"section-8732b281-f372-4484-b20a-e2cdc75edc71\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1 text-left\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">Get In Touch </h3><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim    veniam   </p></div></div></div></div></div></div></section>"
+                    "originalContent": "<section id=\"section-43f63265-44fe-49c1-b640-9a69e1e46ea7\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12 gutentor-rm-col-space\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">Get In Touch </h3><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim    veniam   </p></div></div></div></div></div></div></section>"
                 },
                 {
-                    "clientId": "019ba2c2-9e4e-4539-82ac-e4970f3314d0",
+                    "clientId": "6832fbc2-facc-415b-a62f-61a8793c2b84",
                     "name": "core/html",
                     "isValid": true,
                     "attributes": {
@@ -13291,7 +13288,7 @@
                     "originalContent": "[contact-form-7 id=\"124\" title=\"Appointment\"]"
                 },
                 {
-                    "clientId": "b3871f77-07ec-4775-b5ad-faa36a9acab6",
+                    "clientId": "a1560995-d486-4981-a8ff-4a87b37b9d35",
                     "name": "core/paragraph",
                     "isValid": true,
                     "attributes": {
@@ -13304,9 +13301,9 @@
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<section id=\"section-b743f4a9-96ff-4646-a696-35d24a746a95\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-7 grid-md-12 grid-12 has-color-bg has-custom-bg\">\n\n\n\n</section>"
+            "originalContent": "<section id=\"section-027f2a26-7894-4f13-855b-1d2bfdf4564f\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-7 grid-md-12 grid-12 has-color-bg has-custom-bg\">\n\n\n\n</section>"
         }
     ],
     "validationIssues": [],
-    "originalContent": "<section id=\"section-b5e91926-edfe-4835-8bc8-067d63280116\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>"
+    "originalContent": "<section id=\"section-92a9130c-7c5f-4974-bb3b-eeb8a5532bb8\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>"
 }
