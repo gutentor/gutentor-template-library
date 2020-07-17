@@ -1,12 +1,12 @@
 [
     {
-        "clientId": "c9b5bd05-396b-437e-9df8-2654886ea5c0",
+        "clientId": "9ceb68a6-357b-4dbd-8f24-965d5c03511e",
         "name": "gutentor/advanced-columns",
         "isValid": true,
         "validationIssues": [],
-        "originalContent": "<section id=\"section-88d08964-cfa4-48e3-b0f4-c8a5323d5eba\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg gutentor-no-gap-desktop gutentor-no-gap-tablet gutentor-no-gap-mobile text-left\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>",
+        "originalContent": "<section id=\"section-c9b5bd05-396b-437e-9df8-2654886ea5c0\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>",
         "attributes": {
-            "blockID": "c9b5bd05-396b-437e-9df8-2654886ea5c0",
+            "blockID": "9ceb68a6-357b-4dbd-8f24-965d5c03511e",
             "timestamp": 0,
             "gutentorBlockName": "gutentor/advanced-columns",
             "columns": 2,
@@ -3179,13 +3179,13 @@
         },
         "innerBlocks": [
             {
-                "clientId": "c7127227-7273-4385-9c57-d41c52e7080a",
+                "clientId": "f8be3b56-8d18-42af-9202-4b65e888655d",
                 "name": "gutentor/single-column",
                 "isValid": true,
                 "validationIssues": [],
-                "originalContent": "<section id=\"section-9ca51ee2-175f-4299-b109-a689e43114ad\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-8 grid-md-12 grid-12\">\n\n</section>",
+                "originalContent": "<section id=\"section-c7127227-7273-4385-9c57-d41c52e7080a\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-8 grid-md-12 grid-12\">\n\n</section>",
                 "attributes": {
-                    "blockID": "c7127227-7273-4385-9c57-d41c52e7080a",
+                    "blockID": "f8be3b56-8d18-42af-9202-4b65e888655d",
                     "timestamp": 0,
                     "gutentorBlockName": "gutentor/single-column",
                     "columns": 2,
@@ -6326,13 +6326,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "clientId": "fd752550-6791-43b9-9951-6abd280793c5",
+                        "clientId": "70d5ee8b-1ad9-4a1e-a294-1732351449cf",
                         "name": "gutentor/content-box",
                         "isValid": true,
                         "validationIssues": [],
-                        "originalContent": "<section id=\"section-37967779-53c3-4d58-a5d4-ecec8d5cef83\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1 text-left\"><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Leave us your information</h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?. </p></div></div></div></div></div></div></section>",
+                        "originalContent": "<section id=\"section-fd752550-6791-43b9-9951-6abd280793c5\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap gutentor-rm-row-space\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Leave us your information</h4><p class=\"gutentor-single-item-desc\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?. </p></div></div></div></div></div></div></section>",
                         "attributes": {
-                            "blockID": "fd752550-6791-43b9-9951-6abd280793c5",
+                            "blockID": "70d5ee8b-1ad9-4a1e-a294-1732351449cf",
                             "timestamp": 0,
                             "gutentorBlockName": "gutentor/content-box",
                             "blockContentBoxTemplate": "content-template1",
@@ -7626,13 +7626,13 @@
                         "innerBlocks": []
                     },
                     {
-                        "clientId": "d084c3d6-804d-4b95-9f5e-8508abb2f51a",
+                        "clientId": "d04a22cc-6d1a-4a17-9457-ffade21a89c2",
                         "name": "gutentor/advanced-columns",
                         "isValid": true,
                         "validationIssues": [],
-                        "originalContent": "<section id=\"section-d60ce2a0-ccf8-485e-bd09-9f7b7ed66233\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns text-left\"><div class=\"grid-container\"><div class=\"grid-row\"></div></div></section>",
+                        "originalContent": "<section id=\"section-d084c3d6-804d-4b95-9f5e-8508abb2f51a\" class=\"wp-block-gutentor-advanced-columns gutentor-section gutentor-advanced-columns\"><div class=\"grid-container\"><div class=\"grid-row\"></div></div></section>",
                         "attributes": {
-                            "blockID": "d084c3d6-804d-4b95-9f5e-8508abb2f51a",
+                            "blockID": "d04a22cc-6d1a-4a17-9457-ffade21a89c2",
                             "timestamp": 0,
                             "gutentorBlockName": "gutentor/advanced-columns",
                             "columns": 1,
@@ -10770,13 +10770,13 @@
                         },
                         "innerBlocks": [
                             {
-                                "clientId": "e5c1d7c9-c195-404b-9dbe-fb7bd017c404",
+                                "clientId": "cb1d43c6-1c8e-4602-9d72-eb1aa9cbc1ca",
                                 "name": "gutentor/single-column",
                                 "isValid": true,
                                 "validationIssues": [],
-                                "originalContent": "<section id=\"section-95b0d473-34c9-40b5-bd6b-ce5ab4b1ce3c\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-12 grid-md-12 grid-12\"></section>",
+                                "originalContent": "<section id=\"section-e5c1d7c9-c195-404b-9dbe-fb7bd017c404\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-12 grid-md-12 grid-12\"></section>",
                                 "attributes": {
-                                    "blockID": "e5c1d7c9-c195-404b-9dbe-fb7bd017c404",
+                                    "blockID": "cb1d43c6-1c8e-4602-9d72-eb1aa9cbc1ca",
                                     "timestamp": 0,
                                     "gutentorBlockName": "gutentor/single-column",
                                     "columns": 1,
@@ -13917,7 +13917,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "clientId": "e1ec4924-e2c3-46f8-a972-7e53446dba99",
+                                        "clientId": "d53e4646-e76f-4e13-93ca-65c3da2180f7",
                                         "name": "core/html",
                                         "isValid": true,
                                         "validationIssues": [],
@@ -13934,13 +13934,13 @@
                 ]
             },
             {
-                "clientId": "24c14299-fc88-406f-b747-1bc461f0de02",
+                "clientId": "d447cc1d-4328-4318-92a0-7f3e4e4dd382",
                 "name": "gutentor/single-column",
                 "isValid": true,
                 "validationIssues": [],
-                "originalContent": "<section id=\"section-6abe1fed-fcce-4605-a9f3-2e3176921b9d\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-4 grid-md-12 grid-12\">\n\n</section>",
+                "originalContent": "<section id=\"section-24c14299-fc88-406f-b747-1bc461f0de02\" class=\"wp-block-gutentor-single-column gutentor-single-column  grid-lg-4 grid-md-12 grid-12\">\n\n</section>",
                 "attributes": {
-                    "blockID": "24c14299-fc88-406f-b747-1bc461f0de02",
+                    "blockID": "d447cc1d-4328-4318-92a0-7f3e4e4dd382",
                     "timestamp": 0,
                     "gutentorBlockName": "gutentor/single-column",
                     "columns": 2,
@@ -17081,13 +17081,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "clientId": "de857edc-03bd-42a9-a93a-c5e5d367bca5",
+                        "clientId": "ac7b223d-654d-448e-80bc-ead0baaa48f5",
                         "name": "gutentor/content-box",
                         "isValid": true,
                         "validationIssues": [],
-                        "originalContent": "<section id=\"section-bc4cdcc6-a82a-4264-afdd-e57af2f32f79\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1 text-left\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Contact Info</h4><p class=\"gutentor-single-item-desc\">34th Avenue<br>New York, W2 3XE</p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Email</h4><p class=\"gutentor-single-item-desc\">noreply@cosmoswp.com</p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Phone</h4><p class=\"gutentor-single-item-desc\">+1234567890,<br>+1234567890 </p></div></div></div></div></div></div></section>",
+                        "originalContent": "<section id=\"section-de857edc-03bd-42a9-a93a-c5e5d367bca5\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template1\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Contact Info</h4><p class=\"gutentor-single-item-desc\">34th Avenue<br>New York, W2 3XE</p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Email</h4><p class=\"gutentor-single-item-desc\">noreply@cosmoswp.com</p></div></div></div></div><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h4 class=\"gutentor-single-item-title\">Phone</h4><p class=\"gutentor-single-item-desc\">+1234567890,<br>+1234567890 </p></div></div></div></div></div></div></section>",
                         "attributes": {
-                            "blockID": "de857edc-03bd-42a9-a93a-c5e5d367bca5",
+                            "blockID": "ac7b223d-654d-448e-80bc-ead0baaa48f5",
                             "timestamp": 0,
                             "gutentorBlockName": "gutentor/content-box",
                             "blockContentBoxTemplate": "content-template1",
@@ -18438,16 +18438,16 @@
                         "innerBlocks": []
                     },
                     {
-                        "clientId": "58bc663f-f901-4261-8613-bce7018e0597",
+                        "clientId": "f3116014-1391-42bc-8078-892004824734",
                         "name": "gutentor/google-map",
                         "isValid": true,
                         "validationIssues": [],
                         "originalContent": "",
                         "attributes": {
-                            "blockID": "58bc663f-f901-4261-8613-bce7018e0597",
+                            "blockID": "f3116014-1391-42bc-8078-892004824734",
                             "timestamp": 0,
                             "gutentorBlockName": "gutentor/google-map",
-                            "id": "gutentor-google-map-58bc663f",
+                            "id": "gutentor-google-map-f3116014",
                             "location": "La Sagrada Familia, Barcelona, Spain",
                             "latitude": "41.4044837",
                             "longitude": "2.175727800000004",
@@ -19263,13 +19263,13 @@
         ]
     },
     {
-        "clientId": "5638a4a0-3acd-469d-9307-1120f81036a2",
+        "clientId": "81781bce-2b1e-4da2-9e90-9b214fd0dc5e",
         "name": "gutentor/social",
         "isValid": true,
         "validationIssues": [],
-        "originalContent": "<section id=\"section-f65c9968-c542-4a8f-8648-607d6108a88a\" class=\"wp-block-gutentor-social gutentor-section gutentor-social social-template1 has-color-bg has-custom-bg text-left\"><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-twitter\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-3\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-instagram\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-4\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-pinterest-p\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-5\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-dribbble\"></i></a></div></div></div></div></div></div></section>",
+        "originalContent": "<section id=\"section-5638a4a0-3acd-469d-9307-1120f81036a2\" class=\"wp-block-gutentor-social gutentor-section gutentor-social social-template1 has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-1\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-twitter\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-2\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-3\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-instagram\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-4\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-pinterest-p\"></i></a></div></div></div></div><div class=\"gutentor-grid-column gutentor-social-item grid-lg-2 grid-md-4 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-5\"><div class=\"gutentor-single-item-content\"><div class=\"gutentor-single-item-icon-box\"><a class=\"gutentor-social-icon\" href=\"#\"><i class=\"fab fa-dribbble\"></i></a></div></div></div></div></div></div></section>",
         "attributes": {
-            "blockID": "5638a4a0-3acd-469d-9307-1120f81036a2",
+            "blockID": "81781bce-2b1e-4da2-9e90-9b214fd0dc5e",
             "timestamp": 0,
             "gutentorBlockName": "gutentor/social",
             "blockSortableItems": [
