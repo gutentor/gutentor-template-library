@@ -1,0 +1,738 @@
+{
+    "clientId": "71c5cb41-f621-4d84-bc15-f4e4565683bc",
+    "name": "gutentor/m2",
+    "isValid": true,
+    "attributes": {
+        "gID": "gm43add77",
+        "gName": "gutentor/m2",
+        "blockItemsColumn": {
+            "desktop": "grid-lg-3",
+            "tablet": "grid-md-4",
+            "mobile": "grid-12"
+        },
+        "colEqualHeight": false,
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mPadding": {
+            "dBottom": "80",
+            "tBottom": "60",
+            "mBottom": "40"
+        },
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [
+        {
+            "clientId": "c4ba9a4a-3140-474a-9c69-62ca0b11f30e",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm44b297",
+                "gName": "gutentor/m2-col",
+                "mPID": "43add777-6688-4c86-ae9e-ed34e7cdd82b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "80f090e5-05d3-41b0-abc7-0f6c796c8009",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ga75c7f",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team9400x500-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 240,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team9400x500-240x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team9400x500.jpg",
+                                    "height": 500,
+                                    "width": 400,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team9400x500.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ga75c7f\" class=\"wp-block-gutentor-e6 section-ga75c7f gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team9400x500.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "9a0c835c-2084-47d9-9c54-127cbd6c3dd8",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ga68536",
+                        "gName": "gutentor/e0",
+                        "e0AT": "   Marcus Cruz",
+                        "e0Tag": "h4",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#364f75",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "700",
+                            "mobileFontSize": 18
+                        },
+                        "e0Margin": {
+                            "mBottom": "5",
+                            "mTop": "20"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ga68536\" class=\"wp-block-gutentor-e0 section-ga68536 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h4 class=\"gutentor-text\">   Marcus Cruz</h4></div></div>"
+                },
+                {
+                    "clientId": "4e74c048-b2d6-45fd-8045-f09a8567f833",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g8417e6",
+                        "gName": "gutentor/e0",
+                        "e0AT": " Photographer",
+                        "e0Tag": "p",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g8417e6\" class=\"wp-block-gutentor-e0 section-g8417e6 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\"> Photographer</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm44b297\" class=\"section-gm44b297 gutentor-single-col\">\n\n\n\n</div></div>"
+        },
+        {
+            "clientId": "301a3ebd-94c6-4e7e-9244-c373d89bbee0",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm1a40b9",
+                "gName": "gutentor/m2-col",
+                "mPID": "43add777-6688-4c86-ae9e-ed34e7cdd82b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "ff19c284-9b59-4966-a760-6acf01e4ca34",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g91c73e",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team10400x500-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 240,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team10400x500-240x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team10400x500.jpg",
+                                    "height": 500,
+                                    "width": 400,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team10400x500.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g91c73e\" class=\"wp-block-gutentor-e6 section-g91c73e gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team10400x500.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "e82a291a-d6a3-449a-af2f-4029fd8ac5f5",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g90fbdf",
+                        "gName": "gutentor/e0",
+                        "e0AT": "  Angela Walker",
+                        "e0Tag": "h4",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#364f75",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "700",
+                            "mobileFontSize": 18
+                        },
+                        "e0Margin": {
+                            "mBottom": "5",
+                            "mTop": "20"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g90fbdf\" class=\"wp-block-gutentor-e0 section-g90fbdf gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h4 class=\"gutentor-text\">  Angela Walker</h4></div></div>"
+                },
+                {
+                    "clientId": "cc7e206e-7bd5-4a7e-8e27-2321d2716a6a",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gd0dbed",
+                        "gName": "gutentor/e0",
+                        "e0AT": "  Volunteer",
+                        "e0Tag": "p",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gd0dbed\" class=\"wp-block-gutentor-e0 section-gd0dbed gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">  Volunteer</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm1a40b9\" class=\"section-gm1a40b9 gutentor-single-col\">\n\n\n\n</div></div>"
+        },
+        {
+            "clientId": "45ebfd34-fb8e-4da5-bce3-895362d70104",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gme72aeb",
+                "gName": "gutentor/m2-col",
+                "mPID": "43add777-6688-4c86-ae9e-ed34e7cdd82b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "2c30f728-0d16-403e-94af-4d42bdfc06e3",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g746aa0",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team8400x500-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 240,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team8400x500-240x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team8400x500.jpg",
+                                    "height": 500,
+                                    "width": 400,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team8400x500.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g746aa0\" class=\"wp-block-gutentor-e6 section-g746aa0 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team8400x500.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "5c2aff36-03c0-475e-a097-51d5bc00fe96",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g38e91c",
+                        "gName": "gutentor/e0",
+                        "e0AT": "  Waylon Dalton",
+                        "e0Tag": "h4",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#364f75",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "700",
+                            "mobileFontSize": 18
+                        },
+                        "e0Margin": {
+                            "mBottom": "5",
+                            "mTop": "20"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g38e91c\" class=\"wp-block-gutentor-e0 section-g38e91c gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h4 class=\"gutentor-text\">  Waylon Dalton</h4></div></div>"
+                },
+                {
+                    "clientId": "4b41c6e1-4968-4afd-aabe-58644af1b0c3",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gdf3094",
+                        "gName": "gutentor/e0",
+                        "e0AT": " Volunteer",
+                        "e0Tag": "p",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gdf3094\" class=\"wp-block-gutentor-e0 section-gdf3094 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\"> Volunteer</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gme72aeb\" class=\"section-gme72aeb gutentor-single-col\">\n\n\n\n</div></div>"
+        },
+        {
+            "clientId": "39426ec1-6787-4f2a-b10c-5258b3ab0dad",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm054e0a",
+                "gName": "gutentor/m2-col",
+                "mPID": "43add777-6688-4c86-ae9e-ed34e7cdd82b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "7f86b4e8-b150-4bdc-be20-58d89137013a",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gdc3246",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team7400x500-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 240,
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team7400x500-240x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team7400x500.jpg",
+                                    "height": 500,
+                                    "width": 400,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team7400x500.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gdc3246\" class=\"wp-block-gutentor-e6 section-gdc3246 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/team7400x500.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "10a26f31-040a-434c-b2a3-92f2862e2a11",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g8d1a1d",
+                        "gName": "gutentor/e0",
+                        "e0AT": "   Joanna Shaffer ",
+                        "e0Tag": "h4",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#364f75",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "700",
+                            "mobileFontSize": 18
+                        },
+                        "e0Margin": {
+                            "mBottom": "5",
+                            "mTop": "20"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g8d1a1d\" class=\"wp-block-gutentor-e0 section-g8d1a1d gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h4 class=\"gutentor-text\">   Joanna Shaffer </h4></div></div>"
+                },
+                {
+                    "clientId": "d900502e-54ec-4488-bad5-9bad139d3d1c",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ge17118",
+                        "gName": "gutentor/e0",
+                        "e0AT": " Finance",
+                        "e0Tag": "p",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ge17118\" class=\"wp-block-gutentor-e0 section-ge17118 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\"> Finance</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm054e0a\" class=\"section-gm054e0a gutentor-single-col\">\n\n\n\n</div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"gm43add77\" class=\"wp-block-gutentor-m2 section-gm43add77 gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n\n\n\n\n</div></div></section>"
+}

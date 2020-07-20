@@ -1,0 +1,2242 @@
+[
+    {
+        "clientId": "c8ec7b54-5694-4cd0-9702-337f5af432bb",
+        "name": "gutentor/gallery",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<section id=\"section-de076799-5418-456f-b19d-f5146203c354\" class=\"wp-block-gutentor-gallery gutentor-section gutentor-gallery gutentor-gallery-wrapper enable-masonry gallery-template2\"><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap full-width-row\"><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-0\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item  </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-1\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item   </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-2\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\"> Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-3\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item   </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-4\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item   </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-5\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-6\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-7\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-8\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-md-3 grid-sm-4 grid-xs-12\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-9\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div></div></div></section>",
+        "attributes": {
+            "blockID": "c8ec7b54-5694-4cd0-9702-337f5af432bb",
+            "timestamp": 0,
+            "gutentorBlockName": "gutentor/gallery",
+            "blockSortableItems": [
+                {
+                    "image": {
+                        "id": 261,
+                        "title": "four-toddler-forms-circle-photo-754769",
+                        "filename": "four-toddler-forms-circle-photo-754769.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/2019/12/18/we-should-do-something-for-poor/four-toddler-forms-circle-photo-754769/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "four-toddler-forms-circle-photo-754769",
+                        "status": "inherit",
+                        "uploadedTo": 260,
+                        "date": "2019-12-18T06:45:03.000Z",
+                        "modified": "2019-12-18T06:45:03.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "3955f9a163",
+                            "delete": "f9e4eb83d0",
+                            "edit": "d3dfe247b5"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=261&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=260&action=edit",
+                        "uploadedToTitle": "We should do something for poor",
+                        "filesizeInBytes": 109858,
+                        "filesizeHumanReadable": "107 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item  "
+                },
+                {
+                    "image": {
+                        "id": 256,
+                        "title": "little-boy-carrying-can-1125850",
+                        "filename": "little-boy-carrying-can-1125850.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/2019/12/18/give-donation-for-poor-children/little-boy-carrying-can-1125850/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "little-boy-carrying-can-1125850",
+                        "status": "inherit",
+                        "uploadedTo": 255,
+                        "date": "2019-12-18T06:40:19.000Z",
+                        "modified": "2019-12-18T06:40:19.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "c82c803328",
+                            "delete": "42c54906dc",
+                            "edit": "7533a46398"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=256&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=255&action=edit",
+                        "uploadedToTitle": "Give donation for poor children",
+                        "filesizeInBytes": 216476,
+                        "filesizeHumanReadable": "211 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item   "
+                },
+                {
+                    "image": {
+                        "id": 108,
+                        "title": "boy-carrying-a-child-1427430",
+                        "filename": "boy-carrying-a-child-1427430.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/home__trashed-2/boy-carrying-a-child-1427430/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "boy-carrying-a-child-1427430",
+                        "status": "inherit",
+                        "uploadedTo": 76,
+                        "date": "2019-12-17T06:46:23.000Z",
+                        "modified": "2019-12-17T06:46:23.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 17, 2019",
+                        "nonces": {
+                            "update": "5da801896a",
+                            "delete": "d16539bbfa",
+                            "edit": "1b292da2a5"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=108&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=76&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 78516,
+                        "filesizeHumanReadable": "77 KB",
+                        "context": "",
+                        "height": 904,
+                        "width": 640,
+                        "orientation": "portrait",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 212,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430-212x300.jpg",
+                                "orientation": "portrait"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg",
+                                "height": 904,
+                                "width": 640,
+                                "orientation": "portrait"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": " Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 172,
+                        "title": "girl-smiling-1739842",
+                        "filename": "girl-smiling-1739842.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/home__trashed-2/girl-smiling-1739842/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "girl-smiling-1739842",
+                        "status": "inherit",
+                        "uploadedTo": 76,
+                        "date": "2019-12-18T04:40:54.000Z",
+                        "modified": "2019-12-18T04:40:54.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "324f9ae95b",
+                            "delete": "dfe433dc80",
+                            "edit": "abe690d1b6"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=172&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=76&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 144725,
+                        "filesizeHumanReadable": "141 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-smiling-1739842.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item   "
+                },
+                {
+                    "image": {
+                        "id": 88,
+                        "title": "girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769",
+                        "filename": "girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/home__trashed-2/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769",
+                        "status": "inherit",
+                        "uploadedTo": 76,
+                        "date": "2019-12-17T06:01:49.000Z",
+                        "modified": "2019-12-17T06:01:49.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 17, 2019",
+                        "nonces": {
+                            "update": "a1d98b74c6",
+                            "delete": "ae0c144ae8",
+                            "edit": "f7a6611b9e"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=88&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=76&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 197423,
+                        "filesizeHumanReadable": "193 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/girl-s-white-and-gray-crew-neck-top-holding-gray-wire-fence-1098769.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item   "
+                },
+                {
+                    "image": {
+                        "id": 108,
+                        "title": "boy-carrying-a-child-1427430",
+                        "filename": "boy-carrying-a-child-1427430.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/home__trashed-2/boy-carrying-a-child-1427430/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "boy-carrying-a-child-1427430",
+                        "status": "inherit",
+                        "uploadedTo": 76,
+                        "date": "2019-12-17T06:46:23.000Z",
+                        "modified": "2019-12-17T06:46:23.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 17, 2019",
+                        "nonces": {
+                            "update": "5da801896a",
+                            "delete": "d16539bbfa",
+                            "edit": "1b292da2a5"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=108&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=76&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 78516,
+                        "filesizeHumanReadable": "77 KB",
+                        "context": "",
+                        "height": 904,
+                        "width": 640,
+                        "orientation": "portrait",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 212,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430-212x300.jpg",
+                                "orientation": "portrait"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/boy-carrying-a-child-1427430.jpg",
+                                "height": 904,
+                                "width": 640,
+                                "orientation": "portrait"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 261,
+                        "title": "four-toddler-forms-circle-photo-754769",
+                        "filename": "four-toddler-forms-circle-photo-754769.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/2019/12/18/we-should-do-something-for-poor/four-toddler-forms-circle-photo-754769/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "four-toddler-forms-circle-photo-754769",
+                        "status": "inherit",
+                        "uploadedTo": 260,
+                        "date": "2019-12-18T06:45:03.000Z",
+                        "modified": "2019-12-18T06:45:03.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "3955f9a163",
+                            "delete": "f9e4eb83d0",
+                            "edit": "d3dfe247b5"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=261&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=260&action=edit",
+                        "uploadedToTitle": "We should do something for poor",
+                        "filesizeInBytes": 109858,
+                        "filesizeHumanReadable": "107 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/four-toddler-forms-circle-photo-754769.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 85,
+                        "title": "photo-of-baby-on-gray-wooden-board-732613 (1)",
+                        "filename": "photo-of-baby-on-gray-wooden-board-732613-1.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/home__trashed-2/photo-of-baby-on-gray-wooden-board-732613-1/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "photo-of-baby-on-gray-wooden-board-732613-1",
+                        "status": "inherit",
+                        "uploadedTo": 76,
+                        "date": "2019-12-17T05:57:33.000Z",
+                        "modified": "2019-12-17T05:57:33.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 17, 2019",
+                        "nonces": {
+                            "update": "a29c72d064",
+                            "delete": "8ba6eaeeba",
+                            "edit": "bb80095ef1"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=85&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=76&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 128351,
+                        "filesizeHumanReadable": "125 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/photo-of-baby-on-gray-wooden-board-732613-1.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 253,
+                        "title": "group-of-people-taking-photo-764681",
+                        "filename": "group-of-people-taking-photo-764681.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/2019/12/18/our-children-in-school/group-of-people-taking-photo-764681/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "group-of-people-taking-photo-764681",
+                        "status": "inherit",
+                        "uploadedTo": 252,
+                        "date": "2019-12-18T06:34:35.000Z",
+                        "modified": "2019-12-18T06:34:35.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "bb7e950d45",
+                            "delete": "faca4a6bab",
+                            "edit": "3026fcd1c0"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=253&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=252&action=edit",
+                        "uploadedToTitle": "Our Children In School",
+                        "filesizeInBytes": 165785,
+                        "filesizeHumanReadable": "162 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/group-of-people-taking-photo-764681.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 256,
+                        "title": "little-boy-carrying-can-1125850",
+                        "filename": "little-boy-carrying-can-1125850.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-15/2019/12/18/give-donation-for-poor-children/little-boy-carrying-can-1125850/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "little-boy-carrying-can-1125850",
+                        "status": "inherit",
+                        "uploadedTo": 255,
+                        "date": "2019-12-18T06:40:19.000Z",
+                        "modified": "2019-12-18T06:40:19.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-15/wp-includes/images/media/default.png",
+                        "dateFormatted": "December 18, 2019",
+                        "nonces": {
+                            "update": "c82c803328",
+                            "delete": "42c54906dc",
+                            "edit": "7533a46398"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=256&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-15/wp-admin/post.php?post=255&action=edit",
+                        "uploadedToTitle": "Give donation for poor children",
+                        "filesizeInBytes": 216476,
+                        "filesizeHumanReadable": "211 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-15/wp-content/uploads/sites/16/2019/12/little-boy-carrying-can-1125850.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                }
+            ],
+            "blockEnableMasonry": true,
+            "blockComponentTitleEnable": false,
+            "blockComponentTitle": "Our Gallery",
+            "blockComponentTitleTag": "h2",
+            "blockComponentTitleAlign": "text-center",
+            "blockComponentTitleColorEnable": true,
+            "blockComponentTitleColor": {
+                "color": {
+                    "_originalInput": "#091e42",
+                    "_r": 9,
+                    "_g": 30,
+                    "_b": 66,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 4
+                },
+                "hex": "#091e42",
+                "hsl": {
+                    "h": 218,
+                    "s": 76,
+                    "l": 15,
+                    "a": 1
+                },
+                "hsv": {
+                    "h": 218,
+                    "s": 86,
+                    "v": 26,
+                    "a": 1
+                },
+                "oldHue": 218,
+                "rgb": {
+                    "r": 9,
+                    "g": 30,
+                    "b": 66,
+                    "a": 1
+                },
+                "source": "hex"
+            },
+            "blockComponentTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Work+Sans",
+                "customFont": "",
+                "desktopFontSize": 32,
+                "tabletFontSize": "",
+                "mobileFontSize": 24,
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentTitleDesignEnable": true,
+            "blockComponentTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentSubTitleEnable": false,
+            "blockComponentSubTitle": "Block Sub Title",
+            "blockComponentSubTitleTag": "p",
+            "blockComponentSubTitleAlign": "text-center",
+            "blockComponentSubTitleColorEnable": true,
+            "blockComponentSubTitleColor": {
+                "hex": "#111111"
+            },
+            "blockComponentSubTitleTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSubTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentSubTitleDesignEnable": false,
+            "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentButtonEnable": true,
+            "blockComponentButtonAlign": "text-left",
+            "blockComponentButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentButtonText": "Gutentor Button",
+            "blockComponentButtonLink": "#",
+            "blockComponentButtonClassName": "",
+            "blockComponentButtonLayout": "",
+            "blockButtonGroupAlign": "flex-align-left",
+            "blockButtonDesktopFullwidth": false,
+            "blockButtonTabletFullwidth": false,
+            "blockButtonMobileFullwidth": false,
+            "blockComponentPrimaryButtonEnable": false,
+            "blockComponentPrimaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentPrimaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentPrimaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentPrimaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentPrimaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentPrimaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentPrimaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentPrimaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentPrimaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentPrimaryButtonText": "View More",
+            "blockComponentPrimaryButtonLink": "#",
+            "blockComponentPrimaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentPrimaryButtonClassName": "",
+            "blockComponentSecondaryButtonEnable": false,
+            "blockComponentSecondaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentSecondaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentSecondaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentSecondaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentSecondaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentSecondaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentSecondaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentSecondaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSecondaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentSecondaryButtonText": "View More",
+            "blockComponentSecondaryButtonLink": "#",
+            "blockComponentSecondaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentSecondaryButtonClassName": "",
+            "blockItemsWrapMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockItemsColumn": {
+                "desktop": "grid-md-3",
+                "tablet": "grid-sm-4",
+                "mobile": "grid-xs-12"
+            },
+            "blockNonRepeaterTabletFullWidth": false,
+            "blockNonRepeaterMobileFullWidth": false,
+            "blockSingleItemBoxColor": {
+                "enable": true,
+                "normal": "",
+                "hover": ""
+            },
+            "blockSingleItemBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "5",
+                "borderRadiusRight": "5",
+                "borderRadiusBottom": "5",
+                "borderRadiusLeft": "5"
+            },
+            "blockSingleItemBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockItemButtonText": "Read More",
+            "blockItemButtonLink": "#",
+            "blockSingleItemButtonEnable": false,
+            "blockSingleItemButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockSingleItemButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockSingleItemButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockSingleItemButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonPadding": {
+                "type": "px",
+                "desktopTop": "10",
+                "desktopRight": "15",
+                "desktopBottom": "10",
+                "desktopLeft": "15",
+                "tabletTop": "10",
+                "tabletRight": "15",
+                "tabletBottom": "10",
+                "tabletLeft": "15",
+                "mobileTop": "10",
+                "mobileRight": "15",
+                "mobileBottom": "10",
+                "mobileLeft": "15"
+            },
+            "blockSingleItemButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockSingleItemButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockSingleItemButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "14",
+                "tabletFontSize": "14",
+                "mobileFontSize": "14",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockSingleItemButtonText": "View More",
+            "blockSingleItemButtonLink": "#",
+            "blockItemButtonClassName": "",
+            "blockItemDescription": "Short Description",
+            "blockSingleItemDescriptionEnable": false,
+            "blockSingleItemDescriptionTag": "p",
+            "blockSingleItemDescriptionColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 117.43667830518757,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 51
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": ""
+            },
+            "blockSingleItemDescriptionTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemDescriptionMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemDescriptionPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemTitle": "Title",
+            "blockSingleItemTitleEnable": true,
+            "blockSingleItemTitleTag": "h3",
+            "blockSingleItemTitleColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.56630354078997,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 43
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": ""
+            },
+            "blockSingleItemTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Open+Sans",
+                "customFont": "",
+                "tabletFontSize": "",
+                "mobileFontSize": 18,
+                "fontWeight": "700",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentBGVideoLoop": true,
+            "blockComponentBGVideoMuted": true,
+            "blockComponentEnableOverlay": false,
+            "blockComponentDesktopDisplayMode": false,
+            "blockComponentTabletDisplayMode": false,
+            "blockComponentMobileDisplayMode": false,
+            "blockComponentBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockComponentMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPadding": {
+                "type": "px",
+                "desktopTop": "80",
+                "desktopBottom": "80",
+                "tabletTop": "60",
+                "tabletBottom": "60",
+                "mobileBottom": "40",
+                "mobileTop": "40"
+            },
+            "blockComponentBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSectionHtmlTag": "section",
+            "blockShapeTopSelect": "",
+            "blockShapeTopSelectEnableColor": "",
+            "blockShapeTopFlipVertically": false,
+            "blockShapeTopFlipHorizontally": false,
+            "blockShapeTopSelectColor": "",
+            "blockShapeTopHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopPosition": "",
+            "blockShapeBottomSelect": "",
+            "blockShapeBottomSelectEnableColor": "",
+            "blockShapeBottomFlipVertically": false,
+            "blockShapeBottomFlipHorizontally": false,
+            "blockShapeBottomSelectColor": "",
+            "blockShapeBottomHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomPosition": "",
+            "blockComponentEnablePosition": false,
+            "blockComponentEnableContentVerticalAlign": false,
+            "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+            "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+            "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+            "blockComponentPositionTypeDesktop": "g-pos-d",
+            "blockComponentPositionTypeTablet": "g-pos-d",
+            "blockComponentPositionTypeMobile": "g-pos-d",
+            "blockComponentPositionDesktop": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionDesktopWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionTablet": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionTabletWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionMobile": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionMobileWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentEnableZIndex": false,
+            "blockComponentZIndex": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentEnableHeight": false,
+            "blockComponentHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveContainerSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveRowSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveColumnSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockGalleryTemplate": "gallery-template2",
+            "blockImageBoxOverlayBorderColor": {
+                "enable": false,
+                "normal": ""
+            },
+            "blockImageBoxOverlayBottomColor": {
+                "enable": false,
+                "normal": ""
+            },
+            "blockImageBoxBackgroundImageOptions": {
+                "backgroundImage": "",
+                "desktopHeight": "",
+                "tabletHeight": "",
+                "mobileHeight": "",
+                "type": "px",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "backgroundRepeat": "no-repeat",
+                "backgroundAttachment": "scroll"
+            },
+            "blockGalleryPopup": {
+                "label": "fa-search",
+                "value": "fas fa-search",
+                "code": "f002"
+            },
+            "blockGalleryIconSize": 16,
+            "blockGalleryIconColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 210,
+                            "s": 0,
+                            "v": 127.39080642613025,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 60
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 210,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 210,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 210,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": {
+                    "color": {
+                        "_originalInput": "#364f75",
+                        "_r": 54,
+                        "_g": 79,
+                        "_b": 117,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hex",
+                        "_ok": true,
+                        "_tc_id": 31
+                    },
+                    "hex": "#364f75",
+                    "hsl": {
+                        "h": 216,
+                        "s": 37,
+                        "l": 34,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 216,
+                        "s": 54,
+                        "v": 46,
+                        "a": 1
+                    },
+                    "oldHue": 216,
+                    "rgb": {
+                        "r": 54,
+                        "g": 79,
+                        "b": 117,
+                        "a": 1
+                    },
+                    "source": "hex"
+                }
+            },
+            "blockGalleryIconBgColor": {
+                "enable": false,
+                "normal": {
+                    "hex": "#23282d"
+                },
+                "hover": {
+                    "hex": "#275cf6"
+                }
+            },
+            "blockGalleryEnableIconBoxOptions": false,
+            "blockGalleryIconBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockGalleryIconBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockGalleryIconBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": ""
+            },
+            "blockGalleryContentOnHover": false,
+            "image": "",
+            "blockImageBoxImageOverlayColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 172,
+                            "s": 48,
+                            "l": 59,
+                            "a": 0,
+                            "source": "rgb"
+                        },
+                        "_r": 100.266,
+                        "_g": 200.634,
+                        "_b": 187.25160000000002,
+                        "_a": 0,
+                        "_roundA": 0,
+                        "_format": "hsl",
+                        "_ok": true,
+                        "_tc_id": 10
+                    },
+                    "hex": "#64c9bb",
+                    "hsl": {
+                        "h": 172,
+                        "s": 48,
+                        "l": 59,
+                        "a": 0
+                    },
+                    "hsv": {
+                        "h": 172,
+                        "s": 50,
+                        "v": 79,
+                        "a": 0
+                    },
+                    "oldHue": 172,
+                    "rgb": {
+                        "r": 100,
+                        "g": 201,
+                        "b": 187,
+                        "a": 0
+                    },
+                    "source": "rgb"
+                },
+                "hover": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 172,
+                            "s": 48,
+                            "l": 59,
+                            "a": 0.88,
+                            "source": "rgb"
+                        },
+                        "_r": 100.266,
+                        "_g": 200.634,
+                        "_b": 187.25160000000002,
+                        "_a": 0.88,
+                        "_roundA": 0.88,
+                        "_format": "hsl",
+                        "_ok": true,
+                        "_tc_id": 24
+                    },
+                    "hex": "#64c9bb",
+                    "hsl": {
+                        "h": 172,
+                        "s": 48,
+                        "l": 59,
+                        "a": 0.88
+                    },
+                    "hsv": {
+                        "h": 172,
+                        "s": 50,
+                        "v": 79,
+                        "a": 0.88
+                    },
+                    "oldHue": 172,
+                    "rgb": {
+                        "r": 100,
+                        "g": 201,
+                        "b": 187,
+                        "a": 0.88
+                    },
+                    "source": "rgb"
+                }
+            },
+            "blockFullImageEnable": false,
+            "blockEnableImageBoxWidth": false,
+            "blockImageBoxWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockEnableImageBoxHeight": false,
+            "blockImageBoxHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockEnableImageBoxDisplayOptions": false,
+            "blockImageBoxDisplayOptions": "normal-image",
+            "blockEnableImageBoxBorder": false,
+            "blockImageBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockImageBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockImageBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockImageBoxLinkOptionsEnable": false,
+            "blockImageBoxLinkUrl": "#",
+            "blockImageBoxLinkOpenNewTab": false,
+            "blockImageBoxLinkRel": "noopener noreferrer"
+        },
+        "innerBlocks": []
+    }
+]
