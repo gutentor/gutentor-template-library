@@ -54,7 +54,26 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_12' ) ) {
             $block_library_list = array(
 
                 //Block/Modules Templates Starts
-
+                array(
+                    'title'                => __('Advanced Columns','gutentor' ),
+                    'type'                => 'block',
+                    'author'            => __('CosmosWP', 'gutentor'),
+                    'keywords'            => array('advanced-columns', 'advanced columns 1'),
+                    'categories'        => array('cosmoswp', 'advanced-columns'),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/modules/advance-column/advance-column-1/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/modules/advance-column/advance-column-1/screenshot.jpg',
+                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-12/#section-cfb98fd4-2372-4ee7-a956-d35424081d70',
+                ),
+                array(
+                    'title'                => __('Advanced Columns','gutentor'),
+                    'type'                => 'block',
+                    'author'            => __('CosmosWP', 'gutentor'),
+                    'keywords'            => array('advanced-columns', 'advanced columns 2'),
+                    'categories'        => array('cosmoswp', 'advanced-columns'),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/modules/advance-column/advance-column-2/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/modules/advance-column/advance-column-2/screenshot.jpg',
+                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-12/contact/#section-3f3372ca-1c85-4895-837d-1c14a70e2d35',
+                ),
                 //Block Templates ends
 
 
