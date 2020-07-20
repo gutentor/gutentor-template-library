@@ -1,0 +1,404 @@
+{
+    "clientId": "88a62d0f-941e-4fe8-9e93-ba418c874d03",
+    "name": "gutentor/m4",
+    "isValid": true,
+    "attributes": {
+        "gID": "gm7633c78",
+        "gName": "gutentor/m4",
+        "columns": 2,
+        "dLayout": "fiveSeven",
+        "tLayout": "fiveSeven",
+        "mLayout": "twelve",
+        "colEqualHeight": false,
+        "enableSticky": false,
+        "stickyMTop": "0",
+        "stickyMBottom": "0",
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGType": "color",
+        "mBGImageSizeType": "full",
+        "mBGColor": "#eef1fb",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mPadding": {
+            "dTop": "150",
+            "mTop": "100"
+        },
+        "mTag": "section",
+        "mID": "home",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "17",
+        "mBShapeOnColor": true,
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapeColor": "#ffffff",
+        "mBShapeHeight": {
+            "desktop": 250,
+            "tablet": 100,
+            "mobile": 100
+        },
+        "mBShapeWidth": {
+            "type": "%",
+            "mobile": 100
+        },
+        "mBShapePos": true,
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [
+        {
+            "clientId": "4aa3aa1b-a113-46f3-ae4e-0ac3a4e8ef0e",
+            "name": "gutentor/m4-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm62ebd5",
+                "gName": "gutentor/m4-col",
+                "mPID": "7633c785-c90a-45d1-a017-220b78f3f82c",
+                "columns": 2,
+                "dLayout": "fiveSeven",
+                "tLayout": "fiveSeven",
+                "mLayout": "twelve",
+                "layoutIndex": 0,
+                "colWidth": 41.66666666666667,
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "7521fb12-8206-4e6c-8365-d2d51d526a72",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g7986cf",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Hello",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#919191",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "regular",
+                            "mobileFontSize": 18,
+                            "textTransform": "normal"
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g7986cf\" class=\"wp-block-gutentor-e0 section-g7986cf gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Hello</p></div></div>"
+                },
+                {
+                    "clientId": "68f5897f-cee3-4043-89df-c8c60f29963c",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gcba85b",
+                        "gName": "gutentor/e0",
+                        "e0AT": "I'm CosmosWP UI/UX Designer ",
+                        "e0Tag": "h2",
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#414141",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "tabletFontSize": 32,
+                            "mobileFontSize": 24,
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "700"
+                        },
+                        "e0Margin": {
+                            "mTop": "0",
+                            "mBottom": "20"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gcba85b\" class=\"wp-block-gutentor-e0 section-gcba85b gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><h2 class=\"gutentor-text\">I'm CosmosWP UI/UX Designer </h2></div></div>"
+                },
+                {
+                    "clientId": "0e94611e-b477-4e77-895e-4196742d0054",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g87e095",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing alaelit, sed do  eiusmod tempor dulabore et dolore magna aliqua. Ut enim   ",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#767676",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "300",
+                            "mobileFontSize": 14,
+                            "tabletFontSize": 17,
+                            "mobileLineHeight": 2
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g87e095\" class=\"wp-block-gutentor-e0 section-g87e095 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing alaelit, sed do  eiusmod tempor dulabore et dolore magna aliqua. Ut enim   </p></div></div>"
+                },
+                {
+                    "clientId": "94a4172a-4109-4a85-8510-1d10ef9ddc43",
+                    "name": "gutentor/e2",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gbacea7",
+                        "gName": "gutentor/e2",
+                        "e2DisableLinkOpt": false,
+                        "e2LinkOpt": {
+                            "linkOption": "open-new-tab",
+                            "openInNewTab": false,
+                            "rel": ""
+                        },
+                        "e2Margin": {
+                            "mTop": "0",
+                            "tTop": "30"
+                        },
+                        "e2Padding": {
+                            "type": "px",
+                            "mTop": "15",
+                            "mRight": "30",
+                            "mBottom": "15",
+                            "mLeft": "30"
+                        },
+                        "e2IconOpt": {
+                            "position": "before",
+                            "size": ""
+                        },
+                        "e2IconTypography": {
+                            "fontType": "google",
+                            "mobileFontSize": 14,
+                            "textTransform": "uppercase",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileLetterSpacing": 1
+                        },
+                        "e2Icon": {
+                            "label": "fa-cloud-download-alt",
+                            "value": "fas fa-cloud-download-alt",
+                            "code": "f381"
+                        },
+                        "e2Text": "Download CV",
+                        "e2Link": "#",
+                        "e2ClassName": "",
+                        "e2Layout": "",
+                        "e2BgColor": {
+                            "enable": true,
+                            "normal": "#393939",
+                            "hover": "#101010"
+                        },
+                        "e2TxtColor": {
+                            "enable": true,
+                            "normal": "#fff",
+                            "hover": ""
+                        },
+                        "e2Border": {
+                            "rTypeN": "px",
+                            "rTypeH": "px",
+                            "rTopN": "3",
+                            "rTopH": "3",
+                            "rRightN": "3",
+                            "rRightH": "3",
+                            "rBottomN": "3",
+                            "rBottomH": "3",
+                            "rLeftN": "3",
+                            "rLeftH": "3"
+                        },
+                        "e2Size": "medium",
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "px",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "px",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "px",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gbacea7\" class=\"wp-block-gutentor-e2 section-gbacea7 gutentor-element gutentor-element-button\"><span class=\"gutentor-button-wrap\"><a class=\"gutentor-button gutentor-block-button gutentor-icon-before\" href=\"#\"><i class=\"gutentor-button-icon fas fa-cloud-download-alt\"></i><span>Download CV</span></a></span></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm62ebd5\" class=\"wp-block-gutentor-m4-col col-gm62ebd5 gutentor-single-column  grid-lg-5 grid-md-5 grid-12\"><div id=\"section-gm62ebd5\" class=\"section-gm62ebd5 gutentor-col-wrap\">\n\n\n\n\n\n</div></div>"
+        },
+        {
+            "clientId": "52306c28-7479-4e9a-9d33-fe5ef03713e7",
+            "name": "gutentor/m4-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gme841d0",
+                "gName": "gutentor/m4-col",
+                "mPID": "7633c785-c90a-45d1-a017-220b78f3f82c",
+                "columns": 2,
+                "dLayout": "fiveSeven",
+                "tLayout": "fiveSeven",
+                "mLayout": "twelve",
+                "layoutIndex": 1,
+                "colWidth": 58.333333333333336,
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "f483a136-5bf3-4779-a8e5-80c9f4995c03",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ga31ec9",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-14/wp-content/uploads/sites/15/2019/12/student-small-150x150.png",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 231,
+                                    "url": "https://www.demo.cosmoswp.com/demo-14/wp-content/uploads/sites/15/2019/12/student-small-231x300.png",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-14/wp-content/uploads/sites/15/2019/12/student-small.png",
+                                    "height": 605,
+                                    "width": 465,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-14/wp-content/uploads/sites/15/2019/12/student-small.png",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Margin": {
+                            "tTop": "0",
+                            "mTop": "40"
+                        },
+                        "e6Align": {
+                            "mobile": "text-align-right"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "px",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "px",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "px",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ga31ec9\" class=\"wp-block-gutentor-e6 section-ga31ec9 gutentor-element gutentor-element-image text-align-right-mobile\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-14/wp-content/uploads/sites/15/2019/12/student-small.png\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gme841d0\" class=\"wp-block-gutentor-m4-col col-gme841d0 gutentor-single-column  grid-lg-7 grid-md-7 grid-12\"><div id=\"section-gme841d0\" class=\"section-gme841d0 gutentor-col-wrap\"></div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"home\" class=\"wp-block-gutentor-m4 section-gm7633c78 gutentor-module gutentor-advanced-columns has-gutentor-block-shape-bottom gutentor-block-shape-bottom-bring-front has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div><div class=\"gutentor-block-shape-bottom\"><span><svg width=\"100%\" height=\"250px\" viewBox=\"0 0 1280 140\" preserveAspectRatio=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1280 0l-266 91.52a72.59 72.59 0 0 1-30.76 3.71L0 0v140h1280z\" fill-opacity=\".5\" style=\"fill-rule:evenodd; transform: rotate(180deg); transform-origin:50% 50%;\"/><path d=\"M1280 0l-262.1 116.26a73.29 73.29 0 0 1-39.09 6L0 0v140h1280z\" style=\"fill-rule:evenodd; transform: rotate(180deg); transform-origin:50% 50%;\"/></svg></span></div></section>"
+}
