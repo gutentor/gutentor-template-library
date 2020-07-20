@@ -105,8 +105,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_15' ) ) {
                     'title'             => __('Home 15', 'gutentor' ),
                     'type'              => 'template',
                     'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array('restaurant','home','home 15' ),
-                    'categories'        => array( 'cosmoswp', 'restaurant' ),
+                    'keywords'          => array('charity','home','home 15' ),
+                    'categories'        => array( 'cosmoswp', 'charity' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-15/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-15/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-15/',
@@ -140,7 +140,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_15' ) ) {
                     'categories'        => array('cosmoswp', 'gallery' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-15/template-data/templates/gallery/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-15/template-data/templates/gallery/screenshot.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-15/case-study/',
+                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-15/gallery/',
                 ),
 
         
