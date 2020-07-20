@@ -1,0 +1,2511 @@
+{
+    "clientId": "6c822007-7f48-469e-b9b5-6d87c80c1dc8",
+    "name": "gutentor/m2",
+    "isValid": true,
+    "attributes": {
+        "gID": "gm91e0a54",
+        "gName": "gutentor/m2",
+        "blockItemsColumn": {
+            "desktop": "grid-lg-2",
+            "tablet": "grid-md-2",
+            "mobile": "grid-6"
+        },
+        "colEqualHeight": false,
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mPadding": {
+            "mTop": "40"
+        },
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false,
+        "mHideContSpace": {
+            "mobile": true
+        }
+    },
+    "innerBlocks": [
+        {
+            "clientId": "54a064a1-c979-43dc-8da1-c3e0851c9686",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmd6f998",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "f50d5a6b-7b6e-48dd-a3c7-2d6b00f9bf8d",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g73f34e",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g73f34e\" class=\"wp-block-gutentor-e6 section-g73f34e gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "b77d9f57-5527-4421-b61c-3d2238056a2a",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gbd3c0d",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gbd3c0d\" class=\"wp-block-gutentor-e0 section-gbd3c0d gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gmd6f998\" class=\"section-gmd6f998 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "ff482e3c-a109-45ca-a17b-b2843d5a5037",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm9a0376",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "ebb5b9e8-d579-49f1-9a1f-dcc7eb55e7be",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gfd8b42",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gfd8b42\" class=\"wp-block-gutentor-e6 section-gfd8b42 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "eed7827d-8950-460c-ae65-761505f9368c",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g4ed81f",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g4ed81f\" class=\"wp-block-gutentor-e0 section-g4ed81f gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm9a0376\" class=\"section-gm9a0376 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "7464dfa7-7c19-4681-b71d-5eeaa396dec5",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmbf219a",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "d64b82a1-3b4f-40a7-9254-5fea22bed43a",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gcfcb45",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gcfcb45\" class=\"wp-block-gutentor-e6 section-gcfcb45 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "eecdcca1-01c5-4152-845e-b280b20f0b75",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g1e70a7",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g1e70a7\" class=\"wp-block-gutentor-e0 section-g1e70a7 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gmbf219a\" class=\"section-gmbf219a gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "cbfaff35-48e5-4369-b658-fe443cf23a21",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm32b0d7",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "06dee5a9-a605-4faa-9e7f-876c45e523df",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g766623",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g766623\" class=\"wp-block-gutentor-e6 section-g766623 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "cd2a0934-7203-49e0-8ecd-f7fdf6e227f4",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g1768a8",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g1768a8\" class=\"wp-block-gutentor-e0 section-g1768a8 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm32b0d7\" class=\"section-gm32b0d7 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "dcdd2719-97df-44a9-a422-796c5c0191a9",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm557db7",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "eb151f94-6b23-4b99-8b58-6de0a7771ff0",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gafce77",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gafce77\" class=\"wp-block-gutentor-e6 section-gafce77 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "d9e23b14-52d5-4f45-9916-30bf385306cc",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g873717",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g873717\" class=\"wp-block-gutentor-e0 section-g873717 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm557db7\" class=\"section-gm557db7 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "728f3b38-1ca0-4576-9b1b-808fd8e85c2e",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm68ea70",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "c08be347-8e9a-425b-9498-71f399aee6d3",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g5e9015",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g5e9015\" class=\"wp-block-gutentor-e6 section-g5e9015 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "c87edc13-f88b-4ec4-b242-587eaceea3bc",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g72d9c9",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g72d9c9\" class=\"wp-block-gutentor-e0 section-g72d9c9 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm68ea70\" class=\"section-gm68ea70 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "d07a650a-908c-4a35-8ad6-4a1606fc5b92",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm6df431",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "c2469f9b-e893-420d-afbc-d3284ad50e23",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g6cee63",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g6cee63\" class=\"wp-block-gutentor-e6 section-g6cee63 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "837cd7db-4143-4555-b6ac-214b3c9c07a4",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g1a0a65",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g1a0a65\" class=\"wp-block-gutentor-e0 section-g1a0a65 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm6df431\" class=\"section-gm6df431 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "78593cfa-84ca-4e02-9318-97c28eb6defc",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm51e308",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "15384eaf-b240-4ff1-8961-e7041611e298",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ga8988f",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ga8988f\" class=\"wp-block-gutentor-e6 section-ga8988f gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "509fd1f3-49bb-4a2f-b608-366f71407231",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g663733",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g663733\" class=\"wp-block-gutentor-e0 section-g663733 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm51e308\" class=\"section-gm51e308 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "208e0e75-654d-49c1-b7f4-5adb4fae9310",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmb8add7",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "d7c8b15e-224d-4e2d-b39c-d337cc882fee",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gffbf78",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gffbf78\" class=\"wp-block-gutentor-e6 section-gffbf78 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "79947717-3e5b-4029-a33b-224c37adc521",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g27975d",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g27975d\" class=\"wp-block-gutentor-e0 section-g27975d gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gmb8add7\" class=\"section-gmb8add7 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "73ecd6ec-15b8-4959-aef8-0e999e4f193c",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm802bb3",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "21be45a9-60c5-424e-8d65-28c7b68eb7c8",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gcc0e94",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gcc0e94\" class=\"wp-block-gutentor-e6 section-gcc0e94 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-2.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "9fadd91e-e2ac-4921-9f1c-7dcf42530e94",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gf05353",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gf05353\" class=\"wp-block-gutentor-e0 section-gf05353 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm802bb3\" class=\"section-gm802bb3 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "24ec54da-54e3-493d-9f79-8f2bda3308b5",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm98e8ec",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "ff722b37-601f-4006-bb86-e3b241689b63",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gfea747",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gfea747\" class=\"wp-block-gutentor-e6 section-gfea747 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-1.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "a79ca8ca-6d07-4cec-9237-2e2ba400bc42",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g6dd911",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g6dd911\" class=\"wp-block-gutentor-e0 section-g6dd911 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gm98e8ec\" class=\"section-gm98e8ec gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        },
+        {
+            "clientId": "8aadd36a-9b10-4b59-be1b-3629e2bb6fa0",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmeea944",
+                "gName": "gutentor/m2-col",
+                "mPID": "91e0a544-2ead-46fa-83d6-dfe92bc5b76b",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-2",
+                    "tablet": "grid-md-2",
+                    "mobile": "grid-6"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "4",
+                    "rRightN": "4",
+                    "rBottomN": "4",
+                    "rLeftN": "4"
+                },
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "mPadding": {},
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "20",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "8c4863fd-589d-46fd-b524-892045343793",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gffe2f4",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 265,
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot-265x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                                    "height": 385,
+                                    "width": 340,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "e6Border": {
+                            "rTopN": "5",
+                            "rRightN": "5"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gffe2f4\" class=\"wp-block-gutentor-e6 section-gffe2f4 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-16/wp-content/uploads/sites/28/2020/05/screenshot.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "11c41171-5c65-4522-ace8-50d8c5be614e",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g205134",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Barristar",
+                        "e0Tag": "h3",
+                        "e0Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#202020",
+                            "hover": ""
+                        },
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 15
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
+                        },
+                        "e0Padding": {
+                            "mTop": "8",
+                            "mBottom": "8"
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g205134\" class=\"wp-block-gutentor-e0 section-g205134 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Barristar</h3></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-2 grid-md-2 grid-6\"><div id=\"section-gmeea944\" class=\"section-gmeea944 gutentor-single-col has-color-bg has-custom-bg\">\n\n</div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"gm91e0a54\" class=\"wp-block-gutentor-m2 section-gm91e0a54 gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></section>"
+}
