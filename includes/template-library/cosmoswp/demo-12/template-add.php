@@ -98,7 +98,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_12' ) ) {
                     'categories'        => array('cosmoswp', 'gallery' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/templates/gallery/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-12/template-data/templates/gallery/screenshot.jpg',
-                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-12/services/',
+                    'demo_url'    => 'https://www.demo.cosmoswp.com/demo-12/gallery/',
                 ),
                 array(
                     'title'             => __('Team 12', 'gutentor' ),
