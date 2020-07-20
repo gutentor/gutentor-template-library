@@ -1,0 +1,3629 @@
+[
+    {
+        "clientId": "ffababac-d51b-45bc-9f30-7b5ba3704bf0",
+        "name": "gutentor/content-box",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<section id=\"section-436ef0d7-8b27-4178-a0a0-9c2b448a2737\" class=\"wp-block-gutentor-content-box gutentor-section gutentor-content-box-wrapper content-template2\"><div class=\"grid-container\"><div class=\"gutentor-block-header\"><div class=\"gutentor-section-title text-center\"><h2 class=\"gutentor-title\">  Lorem ipsum dolor </h2></div></div><div class=\"grid-row gutentor-grid-item-wrap\"><div class=\"gutentor-grid-column grid-lg-12 grid-md-12 grid-12\"><div class=\"gutentor-single-item gutentor-single-item-0\"><div class=\"gutentor-single-item-wrap\"><div class=\"gutentor-single-item-content\"><h3 class=\"gutentor-single-item-title\">Our Gallery</h3><p class=\"gutentor-single-item-desc\"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod   tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea   commodo consequat.<br> Duis aute irure dolor in reprehenderit in voluptate   velit esse cillum dolore</p></div></div></div></div></div></div></section>",
+        "attributes": {
+            "blockID": "ffababac-d51b-45bc-9f30-7b5ba3704bf0",
+            "timestamp": 0,
+            "gutentorBlockName": "gutentor/content-box",
+            "blockContentBoxTemplate": "content-template2",
+            "blockSortableItems": [
+                {
+                    "icon": {
+                        "label": "fa-desktop",
+                        "value": "fas fa-desktop",
+                        "code": "f108"
+                    },
+                    "title": "Our Gallery",
+                    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod   tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea   commodo consequat.<br> Duis aute irure dolor in reprehenderit in voluptate   velit esse cillum dolore"
+                }
+            ],
+            "blockComponentTitleEnable": true,
+            "blockComponentTitle": "  Lorem ipsum dolor ",
+            "blockComponentTitleTag": "h2",
+            "blockComponentTitleAlign": "text-center",
+            "blockComponentTitleColorEnable": true,
+            "blockComponentTitleColor": {
+                "color": {
+                    "_originalInput": "#797979",
+                    "_r": 121,
+                    "_g": 121,
+                    "_b": 121,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 6
+                },
+                "hex": "#797979",
+                "hsl": {
+                    "h": 0,
+                    "s": 0,
+                    "l": 47,
+                    "a": 1
+                },
+                "hsv": {
+                    "h": 0,
+                    "s": 0,
+                    "v": 47,
+                    "a": 1
+                },
+                "oldHue": 0,
+                "rgb": {
+                    "r": 121,
+                    "g": 121,
+                    "b": 121,
+                    "a": 1
+                },
+                "source": "hex"
+            },
+            "blockComponentTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Open+Sans",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": 14,
+                "fontWeight": "regular",
+                "textTransform": "uppercase",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": 1
+            },
+            "blockComponentTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "0",
+                "mobileRight": "0",
+                "mobileBottom": "0",
+                "mobileLeft": "0"
+            },
+            "blockComponentTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentTitleDesignEnable": false,
+            "blockComponentTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentSubTitleEnable": false,
+            "blockComponentSubTitle": "Block Sub Title",
+            "blockComponentSubTitleTag": "p",
+            "blockComponentSubTitleAlign": "text-center",
+            "blockComponentSubTitleColorEnable": true,
+            "blockComponentSubTitleColor": {
+                "hex": "#111111"
+            },
+            "blockComponentSubTitleTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSubTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentSubTitleDesignEnable": false,
+            "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentButtonEnable": true,
+            "blockComponentButtonAlign": "text-left",
+            "blockComponentButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentButtonText": "Gutentor Button",
+            "blockComponentButtonLink": "#",
+            "blockComponentButtonClassName": "",
+            "blockComponentButtonLayout": "",
+            "blockButtonGroupAlign": "flex-align-left",
+            "blockButtonDesktopFullwidth": false,
+            "blockButtonTabletFullwidth": false,
+            "blockButtonMobileFullwidth": false,
+            "blockComponentPrimaryButtonEnable": false,
+            "blockComponentPrimaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentPrimaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentPrimaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentPrimaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentPrimaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentPrimaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentPrimaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentPrimaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentPrimaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentPrimaryButtonText": "View More",
+            "blockComponentPrimaryButtonLink": "#",
+            "blockComponentPrimaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentPrimaryButtonClassName": "",
+            "blockComponentSecondaryButtonEnable": false,
+            "blockComponentSecondaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentSecondaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentSecondaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentSecondaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentSecondaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentSecondaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentSecondaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentSecondaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSecondaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentSecondaryButtonText": "View More",
+            "blockComponentSecondaryButtonLink": "#",
+            "blockComponentSecondaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentSecondaryButtonClassName": "",
+            "blockItemsCarouselEnable": false,
+            "blockItemsCarouselDots": false,
+            "blockItemsCarouselDotsTablet": false,
+            "blockItemsCarouselDotsMobile": false,
+            "blockItemsCarouselDotsColor": {
+                "enable": false,
+                "normal": "",
+                "hover": ""
+            },
+            "blockItemsCarouselDotsButtonBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockItemsCarouselArrows": true,
+            "blockItemsCarouselArrowsTablet": true,
+            "blockItemsCarouselArrowsMobile": true,
+            "blockItemsCarouselArrowsBgColor": {
+                "enable": false,
+                "normal": "",
+                "hover": ""
+            },
+            "blockItemsCarouselArrowsTextColor": {
+                "enable": false,
+                "normal": "",
+                "hover": ""
+            },
+            "blockItemsCarouselInfinite": false,
+            "blockItemsCarouselFade": false,
+            "blockItemsCarouselAutoPlay": false,
+            "blockItemsCarouselSlideSpeed": 300,
+            "blockItemsCarouselCenterMode": false,
+            "blockItemsCarouselCenterPadding": 60,
+            "blockItemsCarouselAutoPlaySpeed": 1200,
+            "blockItemsCarouselResponsiveSlideItem": {
+                "desktop": "4",
+                "tablet": "3",
+                "mobile": "2"
+            },
+            "blockItemsCarouselResponsiveSlideScroll": {
+                "desktop": "4",
+                "tablet": "3",
+                "mobile": "2"
+            },
+            "blockItemsCarouselNextArrow": {
+                "label": "fa-angle-right",
+                "value": "fas fa-angle-right",
+                "code": "f105"
+            },
+            "blockItemsCarouselPrevArrow": {
+                "label": "fa-angle-left",
+                "value": "fas fa-angle-left",
+                "code": "f104"
+            },
+            "blockItemsCarouselButtonIconSize": 16,
+            "blockItemsCarouselArrowButtonHeight": {
+                "desktop": "40",
+                "tablet": "30",
+                "mobile": "20"
+            },
+            "blockItemsCarouselArrowButtonWidth": {
+                "desktop": "40",
+                "tablet": "30",
+                "mobile": "20"
+            },
+            "blockItemsCarouselArrowButtonBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockItemsWrapMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockItemsColumn": {
+                "desktop": "grid-lg-12",
+                "tablet": "grid-md-12",
+                "mobile": "grid-12"
+            },
+            "blockNonRepeaterTabletFullWidth": false,
+            "blockNonRepeaterMobileFullWidth": false,
+            "blockSingleItemBoxColor": {
+                "enable": true,
+                "normal": "",
+                "hover": ""
+            },
+            "blockSingleItemBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockSingleItemBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockItemButtonText": "Read More",
+            "blockItemButtonLink": "#",
+            "blockSingleItemButtonEnable": false,
+            "blockSingleItemButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockSingleItemButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockSingleItemButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockSingleItemButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonPadding": {
+                "type": "px",
+                "desktopTop": "10",
+                "desktopRight": "15",
+                "desktopBottom": "10",
+                "desktopLeft": "15",
+                "tabletTop": "10",
+                "tabletRight": "15",
+                "tabletBottom": "10",
+                "tabletLeft": "15",
+                "mobileTop": "10",
+                "mobileRight": "15",
+                "mobileBottom": "10",
+                "mobileLeft": "15"
+            },
+            "blockSingleItemButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockSingleItemButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockSingleItemButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "14",
+                "tabletFontSize": "14",
+                "mobileFontSize": "14",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockSingleItemButtonText": "View More",
+            "blockSingleItemButtonLink": "#",
+            "blockItemButtonClassName": "",
+            "blockItemDescription": "Short Description",
+            "blockSingleItemDescriptionEnable": true,
+            "blockSingleItemDescriptionTag": "p",
+            "blockSingleItemDescriptionColor": {
+                "enable": false,
+                "normal": "",
+                "hover": ""
+            },
+            "blockSingleItemDescriptionTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemDescriptionMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemDescriptionPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemTitle": "Title",
+            "blockSingleItemTitleEnable": true,
+            "blockSingleItemTitleTag": "h3",
+            "blockSingleItemTitleColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": "#3b3b3b",
+                        "_r": 59,
+                        "_g": 59,
+                        "_b": 59,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hex",
+                        "_ok": true,
+                        "_tc_id": 13
+                    },
+                    "hex": "#3b3b3b",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 23,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 23,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 59,
+                        "g": 59,
+                        "b": 59,
+                        "a": 1
+                    },
+                    "source": "hex"
+                },
+                "hover": ""
+            },
+            "blockSingleItemTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Playfair+Display",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": 40,
+                "mobileFontSize": 24,
+                "fontWeight": "700",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": 0.5,
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "0",
+                "mobileRight": "0",
+                "mobileBottom": "40",
+                "mobileLeft": "0"
+            },
+            "blockSingleItemTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentBGVideoLoop": true,
+            "blockComponentBGVideoMuted": true,
+            "blockComponentEnableOverlay": false,
+            "blockComponentDesktopDisplayMode": false,
+            "blockComponentTabletDisplayMode": false,
+            "blockComponentMobileDisplayMode": false,
+            "blockComponentBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockComponentMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPadding": {
+                "type": "px",
+                "desktopTop": "80",
+                "tabletTop": "60",
+                "mobileTop": "40"
+            },
+            "blockComponentBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSectionHtmlTag": "section",
+            "blockShapeTopSelect": "",
+            "blockShapeTopSelectEnableColor": "",
+            "blockShapeTopFlipVertically": false,
+            "blockShapeTopFlipHorizontally": false,
+            "blockShapeTopSelectColor": "",
+            "blockShapeTopHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopPosition": "",
+            "blockShapeBottomSelect": "",
+            "blockShapeBottomSelectEnableColor": "",
+            "blockShapeBottomFlipVertically": false,
+            "blockShapeBottomFlipHorizontally": false,
+            "blockShapeBottomSelectColor": "",
+            "blockShapeBottomHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomPosition": "",
+            "blockComponentEnablePosition": false,
+            "blockComponentEnableContentVerticalAlign": false,
+            "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+            "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+            "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+            "blockComponentPositionTypeDesktop": "g-pos-d",
+            "blockComponentPositionTypeTablet": "g-pos-d",
+            "blockComponentPositionTypeMobile": "g-pos-d",
+            "blockComponentPositionDesktop": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionDesktopWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionTablet": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionTabletWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionMobile": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionMobileWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentEnableZIndex": false,
+            "blockComponentZIndex": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentEnableHeight": false,
+            "blockComponentHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveContainerSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveRowSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveColumnSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            }
+        },
+        "innerBlocks": []
+    },
+    {
+        "clientId": "623ffd1f-525f-4862-9c39-7e22bd8c562f",
+        "name": "gutentor/gallery",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<section id=\"section-c613d0fc-27d9-42e4-8eda-81bcf4eeb8f9\" class=\"wp-block-gutentor-gallery gutentor-section gutentor-gallery gutentor-gallery-wrapper enable-masonry gallery-template2\"><div class=\"grid-container\"><div class=\"grid-row gutentor-grid-item-wrap full-width-row\"><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-0\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Private Dinning</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-1\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item  </h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-2\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Sweet Desert</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-3\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Pasta</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-4\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551.jpeg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Meat Cooking</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551.jpeg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-5\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\"> Sweet Desert </h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-6\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Gallery Item </h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-7\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Brunch Set</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-8\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\"> Sweet Desert </h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-9\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\"> Sweet Desert </h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-10\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Cookies</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div><div class=\"gutentor-gallery-item grid-lg-3 grid-md-4 grid-6\"><div class=\"gutentor-single-item gutentor-image gutentor-single-item-11\"><div class=\"gutentor-gallery-item-wrap\"><div class=\"gutentor-single-item-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2.jpg\" alt=\"\"/><div class=\"overlay\"></div></div></div><div class=\"gutentor-single-item-content\"><div class=\"gutentor-gallery-item-header\"><h3 class=\"gutentor-single-item-title\">Morning Breakfast</h3><a href=\"https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2.jpg\" class=\"image-gallery\"><i class=\"gallery-icon fas fa-search\"></i></a></div><div class=\"gutentor-gallery-item-desc\"></div></div></div></div></div></div></div></section>",
+        "attributes": {
+            "blockID": "623ffd1f-525f-4862-9c39-7e22bd8c562f",
+            "timestamp": 0,
+            "gutentorBlockName": "gutentor/gallery",
+            "blockSortableItems": [
+                {
+                    "image": {
+                        "id": 177,
+                        "title": "architecture-1837150_1920(1)",
+                        "filename": "architecture-1837150_19201.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/architecture-1837150_19201/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "architecture-1837150_19201",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T11:25:25.000Z",
+                        "modified": "2019-11-25T11:25:25.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "55fb2adf14",
+                            "delete": "7c02eb010a",
+                            "edit": "fc9b107dc1"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=177&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 207313,
+                        "filesizeHumanReadable": "202 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/architecture-1837150_19201.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Private Dinning"
+                },
+                {
+                    "image": {
+                        "id": 230,
+                        "title": "food-plate-wood-restaurant",
+                        "filename": "food-plate-wood-restaurant.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/2019/11/25/french-fries/food-plate-wood-restaurant/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "food-plate-wood-restaurant",
+                        "status": "inherit",
+                        "uploadedTo": 229,
+                        "date": "2019-11-25T12:31:56.000Z",
+                        "modified": "2019-11-25T12:31:56.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "7e382d781a",
+                            "delete": "c97780173a",
+                            "edit": "dd7292484d"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=230&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=229&action=edit",
+                        "uploadedToTitle": "Your Weeknight Dinner Plan",
+                        "filesizeInBytes": 208291,
+                        "filesizeHumanReadable": "203 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item  "
+                },
+                {
+                    "image": {
+                        "id": 98,
+                        "title": "slices-strawberries-on-chopping-board-1030865",
+                        "filename": "slices-strawberries-on-chopping-board-1030865.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/slices-strawberries-on-chopping-board-1030865/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "slices-strawberries-on-chopping-board-1030865",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T10:17:34.000Z",
+                        "modified": "2019-11-25T10:17:34.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "83c9fa7d98",
+                            "delete": "6aa4cf65df",
+                            "edit": "51b0070192"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=98&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 426164,
+                        "filesizeHumanReadable": "416 KB",
+                        "context": "",
+                        "height": 2448,
+                        "width": 2448,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-300x300.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 640,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-1024x1024.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                                "height": 2448,
+                                "width": 2448,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Sweet Desert"
+                },
+                {
+                    "image": {
+                        "id": 189,
+                        "title": "salad-2068220_1280",
+                        "filename": "salad-2068220_1280.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/salad-2068220_1280/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "salad-2068220_1280",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T11:42:29.000Z",
+                        "modified": "2019-11-25T11:42:29.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "f76e08167d",
+                            "delete": "5dfd6b1173",
+                            "edit": "1b37fa26fb"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=189&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 356447,
+                        "filesizeHumanReadable": "348 KB",
+                        "context": "",
+                        "height": 853,
+                        "width": 1280,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 426,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280-1024x682.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/salad-2068220_1280.jpg",
+                                "height": 853,
+                                "width": 1280,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Pasta"
+                },
+                {
+                    "image": {
+                        "id": 13,
+                        "title": "pexels-photo-1268551",
+                        "filename": "pexels-photo-1268551.jpeg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551.jpeg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/pexels-photo-1268551/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "pexels-photo-1268551",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T05:37:11.000Z",
+                        "modified": "2019-11-25T05:37:11.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "91c155c31b",
+                            "delete": "0a4055a8f8",
+                            "edit": "36d427b2a3"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=13&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 311913,
+                        "filesizeHumanReadable": "305 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551-150x150.jpeg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551-300x200.jpeg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551-1024x683.jpeg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/pexels-photo-1268551.jpeg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Meat Cooking"
+                },
+                {
+                    "image": {
+                        "id": 98,
+                        "title": "slices-strawberries-on-chopping-board-1030865",
+                        "filename": "slices-strawberries-on-chopping-board-1030865.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/slices-strawberries-on-chopping-board-1030865/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "slices-strawberries-on-chopping-board-1030865",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T10:17:34.000Z",
+                        "modified": "2019-11-25T10:17:34.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "83c9fa7d98",
+                            "delete": "6aa4cf65df",
+                            "edit": "51b0070192"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=98&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 426164,
+                        "filesizeHumanReadable": "416 KB",
+                        "context": "",
+                        "height": 2448,
+                        "width": 2448,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-300x300.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 640,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-1024x1024.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                                "height": 2448,
+                                "width": 2448,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": " Sweet Desert "
+                },
+                {
+                    "image": {
+                        "id": 14,
+                        "title": "eating-601581_1920",
+                        "filename": "eating-601581_1920.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/eating-601581_1920/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "eating-601581_1920",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T05:37:16.000Z",
+                        "modified": "2019-11-25T05:37:16.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "359fe01826",
+                            "delete": "ea77522cc7",
+                            "edit": "a723fb40ca"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=14&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 299118,
+                        "filesizeHumanReadable": "292 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/eating-601581_1920.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Gallery Item "
+                },
+                {
+                    "image": {
+                        "id": 230,
+                        "title": "food-plate-wood-restaurant",
+                        "filename": "food-plate-wood-restaurant.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/2019/11/25/french-fries/food-plate-wood-restaurant/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "food-plate-wood-restaurant",
+                        "status": "inherit",
+                        "uploadedTo": 229,
+                        "date": "2019-11-25T12:31:56.000Z",
+                        "modified": "2019-11-25T12:31:56.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "7e382d781a",
+                            "delete": "c97780173a",
+                            "edit": "dd7292484d"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=230&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=229&action=edit",
+                        "uploadedToTitle": "Your Weeknight Dinner Plan",
+                        "filesizeInBytes": 208291,
+                        "filesizeHumanReadable": "203 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/food-plate-wood-restaurant.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Brunch Set"
+                },
+                {
+                    "image": {
+                        "id": 98,
+                        "title": "slices-strawberries-on-chopping-board-1030865",
+                        "filename": "slices-strawberries-on-chopping-board-1030865.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/slices-strawberries-on-chopping-board-1030865/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "slices-strawberries-on-chopping-board-1030865",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T10:17:34.000Z",
+                        "modified": "2019-11-25T10:17:34.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "83c9fa7d98",
+                            "delete": "6aa4cf65df",
+                            "edit": "51b0070192"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=98&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 426164,
+                        "filesizeHumanReadable": "416 KB",
+                        "context": "",
+                        "height": 2448,
+                        "width": 2448,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-300x300.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 640,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-1024x1024.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                                "height": 2448,
+                                "width": 2448,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": " Sweet Desert "
+                },
+                {
+                    "image": {
+                        "id": 98,
+                        "title": "slices-strawberries-on-chopping-board-1030865",
+                        "filename": "slices-strawberries-on-chopping-board-1030865.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/slices-strawberries-on-chopping-board-1030865/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "slices-strawberries-on-chopping-board-1030865",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T10:17:34.000Z",
+                        "modified": "2019-11-25T10:17:34.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "83c9fa7d98",
+                            "delete": "6aa4cf65df",
+                            "edit": "51b0070192"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=98&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 426164,
+                        "filesizeHumanReadable": "416 KB",
+                        "context": "",
+                        "height": 2448,
+                        "width": 2448,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 300,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-300x300.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 640,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865-1024x1024.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/slices-strawberries-on-chopping-board-1030865.jpg",
+                                "height": 2448,
+                                "width": 2448,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": " Sweet Desert "
+                },
+                {
+                    "image": {
+                        "id": 129,
+                        "title": "man-table-person-people-plant-woman-1070851-pxhere.com",
+                        "filename": "man-table-person-people-plant-woman-1070851-pxhere.com_.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/man-table-person-people-plant-woman-1070851-pxhere-com/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "man-table-person-people-plant-woman-1070851-pxhere-com",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T10:47:49.000Z",
+                        "modified": "2019-11-25T10:47:49.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "f8fdad4677",
+                            "delete": "f796e7ba08",
+                            "edit": "79aad70e89"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=129&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 397357,
+                        "filesizeHumanReadable": "388 KB",
+                        "context": "",
+                        "height": 1200,
+                        "width": 1800,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/man-table-person-people-plant-woman-1070851-pxhere.com_.jpg",
+                                "height": 1200,
+                                "width": 1800,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Cookies"
+                },
+                {
+                    "image": {
+                        "id": 96,
+                        "title": "banner2",
+                        "filename": "banner2.jpg",
+                        "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2.jpg",
+                        "link": "https://www.demo.cosmoswp.com/demo-12/home/banner2/",
+                        "alt": "",
+                        "author": "1",
+                        "description": "",
+                        "caption": "",
+                        "name": "banner2",
+                        "status": "inherit",
+                        "uploadedTo": 5,
+                        "date": "2019-11-25T08:46:32.000Z",
+                        "modified": "2019-11-25T08:46:32.000Z",
+                        "menuOrder": 0,
+                        "mime": "image/jpeg",
+                        "type": "image",
+                        "subtype": "jpeg",
+                        "icon": "https://www.demo.cosmoswp.com/demo-12/wp-includes/images/media/default.png",
+                        "dateFormatted": "November 25, 2019",
+                        "nonces": {
+                            "update": "87f63eac4a",
+                            "delete": "b6f36f79f4",
+                            "edit": "f1c1113648"
+                        },
+                        "editLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=96&action=edit",
+                        "meta": false,
+                        "authorName": "demo.cosmoswp.com",
+                        "uploadedToLink": "https://www.demo.cosmoswp.com/demo-12/wp-admin/post.php?post=5&action=edit",
+                        "uploadedToTitle": "Home",
+                        "filesizeInBytes": 339041,
+                        "filesizeHumanReadable": "331 KB",
+                        "context": "",
+                        "height": 1280,
+                        "width": 1920,
+                        "orientation": "landscape",
+                        "sizes": {
+                            "thumbnail": {
+                                "height": 150,
+                                "width": 150,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2-150x150.jpg",
+                                "orientation": "landscape"
+                            },
+                            "medium": {
+                                "height": 200,
+                                "width": 300,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2-300x200.jpg",
+                                "orientation": "landscape"
+                            },
+                            "large": {
+                                "height": 427,
+                                "width": 640,
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2-1024x683.jpg",
+                                "orientation": "landscape"
+                            },
+                            "full": {
+                                "url": "https://www.demo.cosmoswp.com/demo-12/wp-content/uploads/sites/13/2019/11/banner2.jpg",
+                                "height": 1280,
+                                "width": 1920,
+                                "orientation": "landscape"
+                            }
+                        },
+                        "compat": {
+                            "item": "",
+                            "meta": ""
+                        }
+                    },
+                    "title": "Morning Breakfast"
+                }
+            ],
+            "blockEnableMasonry": true,
+            "blockComponentTitleEnable": false,
+            "blockComponentTitle": "Our Gallery",
+            "blockComponentTitleTag": "h2",
+            "blockComponentTitleAlign": "text-center",
+            "blockComponentTitleColorEnable": true,
+            "blockComponentTitleColor": {
+                "color": {
+                    "_originalInput": "#091e42",
+                    "_r": 9,
+                    "_g": 30,
+                    "_b": 66,
+                    "_a": 1,
+                    "_roundA": 1,
+                    "_format": "hex",
+                    "_ok": true,
+                    "_tc_id": 4
+                },
+                "hex": "#091e42",
+                "hsl": {
+                    "h": 218,
+                    "s": 76,
+                    "l": 15,
+                    "a": 1
+                },
+                "hsv": {
+                    "h": 218,
+                    "s": 86,
+                    "v": 26,
+                    "a": 1
+                },
+                "oldHue": 218,
+                "rgb": {
+                    "r": 9,
+                    "g": 30,
+                    "b": 66,
+                    "a": 1
+                },
+                "source": "hex"
+            },
+            "blockComponentTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Work+Sans",
+                "customFont": "",
+                "desktopFontSize": 32,
+                "tabletFontSize": "",
+                "mobileFontSize": 24,
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentTitleDesignEnable": true,
+            "blockComponentTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentSubTitleEnable": false,
+            "blockComponentSubTitle": "Block Sub Title",
+            "blockComponentSubTitleTag": "p",
+            "blockComponentSubTitleAlign": "text-center",
+            "blockComponentSubTitleColorEnable": true,
+            "blockComponentSubTitleColor": {
+                "hex": "#111111"
+            },
+            "blockComponentSubTitleTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSubTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSubTitleAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentSubTitleDesignEnable": false,
+            "blockComponentSubTitleSeperatorPosition": "seperator-bottom",
+            "blockComponentButtonEnable": true,
+            "blockComponentButtonAlign": "text-left",
+            "blockComponentButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentButtonText": "Gutentor Button",
+            "blockComponentButtonLink": "#",
+            "blockComponentButtonClassName": "",
+            "blockComponentButtonLayout": "",
+            "blockButtonGroupAlign": "flex-align-left",
+            "blockButtonDesktopFullwidth": false,
+            "blockButtonTabletFullwidth": false,
+            "blockButtonMobileFullwidth": false,
+            "blockComponentPrimaryButtonEnable": false,
+            "blockComponentPrimaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentPrimaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentPrimaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentPrimaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentPrimaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentPrimaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPrimaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentPrimaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentPrimaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentPrimaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentPrimaryButtonText": "View More",
+            "blockComponentPrimaryButtonLink": "#",
+            "blockComponentPrimaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentPrimaryButtonClassName": "",
+            "blockComponentSecondaryButtonEnable": false,
+            "blockComponentSecondaryButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockComponentSecondaryButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockComponentSecondaryButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockComponentSecondaryButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonPadding": {
+                "type": "px",
+                "desktopTop": "12",
+                "desktopRight": "25",
+                "desktopBottom": "12",
+                "desktopLeft": "25",
+                "tabletTop": "12",
+                "tabletRight": "25",
+                "tabletBottom": "12",
+                "tabletLeft": "25",
+                "mobileTop": "12",
+                "mobileRight": "25",
+                "mobileBottom": "12",
+                "mobileLeft": "25"
+            },
+            "blockComponentSecondaryButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockComponentSecondaryButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentSecondaryButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockComponentSecondaryButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockComponentSecondaryButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "16",
+                "tabletFontSize": "16",
+                "mobileFontSize": "16",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockComponentSecondaryButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockComponentSecondaryButtonText": "View More",
+            "blockComponentSecondaryButtonLink": "#",
+            "blockComponentSecondaryButtonResponsiveSetting": {
+                "fullWidthInMobile": false
+            },
+            "blockComponentSecondaryButtonClassName": "",
+            "blockItemsWrapMargin": {
+                "type": "px",
+                "desktopTop": "80",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "40",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemsWrapAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockItemsColumn": {
+                "desktop": "grid-lg-3",
+                "tablet": "grid-md-4",
+                "mobile": "grid-6"
+            },
+            "blockNonRepeaterTabletFullWidth": false,
+            "blockNonRepeaterMobileFullWidth": false,
+            "blockSingleItemBoxColor": {
+                "enable": true,
+                "normal": "",
+                "hover": ""
+            },
+            "blockSingleItemBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "5",
+                "borderRadiusRight": "5",
+                "borderRadiusBottom": "5",
+                "borderRadiusLeft": "5"
+            },
+            "blockSingleItemBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockItemButtonText": "Read More",
+            "blockItemButtonLink": "#",
+            "blockSingleItemButtonEnable": false,
+            "blockSingleItemButtonLinkOptions": {
+                "openInNewTab": false,
+                "rel": ""
+            },
+            "blockSingleItemButtonColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#275cf6",
+                    "rgb": {
+                        "r": "39",
+                        "g": "92",
+                        "b": "246",
+                        "a": "1"
+                    }
+                },
+                "hover": {
+                    "hex": "#1949d4",
+                    "rgb": {
+                        "r": "25",
+                        "g": "73",
+                        "b": "212",
+                        "a": "1"
+                    }
+                }
+            },
+            "blockSingleItemButtonTextColor": {
+                "enable": true,
+                "normal": {
+                    "hex": "#fff"
+                },
+                "hover": ""
+            },
+            "blockSingleItemButtonMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonPadding": {
+                "type": "px",
+                "desktopTop": "10",
+                "desktopRight": "15",
+                "desktopBottom": "10",
+                "desktopLeft": "15",
+                "tabletTop": "10",
+                "tabletRight": "15",
+                "tabletBottom": "10",
+                "tabletLeft": "15",
+                "mobileTop": "10",
+                "mobileRight": "15",
+                "mobileBottom": "10",
+                "mobileLeft": "15"
+            },
+            "blockSingleItemButtonIconOptions": {
+                "position": "hide",
+                "size": ""
+            },
+            "blockSingleItemButtonIconMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonIconPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemButtonBorder": {
+                "borderStyle": "",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "3",
+                "borderRadiusRight": "3",
+                "borderRadiusBottom": "3",
+                "borderRadiusLeft": "3"
+            },
+            "blockSingleItemButtonBoxShadow": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSingleItemButtonTypography": {
+                "fontType": "system",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "14",
+                "tabletFontSize": "14",
+                "mobileFontSize": "14",
+                "fontWeight": "",
+                "textTransform": "normal",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemButtonIcon": {
+                "label": "fa-book",
+                "value": "fas fa-book",
+                "code": "f108"
+            },
+            "blockSingleItemButtonText": "View More",
+            "blockSingleItemButtonLink": "#",
+            "blockItemButtonClassName": "",
+            "blockItemDescription": "Short Description",
+            "blockSingleItemDescriptionEnable": false,
+            "blockSingleItemDescriptionTag": "p",
+            "blockSingleItemDescriptionColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 117.43667830518757,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 51
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": ""
+            },
+            "blockSingleItemDescriptionTypography": {
+                "fontType": "default",
+                "systemFont": "",
+                "googleFont": "",
+                "customFont": "",
+                "desktopFontSize": "",
+                "tabletFontSize": "",
+                "mobileFontSize": "",
+                "fontWeight": "",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemDescriptionMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemDescriptionPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockItemTitle": "Title",
+            "blockSingleItemTitleEnable": true,
+            "blockSingleItemTitleTag": "h3",
+            "blockSingleItemTitleColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.56630354078997,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 43
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": ""
+            },
+            "blockSingleItemTitleTypography": {
+                "fontType": "google",
+                "systemFont": "",
+                "googleFont": "Playfair+Display",
+                "customFont": "",
+                "tabletFontSize": "",
+                "mobileFontSize": 17,
+                "fontWeight": "700",
+                "textTransform": "",
+                "fontStyle": "",
+                "textDecoration": "",
+                "desktopLineHeight": "",
+                "tabletLineHeight": "",
+                "mobileLineHeight": "",
+                "desktopLetterSpacing": "",
+                "tabletLetterSpacing": "",
+                "mobileLetterSpacing": ""
+            },
+            "blockSingleItemTitleMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockSingleItemTitlePadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "Iteration": ""
+            },
+            "blockComponentBGVideoLoop": true,
+            "blockComponentBGVideoMuted": true,
+            "blockComponentEnableOverlay": false,
+            "blockComponentDesktopDisplayMode": false,
+            "blockComponentTabletDisplayMode": false,
+            "blockComponentMobileDisplayMode": false,
+            "blockComponentBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockComponentMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockComponentPadding": {
+                "type": "px",
+                "desktopTop": "0",
+                "desktopRight": "",
+                "desktopBottom": "80",
+                "desktopLeft": "",
+                "tabletTop": "0",
+                "tabletRight": "",
+                "tabletBottom": "60",
+                "tabletLeft": "",
+                "mobileTop": "0",
+                "mobileRight": "",
+                "mobileBottom": "40",
+                "mobileLeft": ""
+            },
+            "blockComponentBoxShadowOptions": {
+                "boxShadowColor": "",
+                "boxShadowX": "",
+                "boxShadowY": "",
+                "boxShadowBlur": "",
+                "boxShadowSpread": "",
+                "boxShadowPosition": ""
+            },
+            "blockSectionHtmlTag": "section",
+            "blockShapeTopSelect": "",
+            "blockShapeTopSelectEnableColor": "",
+            "blockShapeTopFlipVertically": false,
+            "blockShapeTopFlipHorizontally": false,
+            "blockShapeTopSelectColor": "",
+            "blockShapeTopHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeTopPosition": "",
+            "blockShapeBottomSelect": "",
+            "blockShapeBottomSelectEnableColor": "",
+            "blockShapeBottomFlipVertically": false,
+            "blockShapeBottomFlipHorizontally": false,
+            "blockShapeBottomSelectColor": "",
+            "blockShapeBottomHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockShapeBottomPosition": "",
+            "blockComponentEnablePosition": false,
+            "blockComponentEnableContentVerticalAlign": false,
+            "blockComponentContentVerticalAlignMobile": "g-c-r-valign",
+            "blockComponentContentVerticalAlignTablet": "g-c-r-valign",
+            "blockComponentContentVerticalAlignDesktop": "g-c-r-valign",
+            "blockComponentPositionTypeDesktop": "g-pos-d",
+            "blockComponentPositionTypeTablet": "g-pos-d",
+            "blockComponentPositionTypeMobile": "g-pos-d",
+            "blockComponentPositionDesktop": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionDesktopWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionTablet": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionTabletWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentPositionMobile": {
+                "type": "px",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "blockComponentPositionMobileWidth": {
+                "type": "px",
+                "width": ""
+            },
+            "blockComponentEnableZIndex": false,
+            "blockComponentZIndex": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentEnableHeight": false,
+            "blockComponentHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveContainerSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveRowSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockComponentRemoveColumnSpace": {
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockGalleryTemplate": "gallery-template2",
+            "blockImageBoxOverlayBorderColor": {
+                "enable": false,
+                "normal": ""
+            },
+            "blockImageBoxOverlayBottomColor": {
+                "enable": false,
+                "normal": ""
+            },
+            "blockImageBoxBackgroundImageOptions": {
+                "backgroundImage": "",
+                "desktopHeight": "",
+                "tabletHeight": "",
+                "mobileHeight": "",
+                "type": "px",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "backgroundRepeat": "no-repeat",
+                "backgroundAttachment": "scroll"
+            },
+            "blockGalleryPopup": {
+                "label": "fa-search",
+                "value": "fas fa-search",
+                "code": "f002"
+            },
+            "blockGalleryIconSize": 16,
+            "blockGalleryIconColor": {
+                "enable": true,
+                "normal": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 210,
+                            "s": 0,
+                            "v": 127.39080642613025,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 60
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 210,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 210,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 210,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
+                },
+                "hover": {
+                    "hex": "#275cf6"
+                }
+            },
+            "blockGalleryIconBgColor": {
+                "enable": false,
+                "normal": {
+                    "hex": "#23282d"
+                },
+                "hover": {
+                    "hex": "#275cf6"
+                }
+            },
+            "blockGalleryEnableIconBoxOptions": false,
+            "blockGalleryIconBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockGalleryIconBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockGalleryIconBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": ""
+            },
+            "blockGalleryContentOnHover": false,
+            "image": "",
+            "blockImageBoxImageOverlayColor": {
+                "enable": true,
+                "normal": "",
+                "hover": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 193,
+                            "s": 0,
+                            "v": 0,
+                            "a": 0.71,
+                            "source": "rgb"
+                        },
+                        "_r": 0,
+                        "_g": 0,
+                        "_b": 0,
+                        "_a": 0.71,
+                        "_roundA": 0.71,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 83
+                    },
+                    "hex": "#000000",
+                    "hsl": {
+                        "h": 193,
+                        "s": 0,
+                        "l": 0,
+                        "a": 0.71
+                    },
+                    "hsv": {
+                        "h": 193,
+                        "s": 0,
+                        "v": 0,
+                        "a": 0.71
+                    },
+                    "oldHue": 193,
+                    "rgb": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 0.71
+                    },
+                    "source": "rgb"
+                }
+            },
+            "blockFullImageEnable": false,
+            "blockEnableImageBoxWidth": false,
+            "blockImageBoxWidth": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockEnableImageBoxHeight": false,
+            "blockImageBoxHeight": {
+                "type": "px",
+                "desktop": "",
+                "tablet": "",
+                "mobile": ""
+            },
+            "blockEnableImageBoxDisplayOptions": false,
+            "blockImageBoxDisplayOptions": "normal-image",
+            "blockEnableImageBoxBorder": false,
+            "blockImageBoxBorder": {
+                "borderStyle": "none",
+                "borderTop": "",
+                "borderRight": "",
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderColorNormal": "",
+                "borderColorHover": "",
+                "borderRadiusType": "px",
+                "borderRadiusTop": "",
+                "borderRadiusRight": "",
+                "borderRadiusBottom": "",
+                "borderRadiusLeft": ""
+            },
+            "blockImageBoxMargin": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockImageBoxPadding": {
+                "type": "px",
+                "desktopTop": "",
+                "desktopRight": "",
+                "desktopBottom": "",
+                "desktopLeft": "",
+                "tabletTop": "",
+                "tabletRight": "",
+                "tabletBottom": "",
+                "tabletLeft": "",
+                "mobileTop": "",
+                "mobileRight": "",
+                "mobileBottom": "",
+                "mobileLeft": ""
+            },
+            "blockImageBoxLinkOptionsEnable": false,
+            "blockImageBoxLinkUrl": "#",
+            "blockImageBoxLinkOpenNewTab": false,
+            "blockImageBoxLinkRel": "noopener noreferrer"
+        },
+        "innerBlocks": []
+    },
+    {
+        "clientId": "0beb91a8-66ba-4481-bf56-80b5452066fa",
+        "name": "core/paragraph",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<p></p>",
+        "attributes": {
+            "content": "",
+            "dropCap": false
+        },
+        "innerBlocks": []
+    }
+]
