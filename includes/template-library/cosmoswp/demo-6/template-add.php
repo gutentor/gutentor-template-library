@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
                 //Block/Modules Templates Starts
                 array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced columns' ),
 					'categories'		=> array( 'cosmoswp','advanced-columns' ),
@@ -66,7 +66,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
 				),
                 array(
 					'title'				=> __( 'Advanced Columns', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'advanced-columns', 'advanced columns' ),
 					'categories'		=> array( 'cosmoswp','advanced-columns' ),
@@ -77,7 +77,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
             
                 array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', ),
 					'categories'		=> array( 'cosmoswp','icon-box' ),
@@ -87,7 +87,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_6' ) ) {
                 ),
                 array(
 					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'restaurant-menu' ),
 					'categories'		=> array( 'cosmoswp','restaurant-menu' ),
