@@ -88,7 +88,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                 array(
                     'title'             => __('Advanced Post Module','gutentor'),
                     'type'              => 'block',
-                    'author'            => __('Gutentor', 'gutentor'),
+                    'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('advanced-post-module', 'advanced-post-module 1'),
                     'categories'        => array('cosmoswp','advanced-post-module'),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-1/template.json',
@@ -98,7 +98,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                 array(
                     'title'             => __('Advanced Post Module','gutentor'),
                     'type'              => 'block',
-                    'author'            => __('Gutentor', 'gutentor'),
+                    'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('advanced-post-module', 'advanced-post-module 2'),
                     'categories'        => array('cosmoswp','advanced-post-module'),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-2/template.json',
@@ -108,7 +108,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                  array(
                     'title'             => __('Advanced Post Module','gutentor'),
                     'type'              => 'block',
-                    'author'            => __('Gutentor', 'gutentor'),
+                    'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('advanced-post-module', 'advanced-post-module 3'),
                     'categories'        => array('cosmoswp','advanced-post-module'),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-3/template.json',
@@ -118,7 +118,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                 array(
                     'title'             => __('Advanced Post Module','gutentor'),
                     'type'              => 'block',
-                    'author'            => __('Gutentor', 'gutentor'),
+                    'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('advanced-post-module', 'advanced-post-module 4'),
                     'categories'        => array('cosmoswp','advanced-post-module'),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-4/template.json',
@@ -128,7 +128,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                 array(
                     'title'             => __('Advanced Post Module','gutentor'),
                     'type'              => 'block',
-                    'author'            => __('Gutentor', 'gutentor'),
+                    'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('advanced-post-module', 'advanced-post-module 5'),
                     'categories'        => array('cosmoswp','advanced-post-module'),
                     'template_url'      => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-5/template.json',
@@ -146,7 +146,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                     'type'              => 'template',
                     'author'            => __( 'CosmosWP', 'gutentor' ),
                     'keywords'          => array('edd','home','home 17' ),
-                    'categories'        => array( 'cosmoswp', 'edd' ),
+                    'categories'        => array( 'cosmoswp', 'blog','magazine' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-17/',
