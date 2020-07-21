@@ -151,8 +151,8 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                     'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'          => array('news-ticker', 'news-ticker 1'),
                     'categories'        => array('cosmoswp','news-ticker'),
-                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/news-ticker/template.json',
-                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/news-ticker/screenshot.jpg',
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/news-ticker/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/news-ticker/screenshot.jpg',
                     'demo_url'          => 'https://www.demo.cosmoswp.com/demo-17/#7d9cb980-544e-49c5-b089-d52e895f4d7e',
                 ),
   
