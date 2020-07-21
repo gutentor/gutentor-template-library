@@ -56,7 +56,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_1' ) ) {
                 //Block/Modules Templates Starts
                 array(
 					'title'				=> __( 'About Block', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'about-block', 'about 3' ),
 					'categories'		=> array( 'cosmoswp','about' ),
