@@ -145,6 +145,16 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/modules/advanced-post-module/advanced-post-module-5/screenshot.jpg',
                     'demo_url'          => 'https://www.demo.cosmoswp.com/demo-17/#g0a617c',
                 ),
+                array(
+                    'title'             => __('News Ticker', 'gutentor'),
+                    'type'              => 'block',
+                    'author'            => __('CosmosWP', 'gutentor'),
+                    'keywords'          => array('news-ticker', 'news-ticker 1'),
+                    'categories'        => array('cosmoswp','news-ticker'),
+                    'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/news-ticker/template.json',
+                    'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/news-ticker/screenshot.jpg',
+                    'demo_url'          => 'https://www.demo.cosmoswp.com/demo-17/#7d9cb980-544e-49c5-b089-d52e895f4d7e',
+                ),
   
 
                 //Block Templates ends
@@ -155,7 +165,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_17' ) ) {
                     'title'             => __('Home 17', 'gutentor' ),
                     'type'              => 'template',
                     'author'            => __( 'CosmosWP', 'gutentor' ),
-                    'keywords'          => array('edd','home','home 17' ),
+                    'keywords'          => array('blog','magazine','home','home 17' ),
                     'categories'        => array( 'cosmoswp', 'blog','magazine' ),
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-17/template-data/templates/home/screenshot.jpg',
