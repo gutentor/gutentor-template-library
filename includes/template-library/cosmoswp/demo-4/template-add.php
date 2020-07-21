@@ -58,7 +58,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_4' ) ) {
   
                 array(
                     'title'                => __('Dynamic Columns', 'gutentor'),
-                    'type'                => 'widget',
+                    'type'                => 'block',
                     'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'            => array('dynamic-column', 'dynamic-column 1'),
                     'categories'        => array('cosmoswp', 'dynamic-column'),
