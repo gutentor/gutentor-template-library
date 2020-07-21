@@ -1,0 +1,1093 @@
+{
+    "clientId": "19c577f2-6d14-4fe9-a046-272488bbcf48",
+    "name": "gutentor/m2",
+    "isValid": true,
+    "attributes": {
+        "gID": "gm4be6c74",
+        "gName": "gutentor/m2",
+        "blockItemsColumn": {
+            "desktop": "grid-lg-3",
+            "tablet": "grid-md-4",
+            "mobile": "grid-12"
+        },
+        "colEqualHeight": false,
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mPadding": {
+            "dTop": "80",
+            "dBottom": "80",
+            "tTop": "60",
+            "tBottom": "60",
+            "mTop": "40",
+            "mBottom": "40"
+        },
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [
+        {
+            "clientId": "d422f8a9-3804-4e58-8483-0976c5189987",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm5c2262",
+                "gName": "gutentor/m2-col",
+                "mPID": "4be6c747-8fb7-482b-8ae5-e37322d25fe2",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGType": "",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "2dec0ab2-84cc-47cd-9042-062131ef9c0c",
+                    "name": "gutentor/m3",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gm77152ff",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
+                        },
+                        "mBGType": "image",
+                        "mBGImage": {
+                            "id": 272,
+                            "title": "straight-looking-2911327_1920",
+                            "filename": "straight-looking-2911327_1920.jpg",
+                            "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/straight-looking-2911327_1920.jpg",
+                            "link": "https://www.demo.cosmoswp.com/demo-4/home/straight-looking-2911327_1920/",
+                            "alt": "",
+                            "author": "1",
+                            "description": "",
+                            "caption": "",
+                            "name": "straight-looking-2911327_1920",
+                            "status": "inherit",
+                            "uploadedTo": 171,
+                            "date": "2020-01-10T12:25:05.000Z",
+                            "modified": "2020-01-10T12:25:05.000Z",
+                            "menuOrder": 0,
+                            "mime": "image/jpeg",
+                            "type": "image",
+                            "subtype": "jpeg",
+                            "icon": "https://www.demo.cosmoswp.com/demo-4/wp-includes/images/media/default.png",
+                            "dateFormatted": "January 10, 2020",
+                            "nonces": {
+                                "update": "b155d69a91",
+                                "delete": "e80ac3c9ec",
+                                "edit": "f7647e38bb"
+                            },
+                            "editLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=272&action=edit",
+                            "meta": false,
+                            "authorName": "demo.cosmoswp.com",
+                            "uploadedToLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=171&action=edit",
+                            "uploadedToTitle": "Home",
+                            "filesizeInBytes": 334449,
+                            "filesizeHumanReadable": "327 KB",
+                            "context": "",
+                            "height": 1920,
+                            "width": 1282,
+                            "orientation": "portrait",
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/straight-looking-2911327_1920-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 200,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/straight-looking-2911327_1920-200x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "large": {
+                                    "height": 958,
+                                    "width": 640,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/straight-looking-2911327_1920-684x1024.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/straight-looking-2911327_1920.jpg",
+                                    "height": 1920,
+                                    "width": 1282,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "compat": {
+                                "item": "",
+                                "meta": ""
+                            }
+                        },
+                        "mBGImageSizeType": "full",
+                        "mBGImgSize": "cover",
+                        "mBGImgPos": "center",
+                        "mBGImgRepeat": "no-repeat",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": true,
+                        "mOverlayColor": "rgba(54,84,176,0.15)",
+                        "mPadding": {
+                            "mTop": "20",
+                            "mRight": "20",
+                            "mBottom": "20",
+                            "mLeft": "20"
+                        },
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": false,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-d",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-d",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-d",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": true,
+                        "mHeight": {
+                            "mobile": 350
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "828a8b11-460f-47b5-8868-c593739ea1cb",
+                            "name": "gutentor/e1",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "g28e114",
+                                "gName": "gutentor/e1",
+                                "e1AT": " Men’s<br> Collections ",
+                                "e1Tag": "h4",
+                                "e1LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "noFollow": false,
+                                    "enableIconLink": "",
+                                    "iconLink": ""
+                                },
+                                "e1OnDCap": false,
+                                "elColor": {
+                                    "enable": true,
+                                    "normal": "#ffffff",
+                                    "hover": ""
+                                },
+                                "elTypography": {
+                                    "fontType": "google",
+                                    "googleFont": "Lora",
+                                    "fontWeight": "700",
+                                    "mobileFontSize": 20,
+                                    "mobileLineHeight": 1.2
+                                },
+                                "elPadding": {
+                                    "mTop": "15",
+                                    "mRight": "0",
+                                    "mBottom": "0",
+                                    "mLeft": "0"
+                                },
+                                "elOnWidth": false,
+                                "elOnDesign": true,
+                                "elDesignPos": "divider-top",
+                                "elDesignType": "border-divider",
+                                "elDesignBorderStyle": "solid",
+                                "elDesignBorderHeight": 4,
+                                "elDesignBorderColor": "#fed700",
+                                "elDesignWidth": {
+                                    "mobile": 30
+                                },
+                                "elDesignCustomImg": {
+                                    "url": "",
+                                    "alt": ""
+                                },
+                                "elDesignDefSVG": "",
+                                "elDesignCustomSVG": "",
+                                "elDesignOnBorderColor": true,
+                                "elDesignOnSvgColor": false,
+                                "elDesignSvgColor": "#e0e0e0",
+                                "elOnCapColor": false,
+                                "elCapColor": "#275cf6",
+                                "elOnCapBgColor": false,
+                                "elCapBgColor": "#275cf6",
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "g-pos-custom",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "g-pos-custom",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "g-pos-custom",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-g28e114\" class=\"wp-block-gutentor-e1 section-g28e114 gutentor-element gutentor-element-advanced-text gutentor-width-enabled enable-title-design\"><div class=\"gutentor-text-wrap divider-top\"><div class=\"gutentor-separator gutentor-separator-before border-solid\"></div><h4 class=\"gutentor-text\"> Men’s<br> Collections </h4></div></div>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gm77152ff\" class=\"wp-block-gutentor-m3 section-gm77152ff gutentor-module gutentor-container-cover has-image-bg has-custom-bg has-gutentor-overlay\"><div class=\"grid-container\"></div></section>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm5c2262\" class=\"section-gm5c2262 gutentor-single-col\"></div></div>"
+        },
+        {
+            "clientId": "0af36f0b-754f-4d1d-8f1d-f996231e5acc",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmbfd6cf",
+                "gName": "gutentor/m2-col",
+                "mPID": "4be6c747-8fb7-482b-8ae5-e37322d25fe2",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGType": "",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "f207e93b-5d55-4ffd-b079-71e5d28ab93a",
+                    "name": "gutentor/m3",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gm1bfd093",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
+                        },
+                        "mBGType": "image",
+                        "mBGImage": {
+                            "id": 216,
+                            "title": "team10(400x500)",
+                            "filename": "team10400x500.jpg",
+                            "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/team10400x500.jpg",
+                            "link": "https://www.demo.cosmoswp.com/demo-4/home/team10400x500/",
+                            "alt": "",
+                            "author": "1",
+                            "description": "",
+                            "caption": "",
+                            "name": "team10400x500",
+                            "status": "inherit",
+                            "uploadedTo": 171,
+                            "date": "2020-01-10T09:07:54.000Z",
+                            "modified": "2020-01-10T09:07:54.000Z",
+                            "menuOrder": 0,
+                            "mime": "image/jpeg",
+                            "type": "image",
+                            "subtype": "jpeg",
+                            "icon": "https://www.demo.cosmoswp.com/demo-4/wp-includes/images/media/default.png",
+                            "dateFormatted": "January 10, 2020",
+                            "nonces": {
+                                "update": "60b7978c76",
+                                "delete": "8139587f31",
+                                "edit": "7461c743c9"
+                            },
+                            "editLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=216&action=edit",
+                            "meta": false,
+                            "authorName": "demo.cosmoswp.com",
+                            "uploadedToLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=171&action=edit",
+                            "uploadedToTitle": "Home",
+                            "filesizeInBytes": 47160,
+                            "filesizeHumanReadable": "46 KB",
+                            "context": "",
+                            "height": 500,
+                            "width": 400,
+                            "orientation": "portrait",
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/team10400x500-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 240,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/team10400x500-240x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/team10400x500.jpg",
+                                    "height": 500,
+                                    "width": 400,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "compat": {
+                                "item": "",
+                                "meta": ""
+                            }
+                        },
+                        "mBGImageSizeType": "full",
+                        "mBGImgSize": "cover",
+                        "mBGImgPos": "center",
+                        "mBGImgRepeat": "no-repeat",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": true,
+                        "mOverlayColor": "rgba(54,84,176,0.15)",
+                        "mPadding": {
+                            "mTop": "20",
+                            "mRight": "20",
+                            "mBottom": "20",
+                            "mLeft": "20"
+                        },
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": false,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-d",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-d",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-d",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": true,
+                        "mHeight": {
+                            "mobile": 350
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "9e1ae8e8-5928-4ce9-965d-e2a9163e7c3b",
+                            "name": "gutentor/e1",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "gbc2918",
+                                "gName": "gutentor/e1",
+                                "e1AT": "Women’s Collection ",
+                                "e1Tag": "h4",
+                                "e1LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "noFollow": false,
+                                    "enableIconLink": "",
+                                    "iconLink": ""
+                                },
+                                "e1OnDCap": false,
+                                "elColor": {
+                                    "enable": true,
+                                    "normal": "#ffffff",
+                                    "hover": ""
+                                },
+                                "elTypography": {
+                                    "fontType": "google",
+                                    "googleFont": "Lora",
+                                    "fontWeight": "700",
+                                    "mobileFontSize": 20,
+                                    "mobileLineHeight": 1.2
+                                },
+                                "elPadding": {
+                                    "mTop": "15",
+                                    "mRight": "0",
+                                    "mBottom": "0",
+                                    "mLeft": "0"
+                                },
+                                "elOnWidth": false,
+                                "elOnDesign": true,
+                                "elDesignPos": "divider-top",
+                                "elDesignType": "border-divider",
+                                "elDesignBorderStyle": "solid",
+                                "elDesignBorderHeight": 4,
+                                "elDesignBorderColor": "#fed700",
+                                "elDesignWidth": {
+                                    "mobile": 30
+                                },
+                                "elDesignCustomImg": {
+                                    "url": "",
+                                    "alt": ""
+                                },
+                                "elDesignDefSVG": "",
+                                "elDesignCustomSVG": "",
+                                "elDesignOnBorderColor": true,
+                                "elDesignOnSvgColor": false,
+                                "elDesignSvgColor": "#e0e0e0",
+                                "elOnCapColor": false,
+                                "elCapColor": "#275cf6",
+                                "elOnCapBgColor": false,
+                                "elCapBgColor": "#275cf6",
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "g-pos-custom",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "g-pos-custom",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "g-pos-custom",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-gbc2918\" class=\"wp-block-gutentor-e1 section-gbc2918 gutentor-element gutentor-element-advanced-text gutentor-width-enabled enable-title-design\"><div class=\"gutentor-text-wrap divider-top\"><div class=\"gutentor-separator gutentor-separator-before border-solid\"></div><h4 class=\"gutentor-text\">Women’s Collection </h4></div></div>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gm1bfd093\" class=\"wp-block-gutentor-m3 section-gm1bfd093 gutentor-module gutentor-container-cover has-image-bg has-custom-bg has-gutentor-overlay\"><div class=\"grid-container\"></div></section>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gmbfd6cf\" class=\"section-gmbfd6cf gutentor-single-col\"></div></div>"
+        },
+        {
+            "clientId": "edf77d1e-f022-45e3-a319-4c4d0561c5cf",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm061481",
+                "gName": "gutentor/m2-col",
+                "mPID": "4be6c747-8fb7-482b-8ae5-e37322d25fe2",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGType": "",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "f7a7fd1a-7c4f-4ede-8b8f-32f7fc67db04",
+                    "name": "gutentor/m3",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gmb54902b",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
+                        },
+                        "mBGType": "image",
+                        "mBGImage": {
+                            "id": 217,
+                            "title": "pexels-photo-301958",
+                            "filename": "pexels-photo-301958.jpeg",
+                            "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/pexels-photo-301958.jpeg",
+                            "link": "https://www.demo.cosmoswp.com/demo-4/home/pexels-photo-301958/",
+                            "alt": "",
+                            "author": "1",
+                            "description": "",
+                            "caption": "",
+                            "name": "pexels-photo-301958",
+                            "status": "inherit",
+                            "uploadedTo": 171,
+                            "date": "2020-01-10T09:08:24.000Z",
+                            "modified": "2020-01-10T09:08:24.000Z",
+                            "menuOrder": 0,
+                            "mime": "image/jpeg",
+                            "type": "image",
+                            "subtype": "jpeg",
+                            "icon": "https://www.demo.cosmoswp.com/demo-4/wp-includes/images/media/default.png",
+                            "dateFormatted": "January 10, 2020",
+                            "nonces": {
+                                "update": "697ba4853c",
+                                "delete": "8ae6238a76",
+                                "edit": "0dbdb8a549"
+                            },
+                            "editLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=217&action=edit",
+                            "meta": false,
+                            "authorName": "demo.cosmoswp.com",
+                            "uploadedToLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=171&action=edit",
+                            "uploadedToTitle": "Home",
+                            "filesizeInBytes": 161358,
+                            "filesizeHumanReadable": "158 KB",
+                            "context": "",
+                            "height": 1925,
+                            "width": 1280,
+                            "orientation": "portrait",
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/pexels-photo-301958-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 199,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/pexels-photo-301958-199x300.jpeg",
+                                    "orientation": "portrait"
+                                },
+                                "large": {
+                                    "height": 962,
+                                    "width": 640,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/pexels-photo-301958-681x1024.jpeg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/pexels-photo-301958.jpeg",
+                                    "height": 1925,
+                                    "width": 1280,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "compat": {
+                                "item": "",
+                                "meta": ""
+                            }
+                        },
+                        "mBGImageSizeType": "full",
+                        "mBGImgSize": "cover",
+                        "mBGImgPos": "center",
+                        "mBGImgRepeat": "no-repeat",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": true,
+                        "mOverlayColor": "rgba(54,84,176,0.15)",
+                        "mPadding": {
+                            "mTop": "20",
+                            "mRight": "20",
+                            "mBottom": "20",
+                            "mLeft": "20"
+                        },
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": false,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-d",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-d",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-d",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": true,
+                        "mHeight": {
+                            "mobile": 350
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "73c63a24-cc4d-4c36-b6e7-395ce463f4ff",
+                            "name": "gutentor/e1",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "g99c87d",
+                                "gName": "gutentor/e1",
+                                "e1AT": "Cosmetics Collection  ",
+                                "e1Tag": "h4",
+                                "e1LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "noFollow": false,
+                                    "enableIconLink": "",
+                                    "iconLink": ""
+                                },
+                                "e1OnDCap": false,
+                                "elColor": {
+                                    "enable": true,
+                                    "normal": "#ffffff",
+                                    "hover": ""
+                                },
+                                "elTypography": {
+                                    "fontType": "google",
+                                    "googleFont": "Lora",
+                                    "fontWeight": "700",
+                                    "mobileFontSize": 20,
+                                    "mobileLineHeight": 1.2
+                                },
+                                "elPadding": {
+                                    "mTop": "15",
+                                    "mRight": "0",
+                                    "mBottom": "0",
+                                    "mLeft": "0"
+                                },
+                                "elOnWidth": false,
+                                "elOnDesign": true,
+                                "elDesignPos": "divider-top",
+                                "elDesignType": "border-divider",
+                                "elDesignBorderStyle": "solid",
+                                "elDesignBorderHeight": 4,
+                                "elDesignBorderColor": "#fed700",
+                                "elDesignWidth": {
+                                    "mobile": 30
+                                },
+                                "elDesignCustomImg": {
+                                    "url": "",
+                                    "alt": ""
+                                },
+                                "elDesignDefSVG": "",
+                                "elDesignCustomSVG": "",
+                                "elDesignOnBorderColor": true,
+                                "elDesignOnSvgColor": false,
+                                "elDesignSvgColor": "#e0e0e0",
+                                "elOnCapColor": false,
+                                "elCapColor": "#275cf6",
+                                "elOnCapBgColor": false,
+                                "elCapBgColor": "#275cf6",
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "g-pos-custom",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "g-pos-custom",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "g-pos-custom",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-g99c87d\" class=\"wp-block-gutentor-e1 section-g99c87d gutentor-element gutentor-element-advanced-text gutentor-width-enabled enable-title-design\"><div class=\"gutentor-text-wrap divider-top\"><div class=\"gutentor-separator gutentor-separator-before border-solid\"></div><h4 class=\"gutentor-text\">Cosmetics Collection  </h4></div></div>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gmb54902b\" class=\"wp-block-gutentor-m3 section-gmb54902b gutentor-module gutentor-container-cover has-image-bg has-custom-bg has-gutentor-overlay\"><div class=\"grid-container\"></div></section>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm061481\" class=\"section-gm061481 gutentor-single-col\"></div></div>"
+        },
+        {
+            "clientId": "c4a210da-fab4-4e16-a248-6d37751aec80",
+            "name": "gutentor/m2-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm7195d2",
+                "gName": "gutentor/m2-col",
+                "mPID": "4be6c747-8fb7-482b-8ae5-e37322d25fe2",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-3",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "mBGType": "",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "485969c0-dc70-4d33-a6b4-8b3b65d54764",
+                    "name": "gutentor/m3",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gmfbe4cb9",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
+                        },
+                        "mBGType": "image",
+                        "mBGImage": {
+                            "id": 270,
+                            "title": "commercial-3264998_640",
+                            "filename": "commercial-3264998_640.jpg",
+                            "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/commercial-3264998_640.jpg",
+                            "link": "https://www.demo.cosmoswp.com/demo-4/home/commercial-3264998_640/",
+                            "alt": "",
+                            "author": "1",
+                            "description": "",
+                            "caption": "",
+                            "name": "commercial-3264998_640",
+                            "status": "inherit",
+                            "uploadedTo": 171,
+                            "date": "2020-01-10T12:24:14.000Z",
+                            "modified": "2020-01-10T12:24:14.000Z",
+                            "menuOrder": 0,
+                            "mime": "image/jpeg",
+                            "type": "image",
+                            "subtype": "jpeg",
+                            "icon": "https://www.demo.cosmoswp.com/demo-4/wp-includes/images/media/default.png",
+                            "dateFormatted": "January 10, 2020",
+                            "nonces": {
+                                "update": "5c385dff6b",
+                                "delete": "cf6f286bcd",
+                                "edit": "7acae52b4c"
+                            },
+                            "editLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=270&action=edit",
+                            "meta": false,
+                            "authorName": "demo.cosmoswp.com",
+                            "uploadedToLink": "https://www.demo.cosmoswp.com/demo-4/wp-admin/post.php?post=171&action=edit",
+                            "uploadedToTitle": "Home",
+                            "filesizeInBytes": 40488,
+                            "filesizeHumanReadable": "40 KB",
+                            "context": "",
+                            "height": 640,
+                            "width": 426,
+                            "orientation": "portrait",
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/commercial-3264998_640-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 200,
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/commercial-3264998_640-200x300.jpg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.cosmoswp.com/demo-4/wp-content/uploads/sites/5/2020/01/commercial-3264998_640.jpg",
+                                    "height": 640,
+                                    "width": 426,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "compat": {
+                                "item": "",
+                                "meta": ""
+                            }
+                        },
+                        "mBGImageSizeType": "full",
+                        "mBGImgSize": "cover",
+                        "mBGImgPos": "center",
+                        "mBGImgRepeat": "no-repeat",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": true,
+                        "mOverlayColor": "rgba(54,84,176,0.15)",
+                        "mPadding": {
+                            "mTop": "20",
+                            "mRight": "20",
+                            "mBottom": "20",
+                            "mLeft": "20"
+                        },
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": false,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-d",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-d",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-d",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": true,
+                        "mHeight": {
+                            "mobile": 350
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "37fa1c37-16d2-4f26-9a60-0ec3a4ac33e8",
+                            "name": "gutentor/e1",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "g16eddd",
+                                "gName": "gutentor/e1",
+                                "e1AT": "Men’s <br>Accessories  ",
+                                "e1Tag": "h4",
+                                "e1LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "noFollow": false,
+                                    "enableIconLink": "",
+                                    "iconLink": ""
+                                },
+                                "e1OnDCap": false,
+                                "elColor": {
+                                    "enable": true,
+                                    "normal": "#ffffff",
+                                    "hover": ""
+                                },
+                                "elTypography": {
+                                    "fontType": "google",
+                                    "googleFont": "Lora",
+                                    "fontWeight": "700",
+                                    "mobileFontSize": 20,
+                                    "mobileLineHeight": 1.2
+                                },
+                                "elPadding": {
+                                    "mTop": "15",
+                                    "mRight": "0",
+                                    "mBottom": "0",
+                                    "mLeft": "0"
+                                },
+                                "elOnWidth": false,
+                                "elOnDesign": true,
+                                "elDesignPos": "divider-top",
+                                "elDesignType": "border-divider",
+                                "elDesignBorderStyle": "solid",
+                                "elDesignBorderHeight": 4,
+                                "elDesignBorderColor": "#fed700",
+                                "elDesignWidth": {
+                                    "mobile": 30
+                                },
+                                "elDesignCustomImg": {
+                                    "url": "",
+                                    "alt": ""
+                                },
+                                "elDesignDefSVG": "",
+                                "elDesignCustomSVG": "",
+                                "elDesignOnBorderColor": true,
+                                "elDesignOnSvgColor": false,
+                                "elDesignSvgColor": "#e0e0e0",
+                                "elOnCapColor": false,
+                                "elCapColor": "#275cf6",
+                                "elOnCapBgColor": false,
+                                "elCapBgColor": "#275cf6",
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "g-pos-custom",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "g-pos-custom",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "g-pos-custom",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-g16eddd\" class=\"wp-block-gutentor-e1 section-g16eddd gutentor-element gutentor-element-advanced-text gutentor-width-enabled enable-title-design\"><div class=\"gutentor-text-wrap divider-top\"><div class=\"gutentor-separator gutentor-separator-before border-solid\"></div><h4 class=\"gutentor-text\">Men’s <br>Accessories  </h4></div></div>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gmfbe4cb9\" class=\"wp-block-gutentor-m3 section-gmfbe4cb9 gutentor-module gutentor-container-cover has-image-bg has-custom-bg has-gutentor-overlay\"><div class=\"grid-container\"></div></section>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m2-col gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-4 grid-12\"><div id=\"section-gm7195d2\" class=\"section-gm7195d2 gutentor-single-col\"></div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"gm4be6c74\" class=\"wp-block-gutentor-m2 section-gm4be6c74 gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n\n\n\n\n</div></div></section>"
+}
