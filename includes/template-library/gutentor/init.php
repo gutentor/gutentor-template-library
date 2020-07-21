@@ -79,7 +79,6 @@ class Gutentor_Template_Library_Gutentor {
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-call-to-action.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-count-down.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-counter-box.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-divider.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-featured-block.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-gallery.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-google-map.php';/* ***Do not remove required for PHP BLOCK*/
@@ -93,7 +92,6 @@ class Gutentor_Template_Library_Gutentor {
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-progress-bar.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-restaurant-menu.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-show-more.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-single-column.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-social.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-tabs.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/blocks/class-team.php';
