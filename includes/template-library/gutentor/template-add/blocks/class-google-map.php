@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Google_Map' ) ) {
 
                 array(
 					'title'				=> __( 'Google Map', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'google-map', 'google-map 1' ),
 					'categories'		=> array( 'google-map' ),

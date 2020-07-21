@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Slider' ) ) {
                 
 				array(
 					'title'				=> __( 'Image Slider', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'image-slider', 'image-slider 1' ),
 					'categories'		=> array( 'image-slider' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Slider' ) ) {
 				),
 				array(
 					'title'				=> __( 'Image Slider', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'image-slider', 'image-slider 2' ),
 					'categories'		=> array( 'image-slider' ),

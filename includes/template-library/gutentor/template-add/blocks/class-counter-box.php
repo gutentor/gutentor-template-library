@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Counter_Box' ) ) {
                 
 				array(
 					'title'				=> __( 'Counter', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'counter', 'counter 1' ),
 					'categories'		=> array( 'counter' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Counter_Box' ) ) {
 				),
 				array(
 					'title'				=> __( 'Counter', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'counter', 'counter 2' ),
 					'categories'		=> array( 'counter' ),

@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Blog_Post' ) ) {
 
                 array(
 					'title'				=> __( 'Blog', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'blog', 'blog 1' ),
 					'categories'		=> array( 'blog' ),

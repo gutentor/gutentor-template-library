@@ -63,7 +63,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Accordion' ) ) {
 
                 array(
 					'title'				=> __( 'Accordion', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'accordion', 'accordion 1' ),
 					'categories'		=> array( 'accordion' ),
@@ -73,7 +73,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Accordion' ) ) {
 				),
 				array(
 					'title'				=> __( 'Accordion', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'accordion', 'accordion 2' ),
 					'categories'		=> array( 'accordion' ),

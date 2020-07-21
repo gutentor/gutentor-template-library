@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Tabs' ) ) {
                 
 				array(
 					'title'				=> __( 'Tabs', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'tabs', 'tabs 1' ),
 					'categories'		=> array( 'tabs' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Tabs' ) ) {
 				),
 				array(
 					'title'				=> __( 'Tabs', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'tabs', 'tabs 2' ),
 					'categories'		=> array( 'tabs' ),

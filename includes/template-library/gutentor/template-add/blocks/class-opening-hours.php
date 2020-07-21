@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Opening_Hours' ) ) {
                 
 				array(
 					'title'				=> __( 'Opening Hours', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'opening-hours', 'opening-hours 1' ),
 					'categories'		=> array( 'opening-hours' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Opening_Hours' ) ) {
 				),
 				array(
 					'title'				=> __( 'Opening Hours', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'opening-hours', 'opening-hours 2' ),
 					'categories'		=> array( 'opening-hours' ),

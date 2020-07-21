@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Progress_Bar' ) ) {
                 
 				array(
 					'title'				=> __( 'Progressbar', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'progress-bar', 'progress-bar 1' ),
 					'categories'		=> array( 'progress-bar' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Progress_Bar' ) ) {
 				),
 				array(
 					'title'				=> __( 'Progressbar', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'progress-bar', 'progress-bar 2' ),
 					'categories'		=> array( 'progress-bar' ),

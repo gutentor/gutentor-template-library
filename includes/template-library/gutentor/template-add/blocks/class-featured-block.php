@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Featured_Block' ) ) {
                 
 				array(
 					'title'				=> __( 'Featured Block', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'featured-block', 'featured-block 1' ),
 					'categories'		=> array( 'featured-block' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Featured_Block' ) ) {
 				),
 				array(
 					'title'				=> __( 'Featured Block', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'featured-block', 'featured-block 2' ),
 					'categories'		=> array( 'featured-block' ),

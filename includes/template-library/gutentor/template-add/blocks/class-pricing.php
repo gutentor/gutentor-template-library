@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Pricing' ) ) {
                 
 				array(
 					'title'				=> __( 'Pricing', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'pricing', 'pricing 1' ),
 					'categories'		=> array( 'pricing' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Pricing' ) ) {
 				),
 				array(
 					'title'				=> __( 'Pricing', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'pricing', 'pricing 2' ),
 					'categories'		=> array( 'pricing' ),

@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Show_More' ) ) {
                 
 				array(
 					'title'				=> __( 'Show More/Less Block', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'show-more-less', 'show-more-less 1' ),
 					'categories'		=> array( 'show-more-less' ),

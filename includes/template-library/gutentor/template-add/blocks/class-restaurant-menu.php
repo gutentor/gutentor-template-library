@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Restaurant_Menu' ) ) {
                 
 				array(
 					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'restaurant-menu', 'restaurant-menu 1' ),
 					'categories'		=> array( 'restaurant-menu' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Restaurant_Menu' ) ) {
 				),
 				array(
 					'title'				=> __( 'Restaurant Menu', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'restaurant-menu', 'restaurant-menu 2' ),
 					'categories'		=> array( 'restaurant-menu' ),

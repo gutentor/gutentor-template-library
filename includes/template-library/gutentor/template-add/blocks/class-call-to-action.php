@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Call_To_Action' ) ) {
                 
 				array(
 					'title'				=> __( 'Call To Action', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'call-to-action', 'call-to-action 1' ),
 					'categories'		=> array( 'call-to-action' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Call_To_Action' ) ) {
 				),
 				array(
 					'title'				=> __( 'Call To Action', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'call-to-action', 'call-to-action 2' ),
 					'categories'		=> array( 'call-to-action' ),

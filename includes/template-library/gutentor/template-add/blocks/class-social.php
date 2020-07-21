@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Social' ) ) {
                 
 				array(
 					'title'				=> __( 'Social', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'social', 'social 1' ),
 					'categories'		=> array( 'social' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Social' ) ) {
 				),
 				array(
 					'title'				=> __( 'Social', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'social', 'social 2' ),
 					'categories'		=> array( 'social' ),

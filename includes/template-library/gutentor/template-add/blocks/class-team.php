@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Team' ) ) {
                 
 				array(
 					'title'				=> __( 'Team', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 1' ),
 					'categories'		=> array( 'team' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Team' ) ) {
 				),
 				array(
 					'title'				=> __( 'Team', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'team', 'team 2' ),
 					'categories'		=> array( 'team' ),

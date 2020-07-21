@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 
                 array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 1' ),
 					'categories'		=> array( 'icon-box' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				),
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 2' ),
 					'categories'		=> array( 'icon-box' ),
@@ -84,7 +84,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Icon_Box' ) ) {
 				),
 				array(
 					'title'				=> __( 'Icon Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'icon-box', 'icon-box 3' ),
 					'categories'		=> array( 'icon-box' ),

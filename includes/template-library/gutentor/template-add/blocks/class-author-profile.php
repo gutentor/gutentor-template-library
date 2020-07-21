@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Author_Profile' ) ) {
                 
 				array(
 					'title'				=> __( 'Author Profile', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'author-profile', 'author-profile 1' ),
 					'categories'		=> array( 'author-profile' ),

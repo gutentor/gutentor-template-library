@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Box' ) ) {
 
                 array(
 					'title'				=> __( 'Image Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 1' ),
 					'categories'		=> array( 'image-box' ),
@@ -74,7 +74,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Box' ) ) {
 				),
 				array(
 					'title'				=> __( 'Image Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 2' ),
 					'categories'		=> array( 'image-box' ),
@@ -84,7 +84,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Image_Box' ) ) {
 				),
 				array(
 					'title'				=> __( 'Image Box', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'CosmosWP', 'gutentor' ),
 					'keywords'			=> array( 'image-box', 'image-box 3' ),
 					'categories'		=> array( 'image-box' ),

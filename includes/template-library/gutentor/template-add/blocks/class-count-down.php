@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Count_Down' ) ) {
                 
 				array(
 					'title'				=> __( 'Count Down', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'count-down', 'count-down 1' ),
 					'categories'		=> array( 'count-down' ),
@@ -75,7 +75,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Count_Down' ) ) {
 				),
 				array(
 					'title'				=> __( 'Count Down', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'count-down', 'count-down 2' ),
 					'categories'		=> array( 'count-down' ),

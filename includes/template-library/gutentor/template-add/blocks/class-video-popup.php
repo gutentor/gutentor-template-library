@@ -64,7 +64,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Video_Popup' ) ) {
 
                 array(
 					'title'				=> __( 'Video Popup', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'video-popup', 'video-popup 1' ),
 					'categories'		=> array( 'video-popup' ),

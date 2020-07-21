@@ -65,7 +65,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Timeline' ) ) {
                 
 				array(
 					'title'				=> __( 'Timeline', 'gutentor' ),
-					'type'				=> 'block',
+					'type'				=> 'widget',
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'timeline', 'timeline 1' ),
 					'categories'		=> array( 'timeline' ),
