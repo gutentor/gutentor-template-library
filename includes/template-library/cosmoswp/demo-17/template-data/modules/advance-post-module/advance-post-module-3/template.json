@@ -1,0 +1,730 @@
+{
+    "clientId": "85a26abe-2a91-4cb1-8660-e2b666efc892",
+    "name": "gutentor/p4",
+    "isValid": true,
+    "attributes": {
+        "gID": "g237f49",
+        "gName": "gutentor/p4",
+        "p4PostId": 54,
+        "p4LoadAni": "gp4-animation-5",
+        "p4MaxPage": 7,
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mPadding": {
+            "mBottom": "40"
+        },
+        "mTag": "section",
+        "pID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false,
+        "className": "d-lg-block d-md-block"
+    },
+    "innerBlocks": [
+        {
+            "clientId": "70fbfdbe-0367-4f05-a6c1-c4baf35374d6",
+            "name": "gutentor/e16",
+            "isValid": true,
+            "attributes": {
+                "gID": "gaf8c45",
+                "gName": "gutentor/e16",
+                "e16Template": "0",
+                "e16Col": 3,
+                "e16FullWidthCol": false,
+                "e16EqualColHeight": true,
+                "e16Layout": {
+                    "d": "fiveFiveTwo",
+                    "t": "fiveFiveTwo",
+                    "m": "fiveFiveTwo"
+                },
+                "e16ICWidth": {
+                    "d": [
+                        41,
+                        41,
+                        18
+                    ],
+                    "t": [
+                        41,
+                        41,
+                        18
+                    ],
+                    "m": [
+                        41,
+                        41,
+                        18
+                    ]
+                },
+                "e16BgColor": {
+                    "enable": false,
+                    "normal": "#eeeeee",
+                    "hover": "#275cf6"
+                },
+                "e16OnBorder": true,
+                "e16Border": {
+                    "styleN": "solid",
+                    "bottomN": "1",
+                    "topN": "0",
+                    "rightN": "0",
+                    "leftN": "0",
+                    "colorN": "#109582"
+                },
+                "eOnPos": false,
+                "ePosTypeD": "g-pos-d",
+                "ePosOptD": "g-pos-custom",
+                "ePosMarginAutoD": false,
+                "ePosTypeT": "g-pos-d",
+                "ePosOptT": "g-pos-custom",
+                "ePosMarginAutoT": false,
+                "ePosTypeM": "g-pos-d",
+                "ePosOptM": "g-pos-custom",
+                "ePosMarginAutoM": false,
+                "ePosDWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "ePosTWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "ePosMWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "eHideMode": {
+                    "desktop": true,
+                    "tablet": true,
+                    "mobile": true
+                },
+                "eHideContSpace": {
+                    "mobile": true
+                }
+            },
+            "innerBlocks": [],
+            "validationIssues": [],
+            "originalContent": ""
+        },
+        {
+            "clientId": "eb3465f2-1845-4bcd-a834-5dedd615c954",
+            "name": "gutentor/p1",
+            "isValid": true,
+            "attributes": {
+                "gID": "a0a8af77-5f10-4fcf-9814-b91450955081",
+                "pPostType": "post",
+                "postsToShow": 2,
+                "pTaxType": "-1",
+                "pTaxTerm": [],
+                "order": "desc",
+                "orderBy": "date",
+                "pMetaKey": "",
+                "blockSortableItems": [
+                    {
+                        "itemValue": "title",
+                        "itemLabel": "Title"
+                    },
+                    {
+                        "itemValue": "primary-entry-meta",
+                        "itemLabel": "Primary Entry Meta"
+                    },
+                    {
+                        "itemValue": "description",
+                        "itemLabel": "Description/Excerpt"
+                    },
+                    {
+                        "itemValue": "button",
+                        "itemLabel": "Button"
+                    },
+                    {
+                        "itemValue": "secondary-entry-meta",
+                        "itemLabel": "Secondary Entry Meta"
+                    }
+                ],
+                "timestamp": 0,
+                "gName": "gutentor/p1",
+                "p1Temp": "gutentor_p1_template1",
+                "gStyle": "gutentor-blog-list",
+                "PExcerptLen": "60",
+                "pExcerptLenInWords": false,
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-12",
+                    "tablet": "grid-md-12",
+                    "mobile": "grid-12"
+                },
+                "pM1BgColor": {
+                    "enable": false,
+                    "normal": "#000",
+                    "hover": ""
+                },
+                "pReverseContent": false,
+                "p1CarouselOpt": {
+                    "enable": false
+                },
+                "pOnColInList": false,
+                "pBxColor": {
+                    "enable": true,
+                    "normal": "",
+                    "hover": ""
+                },
+                "pBxMargin": {
+                    "type": "px",
+                    "mTop": "15",
+                    "mBottom": "15"
+                },
+                "pBtnIconOpt": {
+                    "position": "hide",
+                    "size": ""
+                },
+                "pBtnIcon": {
+                    "label": "fa-book",
+                    "value": "fas fa-book",
+                    "code": "f108"
+                },
+                "pBtnText": "Read More",
+                "pBtnLink": {
+                    "openInNewTab": false,
+                    "rel": ""
+                },
+                "pOnBtn": false,
+                "pBtnColor": {
+                    "enable": true,
+                    "normal": "#275cf6",
+                    "hover": "#1949d4"
+                },
+                "pBtnTxtColor": {
+                    "enable": true,
+                    "normal": "#fff",
+                    "hover": "#fff"
+                },
+                "pBtnPadding": {
+                    "type": "px",
+                    "dTop": "10",
+                    "dRight": "15",
+                    "dBottom": "10",
+                    "dLeft": "15",
+                    "tTop": "10",
+                    "tRight": "15",
+                    "tBottom": "10",
+                    "tLeft": "15",
+                    "mTop": "10",
+                    "mRight": "15",
+                    "mBottom": "10",
+                    "mLeft": "15"
+                },
+                "pBtnBorder": {
+                    "rTypeN": "px",
+                    "rTypeH": "px",
+                    "rTopN": "3",
+                    "rTopH": "3",
+                    "rRightN": "3",
+                    "rRightH": "3",
+                    "rBottomN": "3",
+                    "rBottomH": "3",
+                    "rLeftN": "3",
+                    "rLeftH": "3"
+                },
+                "pBtnTypography": {
+                    "fontType": "default",
+                    "desktopFontSize": "16",
+                    "tabletFontSize": "16",
+                    "mobileFontSize": "16",
+                    "textTransform": "normal"
+                },
+                "pBtnCName": "",
+                "pOnDesc": true,
+                "pDescColor": {
+                    "enable": true,
+                    "normal": "#666666",
+                    "hover": ""
+                },
+                "pDescTypography": {
+                    "fontType": "google",
+                    "googleFont": "Open+Sans",
+                    "fontWeight": "regular",
+                    "mobileFontSize": 14,
+                    "mobileLineHeight": 1.5
+                },
+                "pOnFeaturedCat": false,
+                "pPostCatPos": "gutentor-cat-pos-img-top-right",
+                "p1CatPadding": {
+                    "type": "px",
+                    "mTop": "5",
+                    "mRight": "10",
+                    "mBottom": "5",
+                    "mLeft": "10"
+                },
+                "pPostCatBxBorder": {
+                    "rTypeN": "px",
+                    "rTypeH": "px",
+                    "rTopN": "5",
+                    "rTopH": "5",
+                    "rRightN": "5",
+                    "rRightH": "5",
+                    "rBottomN": "5",
+                    "rBottomH": "5",
+                    "rLeftN": "5",
+                    "rLeftH": "5"
+                },
+                "pOnPostFormatOpt": false,
+                "pPostFormatPos": "gutentor-pf-pos-img-top-right",
+                "pPostFormatPadding": {
+                    "type": "px",
+                    "mTop": "20",
+                    "mRight": "20",
+                    "mBottom": "20",
+                    "mLeft": "20"
+                },
+                "pPostFormatBxBorder": {
+                    "rTypeN": "%",
+                    "rTypeH": "%",
+                    "rTopN": "50",
+                    "rTopH": "50",
+                    "rRightN": "50",
+                    "rRightH": "50",
+                    "rBottomN": "50",
+                    "rBottomH": "50",
+                    "rLeftN": "50",
+                    "rLeftH": "50"
+                },
+                "pOnTitle": true,
+                "pTitleTag": "h3",
+                "pTitleColor": {
+                    "enable": false,
+                    "normal": "",
+                    "hover": ""
+                },
+                "pTitleTypography": {
+                    "fontType": "google",
+                    "googleFont": "Open+Sans",
+                    "fontWeight": "700",
+                    "mobileFontSize": 14
+                },
+                "pTitleMargin": {
+                    "mBottom": "0"
+                },
+                "pMeta1Sorting": [
+                    {
+                        "itemValue": "meta-author",
+                        "itemLabel": "Author"
+                    },
+                    {
+                        "itemValue": "meta-date",
+                        "itemLabel": "Date"
+                    },
+                    {
+                        "itemValue": "meta-category",
+                        "itemLabel": "Category"
+                    },
+                    {
+                        "itemValue": "meta-comment",
+                        "itemLabel": "Comment"
+                    }
+                ],
+                "pMeta1FSize": 14,
+                "pOnMeta1": true,
+                "pOnAuthorMeta1": true,
+                "pOnDateMeta1": true,
+                "pOnCatMeta1": false,
+                "pOnCommentMeta1": true,
+                "categories": "",
+                "pMeta1Color": {
+                    "enable": false,
+                    "normal": "",
+                    "hover": ""
+                },
+                "pMeta1Typography": {
+                    "fontType": "google",
+                    "googleFont": "Open+Sans",
+                    "fontWeight": "regular",
+                    "mobileFontSize": 13
+                },
+                "pMeta1Margin": {
+                    "mBottom": "10"
+                },
+                "pMeta2Sorting": [
+                    {
+                        "itemValue": "meta-author",
+                        "itemLabel": "Author"
+                    },
+                    {
+                        "itemValue": "meta-date",
+                        "itemLabel": "Date"
+                    },
+                    {
+                        "itemValue": "meta-category",
+                        "itemLabel": "Category"
+                    },
+                    {
+                        "itemValue": "meta-comment",
+                        "itemLabel": "Comment"
+                    }
+                ],
+                "pMeta2FSize": 14,
+                "pOnMeta2": false,
+                "pOnAuthorMeta2": true,
+                "pOnDateMeta2": true,
+                "pOnCatMeta2": true,
+                "pMeta2Color": {
+                    "enable": false,
+                    "normal": "",
+                    "hover": ""
+                },
+                "pOnCommentMeta2": true,
+                "pOnFImg": true,
+                "pFImgSize": "full",
+                "pFImgOColor": {
+                    "enable": true,
+                    "normal": "rgba(0,0,0,0.21)",
+                    "hover": ""
+                },
+                "pOnImgWidth": false,
+                "pImgWidth": {
+                    "type": "px",
+                    "desktop": "",
+                    "tablet": "",
+                    "mobile": ""
+                },
+                "pOnImgHeight": false,
+                "pImgHeight": {
+                    "type": "px",
+                    "desktop": "",
+                    "tablet": "",
+                    "mobile": ""
+                },
+                "pImgBgOpt": {
+                    "backgroundImage": "",
+                    "desktopHeight": "",
+                    "tabletHeight": "",
+                    "mobileHeight": "",
+                    "type": "px",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "backgroundAttachment": "scroll"
+                },
+                "pOnImgDisplayOpt": false,
+                "pImgDisplayOpt": "normal-image",
+                "pOnImgBorder": false,
+                "pImgOnLink": false,
+                "pImgOpenNewTab": false,
+                "pImgLinkRel": "noopener noreferrer",
+                "pOnImgBxWidth": true,
+                "pImgBxWidth": {
+                    "mobile": 80,
+                    "tablet": 150,
+                    "desktop": 150
+                },
+                "pOnImgBxHeight": false,
+                "pImgBorder": {
+                    "rTopN": "5",
+                    "rRightN": "5",
+                    "rBottomN": "5",
+                    "rLeftN": "5"
+                },
+                "mAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mPadding": {
+                    "mTop": "40"
+                },
+                "mTag": "section",
+                "pID": "",
+                "mTShape": "",
+                "mTShapeOnColor": "",
+                "mTShapeVFlip": false,
+                "mTShapeHFlip": false,
+                "mTShapePos": "",
+                "mBShape": "",
+                "mBShapeOnColor": "",
+                "mBShapeVFlip": false,
+                "mBShapeHFlip": false,
+                "mBShapePos": "",
+                "mOnPos": false,
+                "mContOnVAlign": false,
+                "mContVAlign": "g-c-r-valign",
+                "mContVAlignT": "g-c-r-valign",
+                "mContVAlignD": "g-c-r-valign",
+                "mPosTypeD": "g-pos-d",
+                "mPosOptD": "g-pos-custom",
+                "mPosMarginAutoD": false,
+                "mPosTypeT": "g-pos-d",
+                "mPosOptT": "g-pos-custom",
+                "mPosMarginAutoT": false,
+                "mPosTypeM": "g-pos-d",
+                "mPosOptM": "g-pos-custom",
+                "mPosMarginAutoM": false,
+                "mPosDWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "mPosTWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "mPosMWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "mOnHeight": false,
+                "mHideContSpace": {
+                    "mobile": true
+                },
+                "mHideRowSpace": {
+                    "mobile": true
+                }
+            },
+            "innerBlocks": [],
+            "validationIssues": [],
+            "originalContent": ""
+        },
+        {
+            "clientId": "96409365-9d0a-470a-b7d1-8dd28ca4633d",
+            "name": "gutentor/e17",
+            "isValid": true,
+            "attributes": {
+                "gID": "g1ba3d2",
+                "gName": "gutentor/e17",
+                "e17Template": "4",
+                "e17FullWidthCol": false,
+                "e17EqualColHeight": false,
+                "e17Col": 1,
+                "e17Layout": {
+                    "d": "twelve",
+                    "t": "twelve",
+                    "m": "twelve"
+                },
+                "e17ICWidth": {
+                    "d": [
+                        100
+                    ],
+                    "t": [
+                        100
+                    ],
+                    "m": [
+                        100
+                    ]
+                },
+                "e17BgColor": {
+                    "enable": false,
+                    "normal": "#eeeeee",
+                    "hover": "#275cf6"
+                },
+                "e17OnBorder": false,
+                "e17Margin": {
+                    "mTop": "0",
+                    "mBottom": "0"
+                },
+                "eOnPos": false,
+                "ePosTypeD": "g-pos-d",
+                "ePosOptD": "g-pos-custom",
+                "ePosMarginAutoD": false,
+                "ePosTypeT": "g-pos-d",
+                "ePosOptT": "g-pos-custom",
+                "ePosMarginAutoT": false,
+                "ePosTypeM": "g-pos-d",
+                "ePosOptM": "g-pos-custom",
+                "ePosMarginAutoM": false,
+                "ePosDWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "ePosTWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "ePosMWidth": {
+                    "type": "%",
+                    "width": ""
+                },
+                "eHideMode": {},
+                "eHideContSpace": {
+                    "mobile": true
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "1a847ef1-c915-4212-9770-588ac3aec436",
+                    "name": "gutentor/e15",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gm717279",
+                        "gName": "gutentor/e15",
+                        "e15Col": 1,
+                        "e15Layout": {
+                            "d": "twelve",
+                            "t": "twelve",
+                            "m": "twelve"
+                        },
+                        "e15Index": 0,
+                        "e15ColWidth": {
+                            "d": [
+                                100
+                            ],
+                            "t": [
+                                100
+                            ],
+                            "m": [
+                                100
+                            ]
+                        },
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": false
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "32ff3017-5e3b-4509-af80-920ee5680a26",
+                            "name": "gutentor/e2",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "g6994e4",
+                                "gName": "gutentor/e2",
+                                "e2Align": {
+                                    "desktop": "button-align-left",
+                                    "tablet": "button-align-left",
+                                    "mobile": "button-align-left"
+                                },
+                                "e2DisableLinkOpt": true,
+                                "e2LinkOpt": {
+                                    "linkOption": "open-new-tab",
+                                    "openInNewTab": false,
+                                    "rel": ""
+                                },
+                                "e2Margin": {
+                                    "mTop": "0",
+                                    "mBottom": "0"
+                                },
+                                "e2Padding": {
+                                    "type": "px"
+                                },
+                                "e2IconOpt": {
+                                    "position": "before",
+                                    "size": ""
+                                },
+                                "e2IconTypography": {
+                                    "fontType": "google",
+                                    "mobileFontSize": 14,
+                                    "textTransform": "normal",
+                                    "googleFont": "Open+Sans",
+                                    "fontWeight": "600"
+                                },
+                                "e2Icon": {
+                                    "label": "fa-spinner",
+                                    "value": "fas fa-spinner",
+                                    "code": "f110"
+                                },
+                                "e2Text": "Load More",
+                                "e2Link": "#",
+                                "e2ClassName": "",
+                                "e2Layout": "",
+                                "e2BgColor": {
+                                    "enable": false,
+                                    "normal": "rgba(39, 92, 246, 1)",
+                                    "hover": "rgba(25, 73, 212, 1)"
+                                },
+                                "e2TxtColor": {
+                                    "enable": true,
+                                    "normal": "#fbc02d",
+                                    "hover": "#fbc02d"
+                                },
+                                "e2Border": {
+                                    "rTypeN": "px",
+                                    "rTypeH": "px",
+                                    "rTopN": "3",
+                                    "rTopH": "3",
+                                    "rRightN": "3",
+                                    "rRightH": "3",
+                                    "rBottomN": "3",
+                                    "rBottomH": "3",
+                                    "rLeftN": "3",
+                                    "rLeftH": "3"
+                                },
+                                "e2Size": "medium",
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "g-pos-custom",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "g-pos-custom",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "g-pos-custom",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-g6994e4\" class=\"wp-block-gutentor-e2 section-g6994e4 gutentor-element gutentor-element-button button-align-left-desktop button-align-left-tablet button-align-left-mobile\"><span class=\"gutentor-button-wrap\"><a class=\"gutentor-button gutentor-block-button gutentor-icon-before\" href=\"#\"><i class=\"gutentor-button-icon fas fa-spinner\"></i><span>Load More</span></a></span></div>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"col-gm717279\" class=\"wp-block-gutentor-e15 gutentor-single-column  grid-lg-12 grid-md-12 grid-12\"><div id=\"section-gm717279\" class=\"section-gm717279 gutentor-col-wrap\"></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"section-g1ba3d2\" class=\"wp-block-gutentor-e17 section-g1ba3d2 gutentor-element gutentor-post-footer\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\"></div></div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"g237f49\" class=\"wp-block-gutentor-p4 section-g237f49 gutentor-post-module gutentor-advanced-post-module d-lg-block d-md-block\" data-gpid=\"54\" data-l-ani=\"gp4-animation-5\" data-maxnumpages=\"7\">\n\n\n\n</section>"
+}
