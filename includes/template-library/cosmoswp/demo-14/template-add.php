@@ -57,7 +57,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_14' ) ) {
 
                 array(
                     'title'                => __('Advanced Columns', 'gutentor'),
-                    'type'                => 'block',
+                    'type'                => 'widget',
                     'author'            => __('CosmosWP', 'gutentor'),
                     'keywords'            => array('advanced-columns', 'advanced columns 1'),
                     'categories'        => array('cosmoswp', 'advanced-columns'),
