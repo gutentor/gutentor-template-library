@@ -1,0 +1,580 @@
+{
+    "clientId": "8303309c-bc6c-454f-9792-bfb9d2b29c8e",
+    "name": "gutentor/p6",
+    "isValid": true,
+    "attributes": {
+        "gID": "gpf34293",
+        "pPostType": "post",
+        "postsToShow": 6,
+        "order": "desc",
+        "orderBy": "date",
+        "pMetaKey": "",
+        "blockSortableItems": [
+            {
+                "itemValue": "title",
+                "itemLabel": "Title"
+            },
+            {
+                "itemValue": "primary-entry-meta",
+                "itemLabel": "Primary Entry Meta"
+            },
+            {
+                "itemValue": "description",
+                "itemLabel": "Description/Excerpt"
+            },
+            {
+                "itemValue": "button",
+                "itemLabel": "Button"
+            },
+            {
+                "itemValue": "secondary-entry-meta",
+                "itemLabel": "Secondary Entry Meta"
+            }
+        ],
+        "timestamp": 0,
+        "pName": "gutentor/p6",
+        "gName": "gutentor/p6",
+        "p6Temp": "gutentor_p6_template1",
+        "PExcerptLen": "100",
+        "pExcerptLenInWords": false,
+        "pM1BgColor": {
+            "enable": false,
+            "normal": "#000",
+            "hover": ""
+        },
+        "pBxColor": {
+            "enable": true,
+            "normal": "",
+            "hover": ""
+        },
+        "pBxMargin": {
+            "type": "px",
+            "mTop": "15",
+            "mBottom": "15"
+        },
+        "pBtnIconOpt": {
+            "position": "hide",
+            "size": ""
+        },
+        "pBtnIcon": {
+            "label": "fa-book",
+            "value": "fas fa-book",
+            "code": "f108"
+        },
+        "pBtnText": "Read More",
+        "pBtnLink": {
+            "openInNewTab": false,
+            "rel": ""
+        },
+        "pOnBtn": false,
+        "pBtnColor": {
+            "enable": true,
+            "normal": "#275cf6",
+            "hover": "#1949d4"
+        },
+        "pBtnTxtColor": {
+            "enable": true,
+            "normal": "#fff",
+            "hover": "#fff"
+        },
+        "pBtnPadding": {
+            "type": "px",
+            "dTop": "10",
+            "dRight": "15",
+            "dBottom": "10",
+            "dLeft": "15",
+            "tTop": "10",
+            "tRight": "15",
+            "tBottom": "10",
+            "tLeft": "15",
+            "mTop": "10",
+            "mRight": "15",
+            "mBottom": "10",
+            "mLeft": "15"
+        },
+        "pBtnBorder": {
+            "rTypeN": "px",
+            "rTypeH": "px",
+            "rTopN": "3",
+            "rTopH": "3",
+            "rRightN": "3",
+            "rRightH": "3",
+            "rBottomN": "3",
+            "rBottomH": "3",
+            "rLeftN": "3",
+            "rLeftH": "3"
+        },
+        "pBtnTypography": {
+            "fontType": "default",
+            "desktopFontSize": "16",
+            "tabletFontSize": "16",
+            "mobileFontSize": "16",
+            "textTransform": "normal"
+        },
+        "pBtnCName": "",
+        "pOnDesc": true,
+        "pDescColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pDescTypography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "regular",
+            "mobileFontSize": 14,
+            "mobileLineHeight": 1.3
+        },
+        "pOnFeaturedCat": false,
+        "pPostCatPos": "gutentor-cat-pos-img-top-left",
+        "p1CatPadding": {
+            "type": "px",
+            "mTop": "5",
+            "mRight": "10",
+            "mBottom": "5",
+            "mLeft": "10"
+        },
+        "pPostCatBxBorder": {
+            "rTypeN": "px",
+            "rTypeH": "px",
+            "rTopN": "5",
+            "rTopH": "5",
+            "rRightN": "5",
+            "rRightH": "5",
+            "rBottomN": "5",
+            "rBottomH": "5",
+            "rLeftN": "5",
+            "rLeftH": "5"
+        },
+        "pOnPostFormatOpt": false,
+        "pPostFormatPos": "gutentor-pf-pos-img-top-right",
+        "pPostFormatPadding": {
+            "type": "px",
+            "mTop": "20",
+            "mRight": "20",
+            "mBottom": "20",
+            "mLeft": "20"
+        },
+        "pPostFormatBxBorder": {
+            "rTypeN": "%",
+            "rTypeH": "%",
+            "rTopN": "50",
+            "rTopH": "50",
+            "rRightN": "50",
+            "rRightH": "50",
+            "rBottomN": "50",
+            "rBottomH": "50",
+            "rLeftN": "50",
+            "rLeftH": "50"
+        },
+        "pOnTitle": true,
+        "pTitleTag": "h3",
+        "pTitleColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pTitleTypography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "700",
+            "mobileFontSize": 16,
+            "mobileLineHeight": 1.2
+        },
+        "pMeta1Sorting": [
+            {
+                "itemValue": "meta-author",
+                "itemLabel": "Author"
+            },
+            {
+                "itemValue": "meta-date",
+                "itemLabel": "Date"
+            },
+            {
+                "itemValue": "meta-category",
+                "itemLabel": "Category"
+            },
+            {
+                "itemValue": "meta-comment",
+                "itemLabel": "Comment"
+            }
+        ],
+        "pMeta1FSize": 14,
+        "pOnMeta1": true,
+        "pOnAuthorMeta1": true,
+        "pOnDateMeta1": true,
+        "pOnCatMeta1": true,
+        "pOnCommentMeta1": true,
+        "categories": "",
+        "pMeta1Color": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pMeta1Typography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "regular",
+            "mobileFontSize": 13
+        },
+        "pMeta2Sorting": [
+            {
+                "itemValue": "meta-author",
+                "itemLabel": "Author"
+            },
+            {
+                "itemValue": "meta-date",
+                "itemLabel": "Date"
+            },
+            {
+                "itemValue": "meta-category",
+                "itemLabel": "Category"
+            },
+            {
+                "itemValue": "meta-comment",
+                "itemLabel": "Comment"
+            }
+        ],
+        "pMeta2FSize": 14,
+        "pOnMeta2": false,
+        "pOnAuthorMeta2": true,
+        "pOnDateMeta2": true,
+        "pOnCatMeta2": true,
+        "pMeta2Color": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pOnCommentMeta2": true,
+        "pOnFImg": true,
+        "pFImgSize": "full",
+        "pFImgOColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pOnImgWidth": false,
+        "pImgWidth": {
+            "type": "px",
+            "desktop": "",
+            "tablet": "",
+            "mobile": ""
+        },
+        "pOnImgHeight": false,
+        "pImgHeight": {
+            "type": "px",
+            "desktop": "",
+            "tablet": "",
+            "mobile": ""
+        },
+        "pImgBgOpt": {
+            "backgroundImage": "",
+            "desktopHeight": "",
+            "tabletHeight": "",
+            "mobileHeight": "",
+            "type": "px",
+            "backgroundSize": "cover",
+            "backgroundPosition": "center",
+            "backgroundRepeat": "no-repeat",
+            "backgroundAttachment": "scroll"
+        },
+        "pOnImgDisplayOpt": false,
+        "pImgDisplayOpt": "normal-image",
+        "pOnImgBorder": false,
+        "pImgOnLink": false,
+        "pImgOpenNewTab": false,
+        "pImgLinkRel": "noopener noreferrer",
+        "pOnImgBxWidth": true,
+        "pImgBxWidth": {
+            "type": "%",
+            "mobile": "40"
+        },
+        "pOnImgBxHeight": false,
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "pID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false,
+        "blockFPSortableItems": [
+            {
+                "itemValue": "title",
+                "itemLabel": "Title"
+            },
+            {
+                "itemValue": "primary-entry-meta",
+                "itemLabel": "Primary Entry Meta"
+            },
+            {
+                "itemValue": "description",
+                "itemLabel": "Description/Excerpt"
+            },
+            {
+                "itemValue": "button",
+                "itemLabel": "Button"
+            },
+            {
+                "itemValue": "secondary-entry-meta",
+                "itemLabel": "Secondary Entry Meta"
+            }
+        ],
+        "pOnFPTitle": true,
+        "pFPTitleTag": "h3",
+        "pFPTitleColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pFPTitleTypography": {
+            "fontType": "google",
+            "mobileFontSize": 24,
+            "googleFont": "Open+Sans",
+            "fontWeight": "700",
+            "tabletFontSize": 32,
+            "mobileLineHeight": 1.2
+        },
+        "pOnFPDesc": true,
+        "pFPDescColor": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pFPExcerptLen": "100",
+        "pFPExcerptLenInWords": false,
+        "pOnFPFImg": true,
+        "pFPFImgSize": "full",
+        "pFPFImgOColor": {
+            "enable": true,
+            "normal": "rgba(0,0,0,0.42)",
+            "hover": ""
+        },
+        "pFPFImgBgProps": {
+            "size": "cover",
+            "pos": "center",
+            "repeat": "no-repeat",
+            "attachment": "default"
+        },
+        "pOnFpFPImgDisplayOpt": false,
+        "pFPImgDisplayOpt": "normal-image",
+        "pOnFpFPImgBorder": false,
+        "pFPImgOnLink": false,
+        "pFPImgOpenNewTab": false,
+        "pFPImgLinkRel": "noopener noreferrer",
+        "pFPMeta1Sorting": [
+            {
+                "itemValue": "meta-author",
+                "itemLabel": "Author"
+            },
+            {
+                "itemValue": "meta-date",
+                "itemLabel": "Date"
+            },
+            {
+                "itemValue": "meta-category",
+                "itemLabel": "Category"
+            },
+            {
+                "itemValue": "meta-comment",
+                "itemLabel": "Comment"
+            }
+        ],
+        "pFPMeta1FSize": 14,
+        "pOnFPMeta1": true,
+        "pOnFPAuthorMeta1": true,
+        "pOnFPDateMeta1": true,
+        "pOnFPCatMeta1": true,
+        "pOnFPCommentMeta1": true,
+        "pFPMeta1Color": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pFPMeta2Sorting": [
+            {
+                "itemValue": "meta-author",
+                "itemLabel": "Author"
+            },
+            {
+                "itemValue": "meta-date",
+                "itemLabel": "Date"
+            },
+            {
+                "itemValue": "meta-category",
+                "itemLabel": "Category"
+            },
+            {
+                "itemValue": "meta-comment",
+                "itemLabel": "Comment"
+            }
+        ],
+        "pOnFPMeta2": false,
+        "pOnFPAuthorMeta2": true,
+        "pOnFPDateMeta2": true,
+        "pOnFPCatMeta2": true,
+        "pFPMeta2Color": {
+            "enable": false,
+            "normal": "",
+            "hover": ""
+        },
+        "pOnFPCommentMeta2": true,
+        "pFPBtnIconOpt": {
+            "position": "hide",
+            "size": ""
+        },
+        "pFPBtnIcon": {
+            "label": "fa-book",
+            "value": "fas fa-book",
+            "code": "f108"
+        },
+        "pFPBtnText": "Read More",
+        "pFPBtnLink": {
+            "openInNewTab": false,
+            "rel": ""
+        },
+        "pOnFPBtn": false,
+        "pFPBtnColor": {
+            "enable": true,
+            "normal": "#275cf6",
+            "hover": "#1949d4"
+        },
+        "pFPBtnTxtColor": {
+            "enable": true,
+            "normal": "#fff",
+            "hover": "#fff"
+        },
+        "pFPBtnPadding": {
+            "type": "px",
+            "dTop": "10",
+            "dRight": "15",
+            "dBottom": "10",
+            "dLeft": "15",
+            "tTop": "10",
+            "tRight": "15",
+            "tBottom": "10",
+            "tLeft": "15",
+            "mTop": "10",
+            "mRight": "15",
+            "mBottom": "10",
+            "mLeft": "15"
+        },
+        "pFPBtnBorder": {
+            "rTypeN": "px",
+            "rTypeH": "px",
+            "rTopN": "3",
+            "rTopH": "3",
+            "rRightN": "3",
+            "rRightH": "3",
+            "rBottomN": "3",
+            "rBottomH": "3",
+            "rLeftN": "3",
+            "rLeftH": "3"
+        },
+        "pFPBtnTypography": {
+            "fontType": "default",
+            "desktopFontSize": "16",
+            "tabletFontSize": "16",
+            "mobileFontSize": "16",
+            "textTransform": "normal"
+        },
+        "pFPBtnCName": "",
+        "pOnFPFeaturedCat": false,
+        "pFPCatPos": "gutentor-fp-cat-pos-img-top-left",
+        "pFPCatPadding": {
+            "type": "px",
+            "mTop": "5",
+            "mRight": "10",
+            "mBottom": "5",
+            "mLeft": "10"
+        },
+        "pFPCatBxBorder": {
+            "rTypeN": "px",
+            "rTypeH": "px",
+            "rTopN": "5",
+            "rTopH": "5",
+            "rRightN": "5",
+            "rRightH": "5",
+            "rBottomN": "5",
+            "rBottomH": "5",
+            "rLeftN": "5",
+            "rLeftH": "5"
+        },
+        "pFPBxColor": {
+            "enable": true,
+            "normal": "",
+            "hover": ""
+        },
+        "pFPBxMargin": {
+            "type": "px",
+            "mTop": "15",
+            "mBottom": "15"
+        },
+        "pOnFPPostFormatOpt": false,
+        "pFPPostFormatPos": "gutentor-fp-pf-pos-img-top-right",
+        "pFPPostFormatPadding": {
+            "type": "px",
+            "mTop": "20",
+            "mRight": "20",
+            "mBottom": "20",
+            "mLeft": "20"
+        },
+        "pFPPostFormatBxBorder": {
+            "rTypeN": "%",
+            "rTypeH": "%",
+            "rTopN": "50",
+            "rTopH": "50",
+            "rRightN": "50",
+            "rRightH": "50",
+            "rBottomN": "50",
+            "rBottomH": "50",
+            "rLeftN": "50",
+            "rLeftH": "50"
+        }
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": ""
+}
