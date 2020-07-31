@@ -1,0 +1,418 @@
+{
+    "clientId": "6cc301aa-82c8-45de-ad80-a4a23e1094d2",
+    "name": "gutentor/m7",
+    "isValid": true,
+    "attributes": {
+        "gID": "0b9ba5",
+        "gName": "gutentor/m7",
+        "m7TabLayout": "horizontal",
+        "m7TabDesign": "fill",
+        "m7Align": {
+            "mobile": "text-align-center"
+        },
+        "m7TabTxtColor": {
+            "enable": true,
+            "normal": "#454545",
+            "hover": "#454545"
+        },
+        "m7TabTypography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "600",
+            "mobileFontSize": 14
+        },
+        "m7TabBxBorder": {
+            "rTopN": "5",
+            "rRightN": "5",
+            "rTopH": "5",
+            "rRightH": "5"
+        },
+        "m7TabHPos": "gutentor-tabs-pos-top",
+        "m7TabVPos": "gutentor-tabs-left",
+        "m7IconPos": "left",
+        "m7IconColor": {
+            "enable": true,
+            "normal": "#454545",
+            "hover": "#454545"
+        },
+        "m7TabBgColor": {
+            "enable": true,
+            "normal": "#ddeff5",
+            "hover": "#bdd8e1"
+        },
+        "m7IconBgColor": {
+            "enable": false,
+            "normal": "#fff",
+            "hover": ""
+        },
+        "m7IconMargin": {
+            "mRight": "10"
+        },
+        "m7IconOnWidth": false,
+        "m7IconOnHeight": false,
+        "m7Tabs": 3,
+        "m7NewActiveTab": 2,
+        "m7TabTitles": [
+            {
+                "title": "Home",
+                "iconName": {
+                    "label": "fa-home",
+                    "value": "fas fa-home",
+                    "code": "f015"
+                }
+            },
+            {
+                "title": "Dashboard",
+                "iconName": {
+                    "label": "fa-tachometer-alt",
+                    "value": "fas fa-tachometer-alt",
+                    "code": "f3fd"
+                }
+            },
+            {
+                "title": "Settings",
+                "iconName": {
+                    "label": "fa-cog",
+                    "value": "fas fa-cog",
+                    "code": "f013"
+                }
+            }
+        ],
+        "m7EnableIcon": true,
+        "m7BodyPadding": {
+            "type": "px",
+            "mTop": "20",
+            "mRight": "20",
+            "mBottom": "20",
+            "mLeft": "20"
+        },
+        "m7BodyBgColor": {
+            "enable": true,
+            "normal": "#bdd8e1",
+            "hover": ""
+        },
+        "m7BodyBxBorder": {
+            "styleH": "none",
+            "topH": "1",
+            "rightH": "1",
+            "bottomH": "1",
+            "leftH": "1",
+            "colorH": "#275cf6",
+            "rTopN": "5",
+            "rRightN": "5",
+            "rBottomN": "5",
+            "rLeftN": "5",
+            "rRightH": "5",
+            "rBottomH": "5",
+            "rLeftH": "5"
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "g-pos-custom",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "g-pos-custom",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "g-pos-custom",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [
+        {
+            "clientId": "1929a5f9-9853-4d50-94c3-40919862e34b",
+            "name": "gutentor/m7-tab",
+            "isValid": true,
+            "attributes": {
+                "gID": "",
+                "m7TabI": 1,
+                "m7ActiveTabI": 2
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "91f81f05-595a-4e34-a61a-f91be2e984ea",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g5dfd76",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920-300x200.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 427,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920-1024x683.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920.jpg",
+                                    "height": 1280,
+                                    "width": 1920,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": true,
+                        "e6Height": {
+                            "desktop": 300
+                        },
+                        "e6Margin": {
+                            "mBottom": "40"
+                        },
+                        "e6Align": {
+                            "mobile": "text-align-center"
+                        },
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "g-pos-custom",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "g-pos-custom",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "g-pos-custom",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g5dfd76\" class=\"wp-block-gutentor-e6 section-g5dfd76 gutentor-element gutentor-element-image text-align-center-mobile\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/09/men-827301_1920.jpg\"/></div></div></div>"
+                },
+                {
+                    "clientId": "d08338b2-e655-4a6e-9724-489f07b6787b",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g3c3ede",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g3c3ede\" class=\"wp-block-gutentor-e0 section-g3c3ede gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content gutentor-tabs-content-active\">\n\n</div>"
+        },
+        {
+            "clientId": "235dc46f-9b44-4a76-9d4e-949d4647f0d5",
+            "name": "gutentor/m7-tab",
+            "isValid": true,
+            "attributes": {
+                "gID": "",
+                "m7TabI": 2,
+                "m7ActiveTabI": 2
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "6eb4486f-e9a0-4ea7-8d02-a8e5f1248469",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g33a3c2",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g33a3c2\" class=\"wp-block-gutentor-e0 section-g33a3c2 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div>"
+                },
+                {
+                    "clientId": "c95fe574-6679-4b9b-8906-88786ab4eba6",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g58f56c",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed <br>",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g58f56c\" class=\"wp-block-gutentor-e0 section-g58f56c gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed <br></p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content\">\n\n</div>"
+        },
+        {
+            "clientId": "f688609d-4840-450b-b30a-e753d8162a56",
+            "name": "gutentor/m7-tab",
+            "isValid": true,
+            "attributes": {
+                "gID": "",
+                "m7TabI": 3,
+                "m7ActiveTabI": 2
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "69a95446-feda-4a43-b910-85f4daf23e6d",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g01efc2",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed ",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g01efc2\" class=\"wp-block-gutentor-e0 section-g01efc2 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed </p></div></div>"
+                },
+                {
+                    "clientId": "6244f914-6d07-4bad-8980-e48461ae3497",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ga534f2",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ga534f2\" class=\"wp-block-gutentor-e0 section-ga534f2 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div>"
+                },
+                {
+                    "clientId": "38b3adc0-057d-46e8-a1f4-0e2cd8c114a1",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g2e6c58",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "e0Tag": "p",
+                        "e0Color": {
+                            "enable": false,
+                            "normal": "#000",
+                            "hover": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g2e6c58\" class=\"wp-block-gutentor-e0 section-g2e6c58 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content\">\n\n\n\n</div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"0b9ba5\" class=\"section-0b9ba5 gutentor-module gutentor-module-tabs gutentor-tabs-layout-horizontal gutentor-tabs-pos-top\"><div class=\"gutentor-module-tabs-wrap gutentor-tabs-style-fill\"><div class=\"gutentor-module-tabs-nav text-align-center-mobile\"><span class=\"gutentor-module-tabs-item gutentor-tabs-nav-active\"><span class=\"gutentor-module-tabs-title gutentor-tab-has-icon gutentor-tab-has-icon-left\"><i class=\"gutentor-module-tabs-icon fas fa-home\"></i>Home</span></span><span class=\"gutentor-module-tabs-item\"><span class=\"gutentor-module-tabs-title gutentor-tab-has-icon gutentor-tab-has-icon-left\"><i class=\"gutentor-module-tabs-icon fas fa-tachometer-alt\"></i>Dashboard</span></span><span class=\"gutentor-module-tabs-item\"><span class=\"gutentor-module-tabs-title gutentor-tab-has-icon gutentor-tab-has-icon-left\"><i class=\"gutentor-module-tabs-icon fas fa-cog\"></i>Settings</span></span></div><div class=\"gutentor-module-tabs-body\">\n\n\n\n</div></div></section>"
+}

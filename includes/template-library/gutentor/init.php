@@ -116,6 +116,7 @@ class Gutentor_Template_Library_Gutentor {
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-post-carousel.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-news-ticker.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-accordion-module.php';
+        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-tab-module.php';
     }
 }
 
