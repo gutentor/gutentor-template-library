@@ -70,7 +70,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Duplex_Post_Module' ) ) {
 					'categories'		=> array( 'duplex-post-module' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-1/gutentor_p6.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-1/template-1.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gp493388',
+					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gpf0b4be',
 				),
 				array(
 					'title'				=> __( 'Duplex Post Module', 'gutentor' ),
@@ -80,7 +80,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Duplex_Post_Module' ) ) {
 					'categories'		=> array( 'duplex-post-module' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-2/gutentor_p6.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-2/template-2.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gp4dcf57',
+					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gpb8cfa2',
 				),
 				array(
 					'title'				=> __( 'Duplex Post Module', 'gutentor' ),
@@ -90,7 +90,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Duplex_Post_Module' ) ) {
 					'categories'		=> array( 'duplex-post-module' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-3/gutentor_p4.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-3/template-3.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#g928253',
+					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gp6415e2',
 				),
 				array(
 					'title'				=> __( 'Duplex Post Module', 'gutentor' ),
@@ -100,7 +100,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Block_Duplex_Post_Module' ) ) {
 					'categories'		=> array( 'duplex-post-module' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-4/gutentor_p4.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/duplex-post-module/template-4/template-4.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#g5fe7d1',
+					'demo_url'    => 'https://www.demo.gutentor.com/dual-post-module/#gpe30f4f',
 				),
 				
 			
