@@ -48,6 +48,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_Api' ) ) {
 					array(
 						'methods'	=> \WP_REST_Server::READABLE,
 						'callback'	=> array( $this, 'fetch_templates' ),
+                        'permission_callback' => '__return_true',
 					),
 				)
 			);
