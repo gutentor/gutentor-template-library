@@ -1,0 +1,147 @@
+{
+    "clientId": "c7b27d7d-b08a-47f1-a0be-2031e96723da",
+    "name": "gutentor/m9",
+    "isValid": true,
+    "attributes": {
+        "gID": "g49b024",
+        "gName": "gutentor/m9",
+        "m9Text": "[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]",
+        "m9TxtColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtBgColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "m9TxtOnHeight": true,
+        "m9TxtHeight": {
+            "mobile": 50
+        },
+        "m9TxtBorder": {
+            "rTopN": "50",
+            "rRightN": "50",
+            "rBottomN": "50",
+            "rLeftN": "50",
+            "styleN": "solid",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#e0e0e0",
+            "topN": "1"
+        },
+        "m9BtnColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": "#ffffff"
+        },
+        "m9BtnBgColor": {
+            "enable": true,
+            "normal": "rgba(0,0,0,0)",
+            "hover": "#333333"
+        },
+        "m9BtnPadding": {
+            "mTop": "10",
+            "mRight": "30",
+            "mBottom": "10",
+            "mLeft": "30"
+        },
+        "m9BtnOnHeight": false,
+        "m9BtnBorder": {
+            "rTopN": "50",
+            "rRightN": "50",
+            "rBottomN": "50",
+            "rLeftN": "50",
+            "styleN": "solid",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#333333"
+        },
+        "m9TxtAreaOnHeight": false,
+        "m9TxtAreaBorder": {
+            "rTopN": "15",
+            "rRightN": "15",
+            "rBottomN": "15",
+            "rLeftN": "15",
+            "styleN": "solid",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#e0e0e0"
+        },
+        "m9TxtAreaColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtAreaBgColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "m9BtnTypography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "600",
+            "mobileFontSize": 16
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "default",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "default",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "default",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": "<section id=\"g49b024\" class=\"wp-block-gutentor-m9 section-g49b024 gutentor-module gutentor-module-form-wrapper\"><div class=\"grid-container\">[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]</div></section>"
+}

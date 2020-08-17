@@ -1,0 +1,149 @@
+{
+    "clientId": "600361e9-cf65-48ac-9085-c3b88915f39c",
+    "name": "gutentor/m9",
+    "isValid": true,
+    "attributes": {
+        "gID": "gbb4311",
+        "gName": "gutentor/m9",
+        "m9Text": "[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]",
+        "m9TxtColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtBgColor": {
+            "enable": true,
+            "normal": "rgba(255,255,255,0)",
+            "hover": ""
+        },
+        "m9TxtOnHeight": false,
+        "m9TxtBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0",
+            "styleN": "solid",
+            "rightN": "0",
+            "bottomN": "1",
+            "leftN": "0",
+            "colorN": "#e0e0e0",
+            "topN": "0"
+        },
+        "m9BtnColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": "#ffffff"
+        },
+        "m9BtnBgColor": {
+            "enable": true,
+            "normal": "rgba(0,0,0,0)",
+            "hover": "#333333"
+        },
+        "m9BtnPadding": {
+            "dTop": "15",
+            "dRight": "30",
+            "dBottom": "15",
+            "dLeft": "30",
+            "mTop": "10",
+            "mRight": "20",
+            "mBottom": "10",
+            "mLeft": "20"
+        },
+        "m9BtnOnHeight": false,
+        "m9BtnBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0",
+            "styleN": "solid",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#333333"
+        },
+        "m9TxtAreaOnHeight": false,
+        "m9TxtAreaBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0",
+            "styleN": "solid",
+            "topN": "0",
+            "rightN": "0",
+            "bottomN": "1",
+            "leftN": "0",
+            "colorN": "#e0e0e0"
+        },
+        "m9TxtAreaColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtAreaBgColor": {
+            "enable": true,
+            "normal": "rgba(255,255,255,0)",
+            "hover": ""
+        },
+        "m9BtnTypography": {
+            "fontType": "google",
+            "googleFont": "Open+Sans",
+            "fontWeight": "600",
+            "mobileFontSize": 16,
+            "textTransform": "uppercase"
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "default",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "default",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "default",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": "<section id=\"gbb4311\" class=\"wp-block-gutentor-m9 section-gbb4311 gutentor-module gutentor-module-form-wrapper\"><div class=\"grid-container\">[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]</div></section>"
+}

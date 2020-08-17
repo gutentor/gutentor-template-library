@@ -1,0 +1,126 @@
+{
+    "clientId": "6d726e53-6136-41af-951f-7f7fe2cf53b5",
+    "name": "gutentor/m9",
+    "isValid": true,
+    "attributes": {
+        "gID": "g44af63",
+        "gName": "gutentor/m9",
+        "m9Text": "[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]",
+        "m9TxtColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtBgColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "m9TxtOnHeight": false,
+        "m9TxtBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0",
+            "styleN": "solid",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#e0e0e0"
+        },
+        "m9BtnColor": {
+            "enable": false,
+            "normal": "#000",
+            "hover": ""
+        },
+        "m9BtnBgColor": {
+            "enable": false,
+            "normal": "#000",
+            "hover": ""
+        },
+        "m9BtnOnHeight": false,
+        "m9BtnBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0"
+        },
+        "m9TxtAreaOnHeight": false,
+        "m9TxtAreaBorder": {
+            "rTopN": "0",
+            "rRightN": "0",
+            "rBottomN": "0",
+            "rLeftN": "0",
+            "styleN": "solid",
+            "topN": "1",
+            "rightN": "1",
+            "bottomN": "1",
+            "leftN": "1",
+            "colorN": "#e0e0e0"
+        },
+        "m9TxtAreaColor": {
+            "enable": true,
+            "normal": "#333333",
+            "hover": ""
+        },
+        "m9TxtAreaBgColor": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": ""
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "mID": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "default",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "default",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "default",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false
+    },
+    "innerBlocks": [],
+    "validationIssues": [],
+    "originalContent": "<section id=\"g44af63\" class=\"wp-block-gutentor-m9 section-g44af63 gutentor-module gutentor-module-form-wrapper\"><div class=\"grid-container\">[contact-form-7 id=\"4426\" title=\"Form Wrapper\"]</div></section>"
+}
