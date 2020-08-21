@@ -1,22 +1,32 @@
 {
-    "clientId": "be73e444-1d93-4522-9749-f66b58f659f4",
+    "clientId": "259f5ddc-c867-41fb-b696-aeb133098fe9",
     "name": "gutentor/m7",
     "isValid": true,
     "attributes": {
-        "gID": "1e8e7d",
+        "gID": "8434ee",
         "gName": "gutentor/m7",
-        "m7TabLayout": "vertical",
+        "m7TabLayout": "horizontal",
         "m7TabDesign": "fill",
         "m7TabTxtColor": {
             "enable": true,
-            "normal": "#aeaeae",
-            "hover": "#2d2d43"
+            "normal": "#444444",
+            "hover": "#dd3751"
         },
         "m7TabTypography": {
             "fontType": "google",
-            "googleFont": "Lato",
-            "fontWeight": "700",
-            "mobileFontSize": 17
+            "googleFont": "Open+Sans",
+            "fontWeight": "600",
+            "mobileFontSize": 16
+        },
+        "m7TabBxBorder": {
+            "rTopN": "5",
+            "rRightN": "5"
+        },
+        "m7TabPadding": {
+            "mTop": "10",
+            "mRight": "25",
+            "mBottom": "10",
+            "mLeft": "25"
         },
         "m7TabHPos": "gutentor-tabs-pos-top",
         "m7TabVPos": "gutentor-tabs-left",
@@ -27,9 +37,9 @@
             "hover": "#FFFFFF"
         },
         "m7TabBgColor": {
-            "enable": false,
-            "normal": "rgba(39, 92, 246, 1)",
-            "hover": "rgba(25, 73, 212, 1)"
+            "enable": true,
+            "normal": "#e9e9e9",
+            "hover": "#ffffff"
         },
         "m7IconBgColor": {
             "enable": false,
@@ -41,11 +51,11 @@
         },
         "m7IconOnWidth": false,
         "m7IconOnHeight": false,
-        "m7Tabs": 3,
+        "m7Tabs": 2,
         "m7NewActiveTab": 0,
         "m7TabTitles": [
             {
-                "title": "Our History",
+                "title": "One Way",
                 "iconName": {
                     "label": "fas fa-cog",
                     "value": "fas fa-cog",
@@ -53,15 +63,7 @@
                 }
             },
             {
-                "title": "Vision",
-                "iconName": {
-                    "label": "fas fa-cog",
-                    "value": "fas fa-cog",
-                    "code": "f013"
-                }
-            },
-            {
-                "title": "Mission",
+                "title": "Two Way",
                 "iconName": {
                     "label": "fas fa-cog",
                     "value": "fas fa-cog",
@@ -72,12 +74,14 @@
         "m7EnableIcon": false,
         "m7BodyPadding": {
             "type": "px",
-            "mLeft": "30",
-            "tLeft": "0"
+            "mTop": "40",
+            "mRight": "20",
+            "mBottom": "20",
+            "mLeft": "20"
         },
         "m7BodyBgColor": {
-            "enable": false,
-            "normal": "#000",
+            "enable": true,
+            "normal": "#ffffff",
             "hover": ""
         },
         "m7BodyBxBorder": {
@@ -86,7 +90,14 @@
             "rightH": "1",
             "bottomH": "1",
             "leftH": "1",
-            "colorH": "#275cf6"
+            "colorH": "#275cf6",
+            "rBottomN": "5",
+            "rLeftN": "5",
+            "rRightN": "5",
+            "rTopH": "0",
+            "rRightH": "5",
+            "rBottomH": "5",
+            "rLeftH": "5"
         },
         "mAnimation": {
             "Animation": "none",
@@ -99,10 +110,6 @@
         "mBGVideoLoop": true,
         "mBGVideoMute": true,
         "mOnOverlay": false,
-        "mMargin": {
-            "mTop": "40",
-            "tTop": "60"
-        },
         "mTag": "section",
         "mID": "",
         "mTShape": "",
@@ -145,7 +152,7 @@
     },
     "innerBlocks": [
         {
-            "clientId": "d0f9aa59-6d3d-4388-a1e2-f0148a72a062",
+            "clientId": "f2a1e1bc-a403-49e5-8efb-de987ca96f13",
             "name": "gutentor/m7-tab",
             "isValid": true,
             "attributes": {
@@ -155,61 +162,22 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "a566b577-5603-43f3-8f7c-9befad4571e7",
-                    "name": "gutentor/e0",
+                    "clientId": "5b3c25b7-c3ef-491a-abe1-a251f902d3af",
+                    "name": "core/html",
                     "isValid": true,
                     "attributes": {
-                        "gID": "g7e359b",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
+                        "content": "[contact-form-7 id=\"140\" title=\"Booking Form\"]"
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-g7e359b\" class=\"wp-block-gutentor-e0 section-g7e359b gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div></div>"
-                },
-                {
-                    "clientId": "e8fd1017-6a8d-4c4f-a1ce-2ba040b22d55",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "g803bcb",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the ",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-g803bcb\" class=\"wp-block-gutentor-e0 section-g803bcb gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the </p></div></div>"
+                    "originalContent": "[contact-form-7 id=\"140\" title=\"Booking Form\"]"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content gutentor-tabs-content-active\">\n\n</div>"
+            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content gutentor-tabs-content-active\"></div>"
         },
         {
-            "clientId": "52dd03d8-5aa6-4743-b84e-f9f3a74aba8c",
+            "clientId": "255778eb-84c2-43e3-ac31-dbf8fb009405",
             "name": "gutentor/m7-tab",
             "isValid": true,
             "attributes": {
@@ -219,124 +187,21 @@
             },
             "innerBlocks": [
                 {
-                    "clientId": "1f79fb29-d984-4618-9cd4-1cf142988fea",
-                    "name": "gutentor/e0",
+                    "clientId": "b547bcd3-01a5-48aa-b7f3-158afb3ee2c7",
+                    "name": "core/html",
                     "isValid": true,
                     "attributes": {
-                        "gID": "gd7775e",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
+                        "content": "[contact-form-7 id=\"140\" title=\"Booking Form\"]"
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-gd7775e\" class=\"wp-block-gutentor-e0 section-gd7775e gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div></div>"
-                },
-                {
-                    "clientId": "eecc1615-1175-491a-af6d-44fb1427db9b",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "g4d77ef",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-g4d77ef\" class=\"wp-block-gutentor-e0 section-g4d77ef gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div></div>"
+                    "originalContent": "[contact-form-7 id=\"140\" title=\"Booking Form\"]"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content\">\n\n</div>"
-        },
-        {
-            "clientId": "eae41f7f-dc6c-4e2c-b9da-a6b48d680312",
-            "name": "gutentor/m7-tab",
-            "isValid": true,
-            "attributes": {
-                "gID": "",
-                "m7TabI": 3,
-                "m7ActiveTabI": 0
-            },
-            "innerBlocks": [
-                {
-                    "clientId": "5c9e4f88-b6ec-47ba-9e86-692d0503098f",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "ga3ebbb",
-                        "gName": "gutentor/e0",
-                        "e0AT": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-ga3ebbb\" class=\"wp-block-gutentor-e0 section-ga3ebbb gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div></div>"
-                },
-                {
-                    "clientId": "3dc3fc35-bc6e-423e-9012-465de2aa9580",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "g2e8210",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                        "e0Tag": "p",
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-g2e8210\" class=\"wp-block-gutentor-e0 section-g2e8210 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div></div>"
-                }
-            ],
-            "validationIssues": [],
-            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content\">\n\n</div>"
+            "originalContent": "<div class=\"wp-block-gutentor-m7-tab gutentor-module-tabs-content\"></div>"
         }
     ],
     "validationIssues": [],
-    "originalContent": "<section id=\"1e8e7d\" class=\"section-1e8e7d gutentor-module gutentor-module-tabs gutentor-tabs-layout-vertical gutentor-tabs-left\"><div class=\"grid-container\"><div class=\"gutentor-module-tabs-wrap gutentor-tabs-style-fill\"><div class=\"gutentor-module-tabs-nav\"><span class=\"gutentor-module-tabs-item gutentor-tabs-nav-active\"><span class=\"gutentor-module-tabs-title\">Our History</span></span><span class=\"gutentor-module-tabs-item\"><span class=\"gutentor-module-tabs-title\">Vision</span></span><span class=\"gutentor-module-tabs-item\"><span class=\"gutentor-module-tabs-title\">Mission</span></span></div><div class=\"gutentor-module-tabs-body\">\n\n\n\n</div></div></div></section>"
+    "originalContent": "<section id=\"8434ee\" class=\"section-8434ee gutentor-module gutentor-module-tabs gutentor-tabs-layout-horizontal gutentor-tabs-pos-top\"><div class=\"grid-container\"><div class=\"gutentor-module-tabs-wrap gutentor-tabs-style-fill\"><div class=\"gutentor-module-tabs-nav\"><span class=\"gutentor-module-tabs-item gutentor-tabs-nav-active\"><span class=\"gutentor-module-tabs-title\">One Way</span></span><span class=\"gutentor-module-tabs-item\"><span class=\"gutentor-module-tabs-title\">Two Way</span></span></div><div class=\"gutentor-module-tabs-body\">\n\n</div></div></div></section>"
 }

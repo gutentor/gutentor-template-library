@@ -1,14 +1,14 @@
 {
-    "clientId": "2defb680-2027-4af6-80ad-e316ae64547c",
+    "clientId": "8846bf64-7c37-40a4-a1f0-0fffa0809013",
     "name": "gutentor/m2",
     "isValid": true,
     "attributes": {
-        "gID": "gmac2d64f",
+        "gID": "gm0513384",
         "gName": "gutentor/m2",
         "blockItemsColumn": {
-            "desktop": "grid-lg-3",
-            "tablet": "grid-md-3",
-            "mobile": "grid-6"
+            "desktop": "grid-lg-6",
+            "tablet": "grid-md-6",
+            "mobile": "grid-12"
         },
         "colEqualHeight": false,
         "mAnimation": {
@@ -22,11 +22,7 @@
         "mBGVideoLoop": true,
         "mBGVideoMute": true,
         "mOnOverlay": false,
-        "mPadding": {
-            "dBottom": "80",
-            "tBottom": "60",
-            "mBottom": "40"
-        },
+        "mPadding": {},
         "mTag": "section",
         "mID": "",
         "mTShape": "",
@@ -65,510 +61,923 @@
             "type": "%",
             "width": ""
         },
-        "mOnHeight": false
+        "mOnHeight": false,
+        "mHideContSpace": {
+            "mobile": true
+        }
     },
     "innerBlocks": [
         {
-            "clientId": "dc91ab2f-86cf-4ff7-bf07-4fcecc58e798",
+            "clientId": "4815f6f6-6f04-4c39-8f14-faa21b2befa8",
             "name": "gutentor/m2-col",
             "isValid": true,
             "attributes": {
-                "gID": "gm6c50d7",
+                "gID": "gm856794",
                 "gName": "gutentor/m2-col",
-                "mPID": "ac2d64fd-c79a-4510-8f9c-77996ce6ac41",
+                "mPID": "0513384a-d66d-486b-a151-17d82fcbdbc2",
                 "blockItemsColumn": {
-                    "desktop": "grid-lg-3",
-                    "tablet": "grid-md-3",
-                    "mobile": "grid-6"
+                    "desktop": "grid-lg-6",
+                    "tablet": "grid-md-6",
+                    "mobile": "grid-12"
                 },
                 "mColAnimation": {
-                    "Animation": "none",
-                    "Delay": "",
-                    "Speed": "",
+                    "Animation": "slideInUp",
                     "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": "1",
+                    "Delay": "0.1",
+                    "Speed": "1"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
                 },
                 "mBGVideoLoop": true,
                 "mBGVideoMute": true,
                 "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "5",
+                    "rRightN": "5",
+                    "rBottomN": "5",
+                    "rLeftN": "5"
+                },
                 "mMargin": {
                     "mTop": "15",
                     "mBottom": "15"
+                },
+                "mPadding": {
+                    "mBottom": "20",
+                    "mTop": "0",
+                    "mRight": "0",
+                    "mLeft": "0"
+                },
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "10",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
                 }
             },
             "innerBlocks": [
                 {
-                    "clientId": "e5707a71-49e5-45ff-8dc2-4aaf19d2ff7b",
-                    "name": "gutentor/e3",
+                    "clientId": "af79e74f-dbc7-4723-a580-8f5439b304cd",
+                    "name": "gutentor/m3",
                     "isValid": true,
                     "attributes": {
-                        "gID": "gda1f4b",
-                        "gName": "gutentor/e3",
-                        "e3Limit": "2744",
-                        "e3PreFix": "",
-                        "e3PostFix": "",
-                        "e3Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "900",
-                            "mobileFontSize": 40
+                        "gID": "gm43fff39",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
                         },
-                        "e3Color": {
-                            "enable": true,
-                            "normal": "#2d2d43",
-                            "hover": ""
+                        "mBGImageSizeType": "full",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": false,
+                        "mMargin": {
+                            "mBottom": "40"
                         },
-                        "e3OnWidth": false,
-                        "e3Width": {
-                            "type": "px"
+                        "mPadding": {},
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": true,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-r",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-r",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-r",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
                         },
-                        "e3OnHeight": false,
-                        "e3Height": {
-                            "type": "px"
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
                         },
-                        "e3Align": {
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": false,
+                        "mHideContSpace": {
+                            "mobile": true
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "4e9bba12-16bb-441b-b7bb-7ccc6e20e25f",
+                            "name": "gutentor/e6",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "geb966e",
+                                "gName": "gutentor/e6",
+                                "e6ImgSrcOpt": "local-image",
+                                "e6Img": {
+                                    "sizes": {
+                                        "thumbnail": {
+                                            "height": 150,
+                                            "width": 150,
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team6400x500-150x150.jpg",
+                                            "orientation": "landscape"
+                                        },
+                                        "medium": {
+                                            "height": 300,
+                                            "width": 240,
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team6400x500-240x300.jpg",
+                                            "orientation": "portrait"
+                                        },
+                                        "full": {
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team6400x500.jpg",
+                                            "height": 500,
+                                            "width": 400,
+                                            "orientation": "portrait"
+                                        }
+                                    },
+                                    "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team6400x500.jpg",
+                                    "alt": ""
+                                },
+                                "e6RetinaImg": "",
+                                "e6OverlayColor": {
+                                    "enable": false,
+                                    "normal": "rgba(39,92,246,0.2)",
+                                    "hover": ""
+                                },
+                                "e6LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "imageLinkEnable": "",
+                                    "imageLink": "",
+                                    "noFollow": false
+                                },
+                                "e6Style": "normal-image",
+                                "e6BgProps": {
+                                    "size": "cover",
+                                    "pos": "center",
+                                    "repeat": "no-repeat",
+                                    "attachment": "scroll"
+                                },
+                                "e6OnWidth": false,
+                                "e6Size": "full",
+                                "e6OnWidthHeight": false,
+                                "e6OnHeight": false,
+                                "e6Border": {
+                                    "rTopN": "5",
+                                    "rRightN": "5",
+                                    "rBottomN": "0",
+                                    "rLeftN": "0"
+                                },
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "default",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "default",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "default",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-geb966e\" class=\"wp-block-gutentor-e6 section-geb966e gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team6400x500.jpg\"/></div></div></div>"
+                        },
+                        {
+                            "clientId": "fd231e94-212e-45fa-a290-4663fcbb5bca",
+                            "name": "gutentor/m3",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "gm8fedde4",
+                                "gName": "gutentor/m3",
+                                "mAnimation": {
+                                    "Animation": "none",
+                                    "Delay": "",
+                                    "Speed": "",
+                                    "IterationType": "1",
+                                    "Iteration": "1"
+                                },
+                                "mBGType": "color",
+                                "mBGImageSizeType": "full",
+                                "mBGColor": "#dd3751",
+                                "mBGVideoLoop": true,
+                                "mBGVideoMute": true,
+                                "mOnOverlay": false,
+                                "mBxBorder": {
+                                    "rTypeN": "px",
+                                    "rTopN": "50",
+                                    "rRightN": "50",
+                                    "rBottomN": "50",
+                                    "rLeftN": "50"
+                                },
+                                "mPadding": {
+                                    "mTop": "8",
+                                    "mRight": "0",
+                                    "mBottom": "8",
+                                    "mLeft": "0"
+                                },
+                                "mTag": "section",
+                                "mID": "",
+                                "mTShape": "",
+                                "mTShapeOnColor": "",
+                                "mTShapeVFlip": false,
+                                "mTShapeHFlip": false,
+                                "mTShapePos": "",
+                                "mBShape": "",
+                                "mBShapeOnColor": "",
+                                "mBShapeVFlip": false,
+                                "mBShapeHFlip": false,
+                                "mBShapePos": "",
+                                "mOnPos": true,
+                                "mContOnVAlign": false,
+                                "mContVAlign": "g-c-r-valign",
+                                "mContVAlignT": "g-c-r-valign",
+                                "mContVAlignD": "g-c-r-valign",
+                                "mPosTypeD": "g-pos-a",
+                                "mPosOptD": "g-pos-custom",
+                                "mPosMarginAutoD": true,
+                                "mPosTypeT": "g-pos-a",
+                                "mPosOptT": "g-pos-custom",
+                                "mPosMarginAutoT": true,
+                                "mPosTypeM": "g-pos-a",
+                                "mPosOptM": "g-pos-custom",
+                                "mPosMarginAutoM": true,
+                                "mPosD": {
+                                    "bottom": "-20",
+                                    "right": "0",
+                                    "left": "0"
+                                },
+                                "mPosDWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mPosT": {
+                                    "right": "0",
+                                    "left": "0",
+                                    "bottom": "-20"
+                                },
+                                "mPosTWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mPosM": {
+                                    "bottom": "-20",
+                                    "right": "0",
+                                    "left": "0"
+                                },
+                                "mPosMWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mOnHeight": false,
+                                "mHideContSpace": {
+                                    "mobile": true
+                                }
+                            },
+                            "innerBlocks": [
+                                {
+                                    "clientId": "7b75e617-719b-4a19-8c90-1355a20e572c",
+                                    "name": "gutentor/e0",
+                                    "isValid": true,
+                                    "attributes": {
+                                        "gID": "g3c5b6c",
+                                        "gName": "gutentor/e0",
+                                        "e0AT": "12 Years Experience",
+                                        "e0Tag": "p",
+                                        "e0Align": {
+                                            "mobile": "text-align-center"
+                                        },
+                                        "e0Color": {
+                                            "enable": true,
+                                            "normal": "#ffffff",
+                                            "hover": ""
+                                        },
+                                        "e0Typography": {
+                                            "fontType": "google",
+                                            "googleFont": "Open+Sans",
+                                            "fontWeight": "regular",
+                                            "mobileFontSize": 16
+                                        },
+                                        "e0Margin": {
+                                            "mBottom": "0",
+                                            "mTop": "0"
+                                        }
+                                    },
+                                    "innerBlocks": [],
+                                    "validationIssues": [],
+                                    "originalContent": "<div id=\"section-g3c5b6c\" class=\"wp-block-gutentor-e0 section-g3c5b6c gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">12 Years Experience</p></div></div>"
+                                },
+                                {
+                                    "clientId": "7b134f49-4dae-4852-a506-67b5960534b7",
+                                    "name": "core/paragraph",
+                                    "isValid": true,
+                                    "attributes": {
+                                        "content": "",
+                                        "dropCap": false
+                                    },
+                                    "innerBlocks": [],
+                                    "validationIssues": [],
+                                    "originalContent": "<p></p>"
+                                }
+                            ],
+                            "validationIssues": [],
+                            "originalContent": "<section id=\"gm8fedde4\" class=\"wp-block-gutentor-m3 section-gm8fedde4 gutentor-module gutentor-container-cover has-color-bg has-custom-bg g-pos-a-desktop g-pos-a-tablet g-pos-a-mobile g-pos-custom-desktop g-pos-custom-tablet g-pos-custom-mobile\"><div class=\"grid-container gutentor-rm-ct-space\">\n\n</div></section>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gm43fff39\" class=\"wp-block-gutentor-m3 section-gm43fff39 gutentor-module gutentor-container-cover g-pos-r-desktop g-pos-r-tablet g-pos-r-mobile g-pos-custom-desktop g-pos-custom-tablet g-pos-custom-mobile\"><div class=\"grid-container gutentor-rm-ct-space\">\n\n</div></section>"
+                },
+                {
+                    "clientId": "71a103be-3033-4acf-88ca-cb30ae8f4b12",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g770ef0",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Mark Jakson<br>",
+                        "e0Tag": "h3",
+                        "e0Align": {
                             "mobile": "text-align-center"
                         },
-                        "e3BgColor": {
-                            "enable": false,
-                            "normal": "#fff",
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#444444",
                             "hover": ""
                         },
-                        "eOnPos": false,
-                        "ePosTypeD": "g-pos-d",
-                        "ePosOptD": "default",
-                        "ePosMarginAutoD": false,
-                        "ePosTypeT": "g-pos-d",
-                        "ePosOptT": "default",
-                        "ePosMarginAutoT": false,
-                        "ePosTypeM": "g-pos-d",
-                        "ePosOptM": "default",
-                        "ePosMarginAutoM": false,
-                        "ePosDWidth": {
-                            "type": "%",
-                            "width": ""
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 18
                         },
-                        "ePosTWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosMWidth": {
-                            "type": "%",
-                            "width": ""
+                        "e0Margin": {
+                            "mBottom": "0",
+                            "mTop": "0"
                         }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-gda1f4b\" class=\"wp-block-gutentor-e3 section-gda1f4b gutentor-element gutentor-element-counter text-align-center-mobile\"><div class=\"gutentor-element-counter-box\"><span class=\"gutentor-counter-number\"><span class=\"gutentor-counter-number-prefix\"></span><span class=\"gutentor-counter-number-main\" data-start=\"0\" data-end=\"2744\">2744</span><span class=\"gutentor-counter-number-postfix\"></span></span></div></div>"
+                    "originalContent": "<div id=\"section-g770ef0\" class=\"wp-block-gutentor-e0 section-g770ef0 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Mark Jakson<br></h3></div></div>"
                 },
                 {
-                    "clientId": "769ce9ba-31a6-48f6-b23f-4f0fe499eff4",
+                    "clientId": "6e9f3a5d-c510-40b7-b54a-876b29501b06",
                     "name": "gutentor/e0",
                     "isValid": true,
                     "attributes": {
-                        "gID": "g526380",
+                        "gID": "ga4eb15",
                         "gName": "gutentor/e0",
-                        "e0AT": "Completed Projects",
+                        "e0AT": "Graphic Designer<br>",
                         "e0Tag": "p",
                         "e0Align": {
                             "mobile": "text-align-center"
                         },
                         "e0Color": {
                             "enable": true,
-                            "normal": "#aeaeae",
+                            "normal": "#777777",
                             "hover": ""
                         },
                         "e0Typography": {
                             "fontType": "google",
-                            "googleFont": "Lato",
+                            "googleFont": "Open+Sans",
                             "fontWeight": "regular",
-                            "mobileFontSize": 16
+                            "mobileFontSize": 14
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
                         }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-g526380\" class=\"wp-block-gutentor-e0 section-g526380 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Completed Projects</p></div></div>"
+                    "originalContent": "<div id=\"section-ga4eb15\" class=\"wp-block-gutentor-e0 section-ga4eb15 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Graphic Designer<br></p></div></div>"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div id=\"col-gm6c50d7\" class=\"wp-block-gutentor-m2-col col-gm6c50d7 gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-3 grid-6\"><div id=\"section-gm6c50d7\" class=\"section-gm6c50d7 gutentor-single-col\">\n\n</div></div>"
+            "originalContent": "<div id=\"col-gm856794\" class=\"wp-block-gutentor-m2-col col-gm856794 gutentor-module gutentor-dynamic-single-column wow slideInUp grid-lg-6 grid-md-6 grid-12\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.1s\" data-wow-speed=\"1s\" data-wow-iteration=\"1\"><div id=\"section-gm856794\" class=\"section-gm856794 gutentor-single-col has-color-bg has-custom-bg\">\n\n\n\n</div></div>"
         },
         {
-            "clientId": "cde8a36c-addf-4f43-97db-ff05b65e2476",
+            "clientId": "91915cbd-4c91-4c2d-988f-ef04ce132a42",
             "name": "gutentor/m2-col",
             "isValid": true,
             "attributes": {
-                "gID": "gme8df6f",
+                "gID": "gme8067c",
                 "gName": "gutentor/m2-col",
-                "mPID": "ac2d64fd-c79a-4510-8f9c-77996ce6ac41",
+                "mPID": "0513384a-d66d-486b-a151-17d82fcbdbc2",
                 "blockItemsColumn": {
-                    "desktop": "grid-lg-3",
-                    "tablet": "grid-md-3",
-                    "mobile": "grid-6"
+                    "desktop": "grid-lg-6",
+                    "tablet": "grid-md-6",
+                    "mobile": "grid-12"
                 },
                 "mColAnimation": {
-                    "Animation": "none",
-                    "Delay": "",
-                    "Speed": "",
+                    "Animation": "slideInUp",
                     "IterationType": "1",
-                    "Iteration": "1"
+                    "Iteration": "1",
+                    "Delay": "0.1",
+                    "Speed": "1"
+                },
+                "mBGType": "color",
+                "mBGColor": {
+                    "color": {
+                        "_originalInput": {
+                            "h": 0,
+                            "s": 0,
+                            "v": 120.53475065452318,
+                            "a": 1,
+                            "source": "rgb"
+                        },
+                        "_r": 255,
+                        "_g": 255,
+                        "_b": 255,
+                        "_a": 1,
+                        "_roundA": 1,
+                        "_format": "hsv",
+                        "_ok": true,
+                        "_tc_id": 40
+                    },
+                    "hex": "#ffffff",
+                    "hsl": {
+                        "h": 0,
+                        "s": 0,
+                        "l": 100,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 0,
+                        "s": 0,
+                        "v": 100,
+                        "a": 1
+                    },
+                    "oldHue": 0,
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "source": "rgb"
                 },
                 "mBGVideoLoop": true,
                 "mBGVideoMute": true,
                 "mOnOverlay": false,
+                "mBxBorder": {
+                    "rTopN": "5",
+                    "rRightN": "5",
+                    "rBottomN": "5",
+                    "rLeftN": "5"
+                },
                 "mMargin": {
                     "mTop": "15",
                     "mBottom": "15"
+                },
+                "mPadding": {
+                    "mBottom": "20",
+                    "mTop": "0",
+                    "mRight": "0",
+                    "mLeft": "0"
+                },
+                "mBxShadow": {
+                    "nX": "0",
+                    "nY": "0",
+                    "nBlur": "10",
+                    "nSpread": "1",
+                    "nColor": "rgba(0,0,0,0.15)"
                 }
             },
             "innerBlocks": [
                 {
-                    "clientId": "faaa0cd3-b55d-4ddc-968b-295082c4cd4b",
-                    "name": "gutentor/e3",
+                    "clientId": "49c91425-74c1-4879-bda5-1baf3353989d",
+                    "name": "gutentor/m3",
                     "isValid": true,
                     "attributes": {
-                        "gID": "gbbaff5",
-                        "gName": "gutentor/e3",
-                        "e3Limit": "39",
-                        "e3PreFix": "",
-                        "e3PostFix": "",
-                        "e3Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "900",
-                            "mobileFontSize": 40
+                        "gID": "gme8ac017",
+                        "gName": "gutentor/m3",
+                        "mAnimation": {
+                            "Animation": "none",
+                            "Delay": "",
+                            "Speed": "",
+                            "IterationType": "1",
+                            "Iteration": "1"
                         },
-                        "e3Color": {
-                            "enable": true,
-                            "normal": "#2d2d43",
-                            "hover": ""
+                        "mBGImageSizeType": "full",
+                        "mBGVideoLoop": true,
+                        "mBGVideoMute": true,
+                        "mOnOverlay": false,
+                        "mMargin": {
+                            "mBottom": "40"
                         },
-                        "e3OnWidth": false,
-                        "e3Width": {
-                            "type": "px"
+                        "mPadding": {},
+                        "mTag": "section",
+                        "mID": "",
+                        "mTShape": "",
+                        "mTShapeOnColor": "",
+                        "mTShapeVFlip": false,
+                        "mTShapeHFlip": false,
+                        "mTShapePos": "",
+                        "mBShape": "",
+                        "mBShapeOnColor": "",
+                        "mBShapeVFlip": false,
+                        "mBShapeHFlip": false,
+                        "mBShapePos": "",
+                        "mOnPos": true,
+                        "mContOnVAlign": false,
+                        "mContVAlign": "g-c-r-valign",
+                        "mContVAlignT": "g-c-r-valign",
+                        "mContVAlignD": "g-c-r-valign",
+                        "mPosTypeD": "g-pos-r",
+                        "mPosOptD": "g-pos-custom",
+                        "mPosMarginAutoD": false,
+                        "mPosTypeT": "g-pos-r",
+                        "mPosOptT": "g-pos-custom",
+                        "mPosMarginAutoT": false,
+                        "mPosTypeM": "g-pos-r",
+                        "mPosOptM": "g-pos-custom",
+                        "mPosMarginAutoM": false,
+                        "mPosDWidth": {
+                            "type": "%",
+                            "width": ""
                         },
-                        "e3OnHeight": false,
-                        "e3Height": {
-                            "type": "px"
+                        "mPosTWidth": {
+                            "type": "%",
+                            "width": ""
                         },
-                        "e3Align": {
+                        "mPosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "mOnHeight": false,
+                        "mHideContSpace": {
+                            "mobile": true
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "clientId": "fc49aee6-a8a8-4ca6-983d-89572f7a599f",
+                            "name": "gutentor/e6",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "gb150ee",
+                                "gName": "gutentor/e6",
+                                "e6ImgSrcOpt": "local-image",
+                                "e6Img": {
+                                    "sizes": {
+                                        "thumbnail": {
+                                            "height": 150,
+                                            "width": 150,
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team5400x500-150x150.jpg",
+                                            "orientation": "landscape"
+                                        },
+                                        "medium": {
+                                            "height": 300,
+                                            "width": 240,
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team5400x500-240x300.jpg",
+                                            "orientation": "portrait"
+                                        },
+                                        "full": {
+                                            "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team5400x500.jpg",
+                                            "height": 500,
+                                            "width": 400,
+                                            "orientation": "portrait"
+                                        }
+                                    },
+                                    "url": "https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team5400x500.jpg",
+                                    "alt": ""
+                                },
+                                "e6RetinaImg": "",
+                                "e6OverlayColor": {
+                                    "enable": false,
+                                    "normal": "rgba(39,92,246,0.2)",
+                                    "hover": ""
+                                },
+                                "e6LinkOpt": {
+                                    "openInNewTab": false,
+                                    "rel": "",
+                                    "imageLinkEnable": "",
+                                    "imageLink": "",
+                                    "noFollow": false
+                                },
+                                "e6Style": "normal-image",
+                                "e6BgProps": {
+                                    "size": "cover",
+                                    "pos": "center",
+                                    "repeat": "no-repeat",
+                                    "attachment": "scroll"
+                                },
+                                "e6OnWidth": false,
+                                "e6Size": "full",
+                                "e6OnWidthHeight": false,
+                                "e6OnHeight": false,
+                                "e6Border": {
+                                    "rTopN": "5",
+                                    "rRightN": "5",
+                                    "rBottomN": "0",
+                                    "rLeftN": "0"
+                                },
+                                "eOnPos": false,
+                                "ePosTypeD": "g-pos-d",
+                                "ePosOptD": "default",
+                                "ePosMarginAutoD": false,
+                                "ePosTypeT": "g-pos-d",
+                                "ePosOptT": "default",
+                                "ePosMarginAutoT": false,
+                                "ePosTypeM": "g-pos-d",
+                                "ePosOptM": "default",
+                                "ePosMarginAutoM": false,
+                                "ePosDWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosTWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                },
+                                "ePosMWidth": {
+                                    "type": "%",
+                                    "width": ""
+                                }
+                            },
+                            "innerBlocks": [],
+                            "validationIssues": [],
+                            "originalContent": "<div id=\"section-gb150ee\" class=\"wp-block-gutentor-e6 section-gb150ee gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.cosmoswp.com/demo-19/wp-content/uploads/sites/36/2020/08/team5400x500.jpg\"/></div></div></div>"
+                        },
+                        {
+                            "clientId": "035ada97-b78c-4b69-8268-095e71a9292f",
+                            "name": "gutentor/m3",
+                            "isValid": true,
+                            "attributes": {
+                                "gID": "gm75c3b08",
+                                "gName": "gutentor/m3",
+                                "mAnimation": {
+                                    "Animation": "none",
+                                    "Delay": "",
+                                    "Speed": "",
+                                    "IterationType": "1",
+                                    "Iteration": "1"
+                                },
+                                "mBGType": "color",
+                                "mBGImageSizeType": "full",
+                                "mBGColor": "#dd3751",
+                                "mBGVideoLoop": true,
+                                "mBGVideoMute": true,
+                                "mOnOverlay": false,
+                                "mBxBorder": {
+                                    "rTypeN": "px",
+                                    "rTopN": "50",
+                                    "rRightN": "50",
+                                    "rBottomN": "50",
+                                    "rLeftN": "50"
+                                },
+                                "mPadding": {
+                                    "mTop": "8",
+                                    "mRight": "0",
+                                    "mBottom": "8",
+                                    "mLeft": "0"
+                                },
+                                "mTag": "section",
+                                "mID": "",
+                                "mTShape": "",
+                                "mTShapeOnColor": "",
+                                "mTShapeVFlip": false,
+                                "mTShapeHFlip": false,
+                                "mTShapePos": "",
+                                "mBShape": "",
+                                "mBShapeOnColor": "",
+                                "mBShapeVFlip": false,
+                                "mBShapeHFlip": false,
+                                "mBShapePos": "",
+                                "mOnPos": true,
+                                "mContOnVAlign": false,
+                                "mContVAlign": "g-c-r-valign",
+                                "mContVAlignT": "g-c-r-valign",
+                                "mContVAlignD": "g-c-r-valign",
+                                "mPosTypeD": "g-pos-a",
+                                "mPosOptD": "g-pos-custom",
+                                "mPosMarginAutoD": true,
+                                "mPosTypeT": "g-pos-a",
+                                "mPosOptT": "g-pos-custom",
+                                "mPosMarginAutoT": true,
+                                "mPosTypeM": "g-pos-a",
+                                "mPosOptM": "g-pos-custom",
+                                "mPosMarginAutoM": true,
+                                "mPosD": {
+                                    "bottom": "-20",
+                                    "right": "0",
+                                    "left": "0"
+                                },
+                                "mPosDWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mPosT": {
+                                    "right": "0",
+                                    "left": "0",
+                                    "bottom": "-20"
+                                },
+                                "mPosTWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mPosM": {
+                                    "bottom": "-20",
+                                    "right": "0",
+                                    "left": "0"
+                                },
+                                "mPosMWidth": {
+                                    "type": "%",
+                                    "width": 80
+                                },
+                                "mOnHeight": false,
+                                "mHideContSpace": {
+                                    "mobile": true
+                                }
+                            },
+                            "innerBlocks": [
+                                {
+                                    "clientId": "e335ea5d-7235-45ba-bf16-d1ca276f4aff",
+                                    "name": "gutentor/e0",
+                                    "isValid": true,
+                                    "attributes": {
+                                        "gID": "g3e0b89",
+                                        "gName": "gutentor/e0",
+                                        "e0AT": "12 Years Experience",
+                                        "e0Tag": "p",
+                                        "e0Align": {
+                                            "mobile": "text-align-center"
+                                        },
+                                        "e0Color": {
+                                            "enable": true,
+                                            "normal": "#ffffff",
+                                            "hover": ""
+                                        },
+                                        "e0Typography": {
+                                            "fontType": "google",
+                                            "googleFont": "Open+Sans",
+                                            "fontWeight": "regular",
+                                            "mobileFontSize": 16
+                                        },
+                                        "e0Margin": {
+                                            "mBottom": "0",
+                                            "mTop": "0"
+                                        }
+                                    },
+                                    "innerBlocks": [],
+                                    "validationIssues": [],
+                                    "originalContent": "<div id=\"section-g3e0b89\" class=\"wp-block-gutentor-e0 section-g3e0b89 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">12 Years Experience</p></div></div>"
+                                },
+                                {
+                                    "clientId": "6a8def92-17c9-4eb5-b209-df827eda7fa7",
+                                    "name": "core/paragraph",
+                                    "isValid": true,
+                                    "attributes": {
+                                        "content": "",
+                                        "dropCap": false
+                                    },
+                                    "innerBlocks": [],
+                                    "validationIssues": [],
+                                    "originalContent": "<p></p>"
+                                }
+                            ],
+                            "validationIssues": [],
+                            "originalContent": "<section id=\"gm75c3b08\" class=\"wp-block-gutentor-m3 section-gm75c3b08 gutentor-module gutentor-container-cover has-color-bg has-custom-bg g-pos-a-desktop g-pos-a-tablet g-pos-a-mobile g-pos-custom-desktop g-pos-custom-tablet g-pos-custom-mobile\"><div class=\"grid-container gutentor-rm-ct-space\">\n\n</div></section>"
+                        }
+                    ],
+                    "validationIssues": [],
+                    "originalContent": "<section id=\"gme8ac017\" class=\"wp-block-gutentor-m3 section-gme8ac017 gutentor-module gutentor-container-cover g-pos-r-desktop g-pos-r-tablet g-pos-r-mobile g-pos-custom-desktop g-pos-custom-tablet g-pos-custom-mobile\"><div class=\"grid-container gutentor-rm-ct-space\">\n\n</div></section>"
+                },
+                {
+                    "clientId": "94018034-7cb4-4ead-97f9-3e86da24a291",
+                    "name": "gutentor/e0",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g2d4b81",
+                        "gName": "gutentor/e0",
+                        "e0AT": "Mark Jakson<br>",
+                        "e0Tag": "h3",
+                        "e0Align": {
                             "mobile": "text-align-center"
                         },
-                        "e3BgColor": {
-                            "enable": false,
-                            "normal": "#fff",
+                        "e0Color": {
+                            "enable": true,
+                            "normal": "#444444",
                             "hover": ""
                         },
-                        "eOnPos": false,
-                        "ePosTypeD": "g-pos-d",
-                        "ePosOptD": "default",
-                        "ePosMarginAutoD": false,
-                        "ePosTypeT": "g-pos-d",
-                        "ePosOptT": "default",
-                        "ePosMarginAutoT": false,
-                        "ePosTypeM": "g-pos-d",
-                        "ePosOptM": "default",
-                        "ePosMarginAutoM": false,
-                        "ePosDWidth": {
-                            "type": "%",
-                            "width": ""
+                        "e0Typography": {
+                            "fontType": "google",
+                            "googleFont": "Open+Sans",
+                            "fontWeight": "600",
+                            "mobileFontSize": 18
                         },
-                        "ePosTWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosMWidth": {
-                            "type": "%",
-                            "width": ""
+                        "e0Margin": {
+                            "mBottom": "0",
+                            "mTop": "0"
                         }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-gbbaff5\" class=\"wp-block-gutentor-e3 section-gbbaff5 gutentor-element gutentor-element-counter text-align-center-mobile\"><div class=\"gutentor-element-counter-box\"><span class=\"gutentor-counter-number\"><span class=\"gutentor-counter-number-prefix\"></span><span class=\"gutentor-counter-number-main\" data-start=\"0\" data-end=\"39\">39</span><span class=\"gutentor-counter-number-postfix\"></span></span></div></div>"
+                    "originalContent": "<div id=\"section-g2d4b81\" class=\"wp-block-gutentor-e0 section-g2d4b81 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Mark Jakson<br></h3></div></div>"
                 },
                 {
-                    "clientId": "996facb1-22bb-44d5-be59-d8af7d0371c0",
+                    "clientId": "78acce63-1b25-4921-b048-d15e89cc6103",
                     "name": "gutentor/e0",
                     "isValid": true,
                     "attributes": {
-                        "gID": "g785d39",
+                        "gID": "gd169d5",
                         "gName": "gutentor/e0",
-                        "e0AT": "Available Country",
+                        "e0AT": "Graphic Designer<br>",
                         "e0Tag": "p",
                         "e0Align": {
                             "mobile": "text-align-center"
                         },
                         "e0Color": {
                             "enable": true,
-                            "normal": "#aeaeae",
+                            "normal": "#777777",
                             "hover": ""
                         },
                         "e0Typography": {
                             "fontType": "google",
-                            "googleFont": "Lato",
+                            "googleFont": "Open+Sans",
                             "fontWeight": "regular",
-                            "mobileFontSize": 16
+                            "mobileFontSize": 14
+                        },
+                        "e0Margin": {
+                            "mBottom": "0"
                         }
                     },
                     "innerBlocks": [],
                     "validationIssues": [],
-                    "originalContent": "<div id=\"section-g785d39\" class=\"wp-block-gutentor-e0 section-g785d39 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Available Country</p></div></div>"
+                    "originalContent": "<div id=\"section-gd169d5\" class=\"wp-block-gutentor-e0 section-gd169d5 gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Graphic Designer<br></p></div></div>"
                 }
             ],
             "validationIssues": [],
-            "originalContent": "<div id=\"col-gme8df6f\" class=\"wp-block-gutentor-m2-col col-gme8df6f gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-3 grid-6\"><div id=\"section-gme8df6f\" class=\"section-gme8df6f gutentor-single-col\">\n\n</div></div>"
-        },
-        {
-            "clientId": "8939f5f6-5fab-46e7-82df-a3e4d745efae",
-            "name": "gutentor/m2-col",
-            "isValid": true,
-            "attributes": {
-                "gID": "gmd8e61c",
-                "gName": "gutentor/m2-col",
-                "mPID": "ac2d64fd-c79a-4510-8f9c-77996ce6ac41",
-                "blockItemsColumn": {
-                    "desktop": "grid-lg-3",
-                    "tablet": "grid-md-3",
-                    "mobile": "grid-6"
-                },
-                "mColAnimation": {
-                    "Animation": "none",
-                    "Delay": "",
-                    "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
-                },
-                "mBGVideoLoop": true,
-                "mBGVideoMute": true,
-                "mOnOverlay": false,
-                "mMargin": {
-                    "mTop": "15",
-                    "mBottom": "15"
-                }
-            },
-            "innerBlocks": [
-                {
-                    "clientId": "82a45b9c-15d8-4b69-bd38-eba1205effad",
-                    "name": "gutentor/e3",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "g5994cb",
-                        "gName": "gutentor/e3",
-                        "e3Limit": "29000",
-                        "e3PreFix": "",
-                        "e3PostFix": "",
-                        "e3Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "900",
-                            "mobileFontSize": 40
-                        },
-                        "e3Color": {
-                            "enable": true,
-                            "normal": "#2d2d43",
-                            "hover": ""
-                        },
-                        "e3OnWidth": false,
-                        "e3Width": {
-                            "type": "px"
-                        },
-                        "e3OnHeight": false,
-                        "e3Height": {
-                            "type": "px"
-                        },
-                        "e3Align": {
-                            "mobile": "text-align-center"
-                        },
-                        "e3BgColor": {
-                            "enable": false,
-                            "normal": "#fff",
-                            "hover": ""
-                        },
-                        "eOnPos": false,
-                        "ePosTypeD": "g-pos-d",
-                        "ePosOptD": "default",
-                        "ePosMarginAutoD": false,
-                        "ePosTypeT": "g-pos-d",
-                        "ePosOptT": "default",
-                        "ePosMarginAutoT": false,
-                        "ePosTypeM": "g-pos-d",
-                        "ePosOptM": "default",
-                        "ePosMarginAutoM": false,
-                        "ePosDWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosTWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosMWidth": {
-                            "type": "%",
-                            "width": ""
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-g5994cb\" class=\"wp-block-gutentor-e3 section-g5994cb gutentor-element gutentor-element-counter text-align-center-mobile\"><div class=\"gutentor-element-counter-box\"><span class=\"gutentor-counter-number\"><span class=\"gutentor-counter-number-prefix\"></span><span class=\"gutentor-counter-number-main\" data-start=\"0\" data-end=\"29000\">29000</span><span class=\"gutentor-counter-number-postfix\"></span></span></div></div>"
-                },
-                {
-                    "clientId": "2e201df0-c171-4b64-8c07-c8c6d3788e72",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "g0455df",
-                        "gName": "gutentor/e0",
-                        "e0AT": "User Worldwide",
-                        "e0Tag": "p",
-                        "e0Align": {
-                            "mobile": "text-align-center"
-                        },
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-g0455df\" class=\"wp-block-gutentor-e0 section-g0455df gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">User Worldwide</p></div></div>"
-                }
-            ],
-            "validationIssues": [],
-            "originalContent": "<div id=\"col-gmd8e61c\" class=\"wp-block-gutentor-m2-col col-gmd8e61c gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-3 grid-6\"><div id=\"section-gmd8e61c\" class=\"section-gmd8e61c gutentor-single-col\">\n\n</div></div>"
-        },
-        {
-            "clientId": "367e6d2b-b32c-4a2b-bf45-5e9f6a986a97",
-            "name": "gutentor/m2-col",
-            "isValid": true,
-            "attributes": {
-                "gID": "gm49b945",
-                "gName": "gutentor/m2-col",
-                "mPID": "ac2d64fd-c79a-4510-8f9c-77996ce6ac41",
-                "blockItemsColumn": {
-                    "desktop": "grid-lg-3",
-                    "tablet": "grid-md-3",
-                    "mobile": "grid-6"
-                },
-                "mColAnimation": {
-                    "Animation": "none",
-                    "Delay": "",
-                    "Speed": "",
-                    "IterationType": "1",
-                    "Iteration": "1"
-                },
-                "mBGVideoLoop": true,
-                "mBGVideoMute": true,
-                "mOnOverlay": false,
-                "mMargin": {
-                    "mTop": "15",
-                    "mBottom": "15"
-                }
-            },
-            "innerBlocks": [
-                {
-                    "clientId": "bb1bff07-d6ea-4a4a-b183-9306e193a5fb",
-                    "name": "gutentor/e3",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "ga2dfbb",
-                        "gName": "gutentor/e3",
-                        "e3Limit": "12",
-                        "e3PreFix": "",
-                        "e3PostFix": "",
-                        "e3Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "900",
-                            "mobileFontSize": 40
-                        },
-                        "e3Color": {
-                            "enable": true,
-                            "normal": "#2d2d43",
-                            "hover": ""
-                        },
-                        "e3OnWidth": false,
-                        "e3Width": {
-                            "type": "px"
-                        },
-                        "e3OnHeight": false,
-                        "e3Height": {
-                            "type": "px"
-                        },
-                        "e3Align": {
-                            "mobile": "text-align-center"
-                        },
-                        "e3BgColor": {
-                            "enable": false,
-                            "normal": "#fff",
-                            "hover": ""
-                        },
-                        "eOnPos": false,
-                        "ePosTypeD": "g-pos-d",
-                        "ePosOptD": "default",
-                        "ePosMarginAutoD": false,
-                        "ePosTypeT": "g-pos-d",
-                        "ePosOptT": "default",
-                        "ePosMarginAutoT": false,
-                        "ePosTypeM": "g-pos-d",
-                        "ePosOptM": "default",
-                        "ePosMarginAutoM": false,
-                        "ePosDWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosTWidth": {
-                            "type": "%",
-                            "width": ""
-                        },
-                        "ePosMWidth": {
-                            "type": "%",
-                            "width": ""
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-ga2dfbb\" class=\"wp-block-gutentor-e3 section-ga2dfbb gutentor-element gutentor-element-counter text-align-center-mobile\"><div class=\"gutentor-element-counter-box\"><span class=\"gutentor-counter-number\"><span class=\"gutentor-counter-number-prefix\"></span><span class=\"gutentor-counter-number-main\" data-start=\"0\" data-end=\"12\">12</span><span class=\"gutentor-counter-number-postfix\"></span></span></div></div>"
-                },
-                {
-                    "clientId": "c2457775-b9ff-47ec-9be8-01ae21633bf3",
-                    "name": "gutentor/e0",
-                    "isValid": true,
-                    "attributes": {
-                        "gID": "gb260dd",
-                        "gName": "gutentor/e0",
-                        "e0AT": "Award Winner",
-                        "e0Tag": "p",
-                        "e0Align": {
-                            "mobile": "text-align-center"
-                        },
-                        "e0Color": {
-                            "enable": true,
-                            "normal": "#aeaeae",
-                            "hover": ""
-                        },
-                        "e0Typography": {
-                            "fontType": "google",
-                            "googleFont": "Lato",
-                            "fontWeight": "regular",
-                            "mobileFontSize": 16
-                        }
-                    },
-                    "innerBlocks": [],
-                    "validationIssues": [],
-                    "originalContent": "<div id=\"section-gb260dd\" class=\"wp-block-gutentor-e0 section-gb260dd gutentor-element gutentor-element-advanced-text text-align-center-mobile\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Award Winner</p></div></div>"
-                }
-            ],
-            "validationIssues": [],
-            "originalContent": "<div id=\"col-gm49b945\" class=\"wp-block-gutentor-m2-col col-gm49b945 gutentor-module gutentor-dynamic-single-column grid-lg-3 grid-md-3 grid-6\"><div id=\"section-gm49b945\" class=\"section-gm49b945 gutentor-single-col\">\n\n</div></div>"
+            "originalContent": "<div id=\"col-gme8067c\" class=\"wp-block-gutentor-m2-col col-gme8067c gutentor-module gutentor-dynamic-single-column wow slideInUp grid-lg-6 grid-md-6 grid-12\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.1s\" data-wow-speed=\"1s\" data-wow-iteration=\"1\"><div id=\"section-gme8067c\" class=\"section-gme8067c gutentor-single-col has-color-bg has-custom-bg\">\n\n\n\n</div></div>"
         }
     ],
     "validationIssues": [],
-    "originalContent": "<section id=\"gmac2d64f\" class=\"wp-block-gutentor-m2 section-gmac2d64f gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n\n\n\n\n</div></div></section>"
+    "originalContent": "<section id=\"gm0513384\" class=\"wp-block-gutentor-m2 section-gm0513384 gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\">\n\n</div></div></section>"
 }
