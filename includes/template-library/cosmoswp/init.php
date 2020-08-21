@@ -91,6 +91,7 @@ class Gutentor_Template_Library_CosmosWP {
         require_once GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_PATH . 'demo-17/template-add.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_PATH . 'demo-18/template-add.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_PATH . 'demo-19/template-add.php';
+        require_once GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_PATH . 'demo-20/template-add.php';
 
     }
 }

@@ -1,0 +1,1691 @@
+[
+    {
+        "clientId": "3010ff3a-0e3e-4392-990f-22ef875f6e8f",
+        "name": "gutentor/m2",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<section id=\"gm4e7a736\" class=\"wp-block-gutentor-m2 section-gm4e7a736 gutentor-module gutentor-dynamic-columns\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n\n\n</div></div></section>",
+        "attributes": {
+            "gID": "gm3010ff3",
+            "gName": "gutentor/m2",
+            "blockItemsColumn": {
+                "desktop": "grid-lg-4",
+                "tablet": "grid-md-4",
+                "mobile": "grid-12"
+            },
+            "colEqualHeight": false,
+            "mAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "IterationType": "1",
+                "Iteration": "1"
+            },
+            "mBGImageSizeType": "full",
+            "mBGVideoLoop": true,
+            "mBGVideoMute": true,
+            "mOnOverlay": false,
+            "mPadding": {
+                "tTop": "60",
+                "tBottom": "60",
+                "mTop": "40",
+                "mBottom": "40"
+            },
+            "mTag": "section",
+            "mID": "",
+            "mTShape": "",
+            "mTShapeOnColor": "",
+            "mTShapeVFlip": false,
+            "mTShapeHFlip": false,
+            "mTShapePos": "",
+            "mBShape": "",
+            "mBShapeOnColor": "",
+            "mBShapeVFlip": false,
+            "mBShapeHFlip": false,
+            "mBShapePos": "",
+            "mOnPos": false,
+            "mContOnVAlign": false,
+            "mContVAlign": "g-c-r-valign",
+            "mContVAlignT": "g-c-r-valign",
+            "mContVAlignD": "g-c-r-valign",
+            "mPosTypeD": "g-pos-d",
+            "mPosOptD": "default",
+            "mPosMarginAutoD": false,
+            "mPosTypeT": "g-pos-d",
+            "mPosOptT": "default",
+            "mPosMarginAutoT": false,
+            "mPosTypeM": "g-pos-d",
+            "mPosOptM": "default",
+            "mPosMarginAutoM": false,
+            "mPosDWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mPosTWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mPosMWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mOnHeight": false,
+            "mHideContSpace": {}
+        },
+        "innerBlocks": [
+            {
+                "clientId": "6ba43824-6fdb-4b5a-acd6-943b66d93974",
+                "name": "gutentor/m2-col",
+                "isValid": true,
+                "validationIssues": [],
+                "originalContent": "<div id=\"col-gme5caaf\" class=\"wp-block-gutentor-m2-col col-gme5caaf gutentor-module gutentor-dynamic-single-column wow slideInUp grid-lg-4 grid-md-4 grid-12\" data-wow-animation=\"slideInUp\" data-wow-delay=\"\" data-wow-speed=\"\" data-wow-iteration=\"1\"><div id=\"section-gme5caaf\" class=\"section-gme5caaf gutentor-single-col\"></div></div>",
+                "attributes": {
+                    "gID": "gm6ba438",
+                    "gName": "gutentor/m2-col",
+                    "mPID": "3010ff3a-0e3e-4392-990f-22ef875f6e8f",
+                    "blockItemsColumn": {
+                        "desktop": "grid-lg-4",
+                        "tablet": "grid-md-4",
+                        "mobile": "grid-12"
+                    },
+                    "mColAnimation": {
+                        "Animation": "slideInUp",
+                        "IterationType": "1",
+                        "Iteration": "1"
+                    },
+                    "mBGVideoLoop": true,
+                    "mBGVideoMute": true,
+                    "mOnOverlay": false,
+                    "mMargin": {
+                        "mTop": "15",
+                        "mBottom": "15"
+                    },
+                    "mPadding": {}
+                },
+                "innerBlocks": [
+                    {
+                        "clientId": "c9749d79-04b3-4ac4-9b02-0a0adf20b4e9",
+                        "name": "gutentor/m4",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<section id=\"gm188e9f3\" class=\"wp-block-gutentor-m4 section-gm188e9f3 gutentor-module gutentor-advanced-columns\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\">\n\n</div></div></section>",
+                        "attributes": {
+                            "gID": "gmc9749d7",
+                            "gName": "gutentor/m4",
+                            "columns": 2,
+                            "dLayout": "threeNine",
+                            "tLayout": "threeNine",
+                            "mLayout": "threeNine",
+                            "colEqualHeight": false,
+                            "enableSticky": false,
+                            "stickyMTop": "0",
+                            "stickyMBottom": "0",
+                            "mAnimation": {
+                                "Animation": "none",
+                                "Delay": "",
+                                "Speed": "",
+                                "IterationType": "1",
+                                "Iteration": "1"
+                            },
+                            "mBGImageSizeType": "full",
+                            "mBGVideoLoop": true,
+                            "mBGVideoMute": true,
+                            "mOnOverlay": false,
+                            "mTag": "section",
+                            "mID": "",
+                            "mTShape": "",
+                            "mTShapeOnColor": "",
+                            "mTShapeVFlip": false,
+                            "mTShapeHFlip": false,
+                            "mTShapePos": "",
+                            "mBShape": "",
+                            "mBShapeOnColor": "",
+                            "mBShapeVFlip": false,
+                            "mBShapeHFlip": false,
+                            "mBShapePos": "",
+                            "mOnPos": false,
+                            "mContOnVAlign": false,
+                            "mContVAlign": "g-c-r-valign",
+                            "mContVAlignT": "g-c-r-valign",
+                            "mContVAlignD": "g-c-r-valign",
+                            "mPosTypeD": "g-pos-d",
+                            "mPosOptD": "default",
+                            "mPosMarginAutoD": false,
+                            "mPosTypeT": "g-pos-d",
+                            "mPosOptT": "default",
+                            "mPosMarginAutoT": false,
+                            "mPosTypeM": "g-pos-d",
+                            "mPosOptM": "default",
+                            "mPosMarginAutoM": false,
+                            "mPosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mOnHeight": false,
+                            "mHideContSpace": {
+                                "mobile": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "clientId": "f9b602a3-408f-48a1-83a5-7f17c240441f",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gm731260\" class=\"wp-block-gutentor-m4-col col-gm731260 gutentor-single-column  grid-lg-3 grid-md-3 grid-3\"><div id=\"section-gm731260\" class=\"section-gm731260 gutentor-col-wrap\"></div></div>",
+                                "attributes": {
+                                    "gID": "gmf9b602",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "c9749d79-04b3-4ac4-9b02-0a0adf20b4e9",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 0,
+                                    "colWidth": 25,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 3
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "a0e787ac-6b3b-446a-aa6a-edc26d470f1a",
+                                        "name": "gutentor/e5",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g19db5d\" class=\"wp-block-gutentor-e5 section-g19db5d gutentor-element gutentor-element-icon gutentor-icon-default text-align-center-mobile\"><div class=\"gutentor-element-icon-box\"><i class=\"far fa-map\"></i></div></div>",
+                                        "attributes": {
+                                            "gID": "ga0e787",
+                                            "gName": "gutentor/e5",
+                                            "e5Icon": {
+                                                "label": "fa-map",
+                                                "value": "far fa-map",
+                                                "code": "f279"
+                                            },
+                                            "e5Size": {
+                                                "mobile": 40
+                                            },
+                                            "e5Color": {
+                                                "enable": true,
+                                                "normal": "#ee396a",
+                                                "hover": ""
+                                            },
+                                            "e5Style": "gutentor-icon-default",
+                                            "e5LinkOpt": {
+                                                "openInNewTab": false,
+                                                "rel": "",
+                                                "noFollow": false,
+                                                "enableIconLink": "",
+                                                "iconLink": ""
+                                            },
+                                            "e5OnWidth": false,
+                                            "e5OnHeight": false,
+                                            "e5Align": {
+                                                "mobile": "text-align-center"
+                                            },
+                                            "e5BgColor": {
+                                                "enable": false,
+                                                "normal": "#fff",
+                                                "hover": ""
+                                            },
+                                            "eOnPos": false,
+                                            "ePosTypeD": "g-pos-d",
+                                            "ePosOptD": "default",
+                                            "ePosMarginAutoD": false,
+                                            "ePosTypeT": "g-pos-d",
+                                            "ePosOptT": "default",
+                                            "ePosMarginAutoT": false,
+                                            "ePosTypeM": "g-pos-d",
+                                            "ePosOptM": "default",
+                                            "ePosMarginAutoM": false,
+                                            "ePosDWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosTWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosMWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            },
+                            {
+                                "clientId": "046c335a-3111-430d-970a-50dd140bd729",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gm8d9a97\" class=\"wp-block-gutentor-m4-col col-gm8d9a97 gutentor-single-column  grid-lg-9 grid-md-9 grid-9\"><div id=\"section-gm8d9a97\" class=\"section-gm8d9a97 gutentor-col-wrap\">\n\n</div></div>",
+                                "attributes": {
+                                    "gID": "gm046c33",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "c9749d79-04b3-4ac4-9b02-0a0adf20b4e9",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 1,
+                                    "colWidth": 75,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 9
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "cf8ebeaf-52d2-4eb3-9216-60d385ba68db",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g343b7a\" class=\"wp-block-gutentor-e0 section-g343b7a gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Location</h3></div></div>",
+                                        "attributes": {
+                                            "gID": "gcf8ebe",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "Location",
+                                            "e0Tag": "h3",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#414141",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "600",
+                                                "mobileFontSize": 17,
+                                                "mobileLetterSpacing": 1,
+                                                "textTransform": "normal"
+                                            },
+                                            "e0Margin": {
+                                                "mTop": "0",
+                                                "mBottom": "5"
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    },
+                                    {
+                                        "clientId": "81ae73d8-2e60-4d5f-a0d7-0e14ef492a05",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-gbe25a8\" class=\"wp-block-gutentor-e0 section-gbe25a8 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">198 West 21th Street, Suite 721 New York, NY 10010</p></div></div>",
+                                        "attributes": {
+                                            "gID": "g81ae73",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "198 West 21th Street, Suite 721 New York, NY 10010",
+                                            "e0Tag": "p",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#5e5e5e",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "regular",
+                                                "mobileFontSize": 14,
+                                                "mobileLineHeight": 1.4
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "clientId": "1800d5ea-1de7-4e57-8739-a287facdda56",
+                "name": "gutentor/m2-col",
+                "isValid": true,
+                "validationIssues": [],
+                "originalContent": "<div id=\"col-gm777790\" class=\"wp-block-gutentor-m2-col col-gm777790 gutentor-module gutentor-dynamic-single-column wow slideInUp grid-lg-4 grid-md-4 grid-12\" data-wow-animation=\"slideInUp\" data-wow-delay=\"\" data-wow-speed=\"\" data-wow-iteration=\"1\"><div id=\"section-gm777790\" class=\"section-gm777790 gutentor-single-col\"></div></div>",
+                "attributes": {
+                    "gID": "gm1800d5",
+                    "gName": "gutentor/m2-col",
+                    "mPID": "3010ff3a-0e3e-4392-990f-22ef875f6e8f",
+                    "blockItemsColumn": {
+                        "desktop": "grid-lg-4",
+                        "tablet": "grid-md-4",
+                        "mobile": "grid-12"
+                    },
+                    "mColAnimation": {
+                        "Animation": "slideInUp",
+                        "IterationType": "1",
+                        "Iteration": "1"
+                    },
+                    "mBGVideoLoop": true,
+                    "mBGVideoMute": true,
+                    "mOnOverlay": false,
+                    "mMargin": {
+                        "mTop": "15",
+                        "mBottom": "15"
+                    },
+                    "mPadding": {}
+                },
+                "innerBlocks": [
+                    {
+                        "clientId": "cdf41272-5fb2-41c3-b986-ea067d1f7234",
+                        "name": "gutentor/m4",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<section id=\"gm3f6e4f6\" class=\"wp-block-gutentor-m4 section-gm3f6e4f6 gutentor-module gutentor-advanced-columns\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\">\n\n</div></div></section>",
+                        "attributes": {
+                            "gID": "gmcdf4127",
+                            "gName": "gutentor/m4",
+                            "columns": 2,
+                            "dLayout": "threeNine",
+                            "tLayout": "threeNine",
+                            "mLayout": "threeNine",
+                            "colEqualHeight": false,
+                            "enableSticky": false,
+                            "stickyMTop": "0",
+                            "stickyMBottom": "0",
+                            "mAnimation": {
+                                "Animation": "none",
+                                "Delay": "",
+                                "Speed": "",
+                                "IterationType": "1",
+                                "Iteration": "1"
+                            },
+                            "mBGImageSizeType": "full",
+                            "mBGVideoLoop": true,
+                            "mBGVideoMute": true,
+                            "mOnOverlay": false,
+                            "mTag": "section",
+                            "mID": "",
+                            "mTShape": "",
+                            "mTShapeOnColor": "",
+                            "mTShapeVFlip": false,
+                            "mTShapeHFlip": false,
+                            "mTShapePos": "",
+                            "mBShape": "",
+                            "mBShapeOnColor": "",
+                            "mBShapeVFlip": false,
+                            "mBShapeHFlip": false,
+                            "mBShapePos": "",
+                            "mOnPos": false,
+                            "mContOnVAlign": false,
+                            "mContVAlign": "g-c-r-valign",
+                            "mContVAlignT": "g-c-r-valign",
+                            "mContVAlignD": "g-c-r-valign",
+                            "mPosTypeD": "g-pos-d",
+                            "mPosOptD": "default",
+                            "mPosMarginAutoD": false,
+                            "mPosTypeT": "g-pos-d",
+                            "mPosOptT": "default",
+                            "mPosMarginAutoT": false,
+                            "mPosTypeM": "g-pos-d",
+                            "mPosOptM": "default",
+                            "mPosMarginAutoM": false,
+                            "mPosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mOnHeight": false,
+                            "mHideContSpace": {
+                                "mobile": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "clientId": "7babb8c5-8277-4bb4-8684-60e25b027587",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gm277383\" class=\"wp-block-gutentor-m4-col col-gm277383 gutentor-single-column  grid-lg-3 grid-md-3 grid-3\"><div id=\"section-gm277383\" class=\"section-gm277383 gutentor-col-wrap\"></div></div>",
+                                "attributes": {
+                                    "gID": "gm7babb8",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "cdf41272-5fb2-41c3-b986-ea067d1f7234",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 0,
+                                    "colWidth": 25,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 3
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "124e2c1f-85e9-4a56-b3a3-b268fdb45c62",
+                                        "name": "gutentor/e5",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g79cf53\" class=\"wp-block-gutentor-e5 section-g79cf53 gutentor-element gutentor-element-icon gutentor-icon-default text-align-center-mobile\"><div class=\"gutentor-element-icon-box\"><i class=\"far fa-envelope\"></i></div></div>",
+                                        "attributes": {
+                                            "gID": "g124e2c",
+                                            "gName": "gutentor/e5",
+                                            "e5Icon": {
+                                                "label": "fa-envelope",
+                                                "value": "far fa-envelope",
+                                                "code": "f0e0"
+                                            },
+                                            "e5Size": {
+                                                "mobile": 40
+                                            },
+                                            "e5Color": {
+                                                "enable": true,
+                                                "normal": "#ee396a",
+                                                "hover": ""
+                                            },
+                                            "e5Style": "gutentor-icon-default",
+                                            "e5LinkOpt": {
+                                                "openInNewTab": false,
+                                                "rel": "",
+                                                "noFollow": false,
+                                                "enableIconLink": "",
+                                                "iconLink": ""
+                                            },
+                                            "e5OnWidth": false,
+                                            "e5OnHeight": false,
+                                            "e5Align": {
+                                                "mobile": "text-align-center"
+                                            },
+                                            "e5BgColor": {
+                                                "enable": false,
+                                                "normal": "#fff",
+                                                "hover": ""
+                                            },
+                                            "eOnPos": false,
+                                            "ePosTypeD": "g-pos-d",
+                                            "ePosOptD": "default",
+                                            "ePosMarginAutoD": false,
+                                            "ePosTypeT": "g-pos-d",
+                                            "ePosOptT": "default",
+                                            "ePosMarginAutoT": false,
+                                            "ePosTypeM": "g-pos-d",
+                                            "ePosOptM": "default",
+                                            "ePosMarginAutoM": false,
+                                            "ePosDWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosTWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosMWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            },
+                            {
+                                "clientId": "05c66978-5bf2-4e05-b8eb-4c33d2ae7bea",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gm7d63f8\" class=\"wp-block-gutentor-m4-col col-gm7d63f8 gutentor-single-column  grid-lg-9 grid-md-9 grid-9\"><div id=\"section-gm7d63f8\" class=\"section-gm7d63f8 gutentor-col-wrap\">\n\n</div></div>",
+                                "attributes": {
+                                    "gID": "gm05c669",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "cdf41272-5fb2-41c3-b986-ea067d1f7234",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 1,
+                                    "colWidth": 75,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 9
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "94d8c250-16d9-4954-a577-b1cb086e47a0",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-ga2b383\" class=\"wp-block-gutentor-e0 section-ga2b383 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Email</h3></div></div>",
+                                        "attributes": {
+                                            "gID": "g94d8c2",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "Email",
+                                            "e0Tag": "h3",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#414141",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "600",
+                                                "mobileFontSize": 17,
+                                                "mobileLetterSpacing": 1,
+                                                "textTransform": "normal"
+                                            },
+                                            "e0Margin": {
+                                                "mTop": "0",
+                                                "mBottom": "5"
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    },
+                                    {
+                                        "clientId": "03026ad0-68b6-4f7a-ae22-5a14e6bb9b3d",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g605e2a\" class=\"wp-block-gutentor-e0 section-g605e2a gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">noreply@cosmoswp.com<br>info@cosmoswp.com</p></div></div>",
+                                        "attributes": {
+                                            "gID": "g03026a",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "noreply@cosmoswp.com<br>info@cosmoswp.com",
+                                            "e0Tag": "p",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#5e5e5e",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "regular",
+                                                "mobileFontSize": 14,
+                                                "mobileLineHeight": 1.4
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "clientId": "a6c9ea8a-ed2c-49ad-a265-66499ff385f5",
+                "name": "gutentor/m2-col",
+                "isValid": true,
+                "validationIssues": [],
+                "originalContent": "<div id=\"col-gm514f56\" class=\"wp-block-gutentor-m2-col col-gm514f56 gutentor-module gutentor-dynamic-single-column wow slideInUp grid-lg-4 grid-md-4 grid-12\" data-wow-animation=\"slideInUp\" data-wow-delay=\"\" data-wow-speed=\"\" data-wow-iteration=\"1\"><div id=\"section-gm514f56\" class=\"section-gm514f56 gutentor-single-col\"></div></div>",
+                "attributes": {
+                    "gID": "gma6c9ea",
+                    "gName": "gutentor/m2-col",
+                    "mPID": "3010ff3a-0e3e-4392-990f-22ef875f6e8f",
+                    "blockItemsColumn": {
+                        "desktop": "grid-lg-4",
+                        "tablet": "grid-md-4",
+                        "mobile": "grid-12"
+                    },
+                    "mColAnimation": {
+                        "Animation": "slideInUp",
+                        "IterationType": "1",
+                        "Iteration": "1"
+                    },
+                    "mBGVideoLoop": true,
+                    "mBGVideoMute": true,
+                    "mOnOverlay": false,
+                    "mMargin": {
+                        "mTop": "15",
+                        "mBottom": "15"
+                    },
+                    "mPadding": {}
+                },
+                "innerBlocks": [
+                    {
+                        "clientId": "19bd6c47-9102-408d-9dec-9d4cbfa1bc94",
+                        "name": "gutentor/m4",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<section id=\"gm5da0a1d\" class=\"wp-block-gutentor-m4 section-gm5da0a1d gutentor-module gutentor-advanced-columns\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row\">\n\n</div></div></section>",
+                        "attributes": {
+                            "gID": "gm19bd6c4",
+                            "gName": "gutentor/m4",
+                            "columns": 2,
+                            "dLayout": "threeNine",
+                            "tLayout": "threeNine",
+                            "mLayout": "threeNine",
+                            "colEqualHeight": false,
+                            "enableSticky": false,
+                            "stickyMTop": "0",
+                            "stickyMBottom": "0",
+                            "mAnimation": {
+                                "Animation": "none",
+                                "Delay": "",
+                                "Speed": "",
+                                "IterationType": "1",
+                                "Iteration": "1"
+                            },
+                            "mBGImageSizeType": "full",
+                            "mBGVideoLoop": true,
+                            "mBGVideoMute": true,
+                            "mOnOverlay": false,
+                            "mTag": "section",
+                            "mID": "",
+                            "mTShape": "",
+                            "mTShapeOnColor": "",
+                            "mTShapeVFlip": false,
+                            "mTShapeHFlip": false,
+                            "mTShapePos": "",
+                            "mBShape": "",
+                            "mBShapeOnColor": "",
+                            "mBShapeVFlip": false,
+                            "mBShapeHFlip": false,
+                            "mBShapePos": "",
+                            "mOnPos": false,
+                            "mContOnVAlign": false,
+                            "mContVAlign": "g-c-r-valign",
+                            "mContVAlignT": "g-c-r-valign",
+                            "mContVAlignD": "g-c-r-valign",
+                            "mPosTypeD": "g-pos-d",
+                            "mPosOptD": "default",
+                            "mPosMarginAutoD": false,
+                            "mPosTypeT": "g-pos-d",
+                            "mPosOptT": "default",
+                            "mPosMarginAutoT": false,
+                            "mPosTypeM": "g-pos-d",
+                            "mPosOptM": "default",
+                            "mPosMarginAutoM": false,
+                            "mPosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mOnHeight": false,
+                            "mHideContSpace": {
+                                "mobile": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "clientId": "c20c576a-953d-4908-b540-319aca5833d4",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gmee5215\" class=\"wp-block-gutentor-m4-col col-gmee5215 gutentor-single-column  grid-lg-3 grid-md-3 grid-3\"><div id=\"section-gmee5215\" class=\"section-gmee5215 gutentor-col-wrap\"></div></div>",
+                                "attributes": {
+                                    "gID": "gmc20c57",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "19bd6c47-9102-408d-9dec-9d4cbfa1bc94",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 0,
+                                    "colWidth": 25,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 3
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "53766d18-ae57-4af7-84ed-8e2919ee04b3",
+                                        "name": "gutentor/e5",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g846b09\" class=\"wp-block-gutentor-e5 section-g846b09 gutentor-element gutentor-element-icon gutentor-icon-default text-align-center-mobile\"><div class=\"gutentor-element-icon-box\"><i class=\"fas fa-phone-volume\"></i></div></div>",
+                                        "attributes": {
+                                            "gID": "g53766d",
+                                            "gName": "gutentor/e5",
+                                            "e5Icon": {
+                                                "label": "fa-phone-volume",
+                                                "value": "fas fa-phone-volume",
+                                                "code": "f2a0"
+                                            },
+                                            "e5Size": {
+                                                "mobile": 40
+                                            },
+                                            "e5Color": {
+                                                "enable": true,
+                                                "normal": "#ee396a",
+                                                "hover": ""
+                                            },
+                                            "e5Style": "gutentor-icon-default",
+                                            "e5LinkOpt": {
+                                                "openInNewTab": false,
+                                                "rel": "",
+                                                "noFollow": false,
+                                                "enableIconLink": "",
+                                                "iconLink": ""
+                                            },
+                                            "e5OnWidth": false,
+                                            "e5OnHeight": false,
+                                            "e5Align": {
+                                                "mobile": "text-align-center"
+                                            },
+                                            "e5BgColor": {
+                                                "enable": false,
+                                                "normal": "#fff",
+                                                "hover": ""
+                                            },
+                                            "eOnPos": false,
+                                            "ePosTypeD": "g-pos-d",
+                                            "ePosOptD": "default",
+                                            "ePosMarginAutoD": false,
+                                            "ePosTypeT": "g-pos-d",
+                                            "ePosOptT": "default",
+                                            "ePosMarginAutoT": false,
+                                            "ePosTypeM": "g-pos-d",
+                                            "ePosOptM": "default",
+                                            "ePosMarginAutoM": false,
+                                            "ePosDWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosTWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            },
+                                            "ePosMWidth": {
+                                                "type": "px",
+                                                "width": ""
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            },
+                            {
+                                "clientId": "093229ec-c91f-4a0d-9aeb-9d607a224f22",
+                                "name": "gutentor/m4-col",
+                                "isValid": true,
+                                "validationIssues": [],
+                                "originalContent": "<div id=\"col-gmabe861\" class=\"wp-block-gutentor-m4-col col-gmabe861 gutentor-single-column  grid-lg-9 grid-md-9 grid-9\"><div id=\"section-gmabe861\" class=\"section-gmabe861 gutentor-col-wrap\">\n\n</div></div>",
+                                "attributes": {
+                                    "gID": "gm093229",
+                                    "gName": "gutentor/m4-col",
+                                    "mPID": "19bd6c47-9102-408d-9dec-9d4cbfa1bc94",
+                                    "columns": 2,
+                                    "dLayout": "threeNine",
+                                    "tLayout": "threeNine",
+                                    "mLayout": "threeNine",
+                                    "layoutIndex": 1,
+                                    "colWidth": 75,
+                                    "mColAnimation": {
+                                        "Animation": "none",
+                                        "Delay": "",
+                                        "Speed": "",
+                                        "IterationType": "1",
+                                        "Iteration": "1"
+                                    },
+                                    "mBGVideoLoop": true,
+                                    "mBGVideoMute": true,
+                                    "mOnOverlay": false,
+                                    "dLayoutColumn": 9
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "clientId": "e0f25d03-483f-4590-ab02-a85fc683e75f",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g219b58\" class=\"wp-block-gutentor-e0 section-g219b58 gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><h3 class=\"gutentor-text\">Phone</h3></div></div>",
+                                        "attributes": {
+                                            "gID": "ge0f25d",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "Phone",
+                                            "e0Tag": "h3",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#414141",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "600",
+                                                "mobileFontSize": 17,
+                                                "mobileLetterSpacing": 1,
+                                                "textTransform": "normal"
+                                            },
+                                            "e0Margin": {
+                                                "mTop": "0",
+                                                "mBottom": "5"
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    },
+                                    {
+                                        "clientId": "293ea624-fc15-47c2-96db-ec2ba8559336",
+                                        "name": "gutentor/e0",
+                                        "isValid": true,
+                                        "validationIssues": [],
+                                        "originalContent": "<div id=\"section-g4060ec\" class=\"wp-block-gutentor-e0 section-g4060ec gutentor-element gutentor-element-advanced-text\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">+95 (0) 123 456 789,<br>+95 (0) 123 456 789</p></div></div>",
+                                        "attributes": {
+                                            "gID": "g293ea6",
+                                            "gName": "gutentor/e0",
+                                            "e0AT": "+95 (0) 123 456 789,<br>+95 (0) 123 456 789",
+                                            "e0Tag": "p",
+                                            "e0Color": {
+                                                "enable": true,
+                                                "normal": "#5e5e5e",
+                                                "hover": ""
+                                            },
+                                            "e0Typography": {
+                                                "fontType": "google",
+                                                "googleFont": "Open+Sans",
+                                                "fontWeight": "regular",
+                                                "mobileFontSize": 14,
+                                                "mobileLineHeight": 1.4
+                                            }
+                                        },
+                                        "innerBlocks": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "clientId": "b69030ea-5e15-4d0e-ba3e-255eecb1d706",
+        "name": "gutentor/m4",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "<section id=\"gm8f976d2\" class=\"wp-block-gutentor-m4 section-gm8f976d2 gutentor-module gutentor-advanced-columns has-color-bg has-custom-bg\"><div class=\"grid-container\"><div class=\"grid-row\">\n\n</div></div></section>",
+        "attributes": {
+            "gID": "gmb69030e",
+            "gName": "gutentor/m4",
+            "columns": 2,
+            "dLayout": "sevenFive",
+            "tLayout": "sixSix",
+            "mLayout": "twelve",
+            "colEqualHeight": false,
+            "enableSticky": false,
+            "stickyMTop": "0",
+            "stickyMBottom": "0",
+            "mAnimation": {
+                "Animation": "none",
+                "Delay": "",
+                "Speed": "",
+                "IterationType": "1",
+                "Iteration": "1"
+            },
+            "mBGType": "color",
+            "mBGImageSizeType": "full",
+            "mBGColor": "#fbf4fb",
+            "mBGVideoLoop": true,
+            "mBGVideoMute": true,
+            "mOnOverlay": false,
+            "mMargin": {
+                "dTop": "100",
+                "tTop": "100"
+            },
+            "mPadding": {
+                "dBottom": "80",
+                "tBottom": "60",
+                "mBottom": "40",
+                "mTop": "40"
+            },
+            "mTag": "section",
+            "mID": "",
+            "mTShape": "",
+            "mTShapeOnColor": "",
+            "mTShapeVFlip": false,
+            "mTShapeHFlip": false,
+            "mTShapePos": "",
+            "mBShape": "",
+            "mBShapeOnColor": "",
+            "mBShapeVFlip": false,
+            "mBShapeHFlip": false,
+            "mBShapePos": "",
+            "mOnPos": false,
+            "mContOnVAlign": false,
+            "mContVAlign": "g-c-r-valign",
+            "mContVAlignT": "g-c-r-valign",
+            "mContVAlignD": "g-c-r-valign",
+            "mPosTypeD": "g-pos-d",
+            "mPosOptD": "default",
+            "mPosMarginAutoD": false,
+            "mPosTypeT": "g-pos-d",
+            "mPosOptT": "default",
+            "mPosMarginAutoT": false,
+            "mPosTypeM": "g-pos-d",
+            "mPosOptM": "default",
+            "mPosMarginAutoM": false,
+            "mPosDWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mPosTWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mPosMWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "mOnHeight": false
+        },
+        "innerBlocks": [
+            {
+                "clientId": "a5d4607c-7b66-45ac-9657-3cded3ad05c9",
+                "name": "gutentor/m4-col",
+                "isValid": true,
+                "validationIssues": [],
+                "originalContent": "<div id=\"col-gm29cd8c\" class=\"wp-block-gutentor-m4-col col-gm29cd8c gutentor-single-column  grid-lg-7 grid-md-6 grid-12\"><div id=\"section-gm29cd8c\" class=\"section-gm29cd8c gutentor-col-wrap\">\n\n\n\n\n\n\n\n</div></div>",
+                "attributes": {
+                    "gID": "gma5d460",
+                    "gName": "gutentor/m4-col",
+                    "mPID": "b69030ea-5e15-4d0e-ba3e-255eecb1d706",
+                    "columns": 2,
+                    "dLayout": "sevenFive",
+                    "tLayout": "sixSix",
+                    "mLayout": "twelve",
+                    "layoutIndex": 0,
+                    "colWidth": 58.333333333333336,
+                    "mColAnimation": {
+                        "Animation": "none",
+                        "Delay": "",
+                        "Speed": "",
+                        "IterationType": "1",
+                        "Iteration": "1"
+                    },
+                    "mBGVideoLoop": true,
+                    "mBGVideoMute": true,
+                    "mOnOverlay": false,
+                    "mMargin": {
+                        "dTop": "100",
+                        "tTop": "100"
+                    },
+                    "dLayoutColumn": 7
+                },
+                "innerBlocks": [
+                    {
+                        "clientId": "c5a87b30-9b79-47a3-a008-9d5e1ea057a1",
+                        "name": "gutentor/e1",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<div id=\"section-g6aceac\" class=\"wp-block-gutentor-e1 section-g6aceac gutentor-element gutentor-element-advanced-text wow slideInUp\" data-wow-animation=\"slideInUp\" data-wow-delay=\"\" data-wow-speed=\"\" data-wow-iteration=\"\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Don’t Hesitate to <span style=\"color:#ee396a\" class=\"has-inline-color\">Contact us</span> for any Information.</p></div></div>",
+                        "attributes": {
+                            "gID": "gc5a87b",
+                            "gName": "gutentor/e1",
+                            "e1AT": "Don’t Hesitate to <span style=\"color:#ee396a\" class=\"has-inline-color\">Contact us</span> for any Information.",
+                            "e1Tag": "p",
+                            "e1LinkOpt": {
+                                "openInNewTab": false,
+                                "rel": "",
+                                "noFollow": false,
+                                "enableIconLink": "",
+                                "iconLink": ""
+                            },
+                            "e1OnDCap": false,
+                            "elColor": {
+                                "enable": true,
+                                "normal": "#414141",
+                                "hover": ""
+                            },
+                            "elTypography": {
+                                "fontType": "google",
+                                "googleFont": "Open+Sans",
+                                "fontWeight": "700",
+                                "tabletFontSize": 36,
+                                "mobileFontSize": 24,
+                                "mobileLineHeight": 1,
+                                "desktopFontSize": 50
+                            },
+                            "elMargin": {
+                                "mBottom": "40"
+                            },
+                            "elOnWidth": false,
+                            "elOnDesign": false,
+                            "elDesignPos": "divider-top",
+                            "elDesignType": "svg-divider",
+                            "elDesignBorderStyle": "solid",
+                            "elDesignBorderHeight": 2,
+                            "elDesignBorderColor": "#e0e0e0",
+                            "elDesignCustomImg": {
+                                "url": "",
+                                "alt": ""
+                            },
+                            "elDesignDefSVG": "",
+                            "elDesignCustomSVG": "",
+                            "elDesignOnBorderColor": false,
+                            "elDesignOnSvgColor": false,
+                            "elDesignSvgColor": "#e0e0e0",
+                            "elOnCapColor": false,
+                            "elCapColor": "#275cf6",
+                            "elOnCapBgColor": false,
+                            "elCapBgColor": "#275cf6",
+                            "eAnimation": {
+                                "Animation": "slideInUp"
+                            },
+                            "eOnPos": false,
+                            "ePosTypeD": "g-pos-d",
+                            "ePosOptD": "default",
+                            "ePosMarginAutoD": false,
+                            "ePosTypeT": "g-pos-d",
+                            "ePosOptT": "default",
+                            "ePosMarginAutoT": false,
+                            "ePosTypeM": "g-pos-d",
+                            "ePosOptM": "default",
+                            "ePosMarginAutoM": false,
+                            "ePosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            }
+                        },
+                        "innerBlocks": []
+                    },
+                    {
+                        "clientId": "d0ffc2cc-41cb-485b-8047-0af07a9e6a0b",
+                        "name": "gutentor/e1",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<div id=\"section-g9af040\" class=\"wp-block-gutentor-e1 section-g9af040 gutentor-element gutentor-element-advanced-text wow slideInUp\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.1s\" data-wow-speed=\"\" data-wow-iteration=\"\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">Call us for immediate support to this number</p></div></div>",
+                        "attributes": {
+                            "gID": "gd0ffc2",
+                            "gName": "gutentor/e1",
+                            "e1AT": "Call us for immediate support to this number",
+                            "e1Tag": "p",
+                            "e1LinkOpt": {
+                                "openInNewTab": false,
+                                "rel": "",
+                                "noFollow": false,
+                                "enableIconLink": "",
+                                "iconLink": ""
+                            },
+                            "e1OnDCap": false,
+                            "elColor": {
+                                "enable": true,
+                                "normal": "#414141",
+                                "hover": ""
+                            },
+                            "elTypography": {
+                                "fontType": "google",
+                                "googleFont": "Open+Sans",
+                                "fontWeight": "regular",
+                                "mobileFontSize": 18
+                            },
+                            "elMargin": {
+                                "mBottom": "0"
+                            },
+                            "elOnWidth": false,
+                            "elOnDesign": false,
+                            "elDesignPos": "divider-top",
+                            "elDesignType": "svg-divider",
+                            "elDesignBorderStyle": "solid",
+                            "elDesignBorderHeight": 2,
+                            "elDesignBorderColor": "#e0e0e0",
+                            "elDesignCustomImg": {
+                                "url": "",
+                                "alt": ""
+                            },
+                            "elDesignDefSVG": "",
+                            "elDesignCustomSVG": "",
+                            "elDesignOnBorderColor": false,
+                            "elDesignOnSvgColor": false,
+                            "elDesignSvgColor": "#e0e0e0",
+                            "elOnCapColor": false,
+                            "elCapColor": "#275cf6",
+                            "elOnCapBgColor": false,
+                            "elCapBgColor": "#275cf6",
+                            "eAnimation": {
+                                "Animation": "slideInUp",
+                                "Delay": "0.1"
+                            },
+                            "eOnPos": false,
+                            "ePosTypeD": "g-pos-d",
+                            "ePosOptD": "default",
+                            "ePosMarginAutoD": false,
+                            "ePosTypeT": "g-pos-d",
+                            "ePosOptT": "default",
+                            "ePosMarginAutoT": false,
+                            "ePosTypeM": "g-pos-d",
+                            "ePosOptM": "default",
+                            "ePosMarginAutoM": false,
+                            "ePosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            }
+                        },
+                        "innerBlocks": []
+                    },
+                    {
+                        "clientId": "c6a090c9-eb51-4857-8d79-a50e5e30ee32",
+                        "name": "gutentor/e1",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<div id=\"section-gd0605a\" class=\"wp-block-gutentor-e1 section-gd0605a gutentor-element gutentor-element-advanced-text wow slideInUp\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.2s\" data-wow-speed=\"\" data-wow-iteration=\"\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\">+95 (0) 123 456 789</p></div></div>",
+                        "attributes": {
+                            "gID": "gc6a090",
+                            "gName": "gutentor/e1",
+                            "e1AT": "+95 (0) 123 456 789",
+                            "e1Tag": "p",
+                            "e1LinkOpt": {
+                                "openInNewTab": false,
+                                "rel": "",
+                                "noFollow": false,
+                                "enableIconLink": "",
+                                "iconLink": ""
+                            },
+                            "e1OnDCap": false,
+                            "elColor": {
+                                "enable": true,
+                                "normal": "#ee396a",
+                                "hover": ""
+                            },
+                            "elTypography": {
+                                "fontType": "google",
+                                "googleFont": "Open+Sans",
+                                "fontWeight": "600",
+                                "mobileFontSize": 24
+                            },
+                            "elMargin": {
+                                "mBottom": "30"
+                            },
+                            "elOnWidth": false,
+                            "elOnDesign": false,
+                            "elDesignPos": "divider-top",
+                            "elDesignType": "svg-divider",
+                            "elDesignBorderStyle": "solid",
+                            "elDesignBorderHeight": 2,
+                            "elDesignBorderColor": "#e0e0e0",
+                            "elDesignCustomImg": {
+                                "url": "",
+                                "alt": ""
+                            },
+                            "elDesignDefSVG": "",
+                            "elDesignCustomSVG": "",
+                            "elDesignOnBorderColor": false,
+                            "elDesignOnSvgColor": false,
+                            "elDesignSvgColor": "#e0e0e0",
+                            "elOnCapColor": false,
+                            "elCapColor": "#275cf6",
+                            "elOnCapBgColor": false,
+                            "elCapBgColor": "#275cf6",
+                            "eAnimation": {
+                                "Animation": "slideInUp",
+                                "Delay": "0.2"
+                            },
+                            "eOnPos": false,
+                            "ePosTypeD": "g-pos-d",
+                            "ePosOptD": "default",
+                            "ePosMarginAutoD": false,
+                            "ePosTypeT": "g-pos-d",
+                            "ePosOptT": "default",
+                            "ePosMarginAutoT": false,
+                            "ePosTypeM": "g-pos-d",
+                            "ePosOptM": "default",
+                            "ePosMarginAutoM": false,
+                            "ePosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            }
+                        },
+                        "innerBlocks": []
+                    },
+                    {
+                        "clientId": "dfd0153b-13a4-4fb1-b863-3ea0011abcba",
+                        "name": "gutentor/e1",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<div id=\"section-gbc230c\" class=\"wp-block-gutentor-e1 section-gbc230c gutentor-element gutentor-element-advanced-text wow slideInUp\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.3s\" data-wow-speed=\"\" data-wow-iteration=\"\"><div class=\"gutentor-text-wrap\"><p class=\"gutentor-text\"><a href=\"mailto:support@cosmoswp.com\">support@cosmoswp.com</a></p></div></div>",
+                        "attributes": {
+                            "gID": "gdfd015",
+                            "gName": "gutentor/e1",
+                            "e1AT": "<a href=\"mailto:support@cosmoswp.com\">support@cosmoswp.com</a>",
+                            "e1Tag": "p",
+                            "e1LinkOpt": {
+                                "openInNewTab": false,
+                                "rel": "",
+                                "noFollow": false,
+                                "enableIconLink": "",
+                                "iconLink": ""
+                            },
+                            "e1OnDCap": false,
+                            "elColor": {
+                                "enable": true,
+                                "normal": "#414141",
+                                "hover": ""
+                            },
+                            "elTypography": {
+                                "fontType": "google",
+                                "googleFont": "Open+Sans",
+                                "fontWeight": "regular",
+                                "mobileFontSize": 14
+                            },
+                            "elOnWidth": false,
+                            "elOnDesign": false,
+                            "elDesignPos": "divider-top",
+                            "elDesignType": "svg-divider",
+                            "elDesignBorderStyle": "solid",
+                            "elDesignBorderHeight": 2,
+                            "elDesignBorderColor": "#e0e0e0",
+                            "elDesignCustomImg": {
+                                "url": "",
+                                "alt": ""
+                            },
+                            "elDesignDefSVG": "",
+                            "elDesignCustomSVG": "",
+                            "elDesignOnBorderColor": false,
+                            "elDesignOnSvgColor": false,
+                            "elDesignSvgColor": "#e0e0e0",
+                            "elOnCapColor": false,
+                            "elCapColor": "#275cf6",
+                            "elOnCapBgColor": false,
+                            "elCapBgColor": "#275cf6",
+                            "eAnimation": {
+                                "Animation": "slideInUp",
+                                "Delay": "0.3"
+                            },
+                            "eOnPos": false,
+                            "ePosTypeD": "g-pos-d",
+                            "ePosOptD": "default",
+                            "ePosMarginAutoD": false,
+                            "ePosTypeT": "g-pos-d",
+                            "ePosOptT": "default",
+                            "ePosMarginAutoT": false,
+                            "ePosTypeM": "g-pos-d",
+                            "ePosOptM": "default",
+                            "ePosMarginAutoM": false,
+                            "ePosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "ePosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            }
+                        },
+                        "innerBlocks": []
+                    },
+                    {
+                        "clientId": "720d1679-f8ac-4a0f-a95b-a521a703d42a",
+                        "name": "core/paragraph",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<p></p>",
+                        "attributes": {
+                            "content": "",
+                            "dropCap": false
+                        },
+                        "innerBlocks": []
+                    }
+                ]
+            },
+            {
+                "clientId": "5c8b4922-1400-479c-96f6-f107a6cb6859",
+                "name": "gutentor/m4-col",
+                "isValid": true,
+                "validationIssues": [],
+                "originalContent": "<div id=\"col-gme443e6\" class=\"wp-block-gutentor-m4-col col-gme443e6 gutentor-single-column  grid-lg-5 grid-md-6 grid-12\"><div id=\"section-gme443e6\" class=\"section-gme443e6 gutentor-col-wrap\"></div></div>",
+                "attributes": {
+                    "gID": "gm5c8b49",
+                    "gName": "gutentor/m4-col",
+                    "mPID": "b69030ea-5e15-4d0e-ba3e-255eecb1d706",
+                    "columns": 2,
+                    "dLayout": "sevenFive",
+                    "tLayout": "sixSix",
+                    "mLayout": "twelve",
+                    "layoutIndex": 1,
+                    "colWidth": 41.66666666666667,
+                    "mColAnimation": {
+                        "Animation": "none",
+                        "Delay": "",
+                        "Speed": "",
+                        "IterationType": "1",
+                        "Iteration": "1"
+                    },
+                    "mBGVideoLoop": true,
+                    "mBGVideoMute": true,
+                    "mOnOverlay": false,
+                    "dLayoutColumn": 5
+                },
+                "innerBlocks": [
+                    {
+                        "clientId": "f351bf32-c566-4080-b108-f5fadece7593",
+                        "name": "gutentor/m9",
+                        "isValid": true,
+                        "validationIssues": [],
+                        "originalContent": "<section id=\"g25279c\" class=\"wp-block-gutentor-m9 section-g25279c gutentor-module gutentor-module-form-wrapper has-color-bg has-custom-bg wow slideInUp\" data-wow-animation=\"slideInUp\" data-wow-delay=\"0.5s\" data-wow-speed=\"\" data-wow-iteration=\"1\"><div class=\"grid-container gutentor-rm-ct-space\">[contact-form-7 id=\"27\" title=\"Contact Form\"]</div></section>",
+                        "attributes": {
+                            "gID": "gf351bf",
+                            "gName": "gutentor/m9",
+                            "m9Text": "[contact-form-7 id=\"27\" title=\"Contact Form\"]",
+                            "m9TxtColor": {
+                                "enable": true,
+                                "normal": "#707b8e",
+                                "hover": ""
+                            },
+                            "m9TxtBgColor": {
+                                "enable": true,
+                                "normal": "#fbfbfd",
+                                "hover": ""
+                            },
+                            "m9TxtPadding": {
+                                "mTop": "5",
+                                "mRight": "10",
+                                "mBottom": "5",
+                                "mLeft": "20"
+                            },
+                            "m9TxtOnHeight": true,
+                            "m9TxtHeight": {
+                                "mobile": 55
+                            },
+                            "m9TxtBorder": {
+                                "styleN": "solid",
+                                "topN": "1",
+                                "rightN": "1",
+                                "bottomN": "1",
+                                "leftN": "1",
+                                "colorN": "#eef0fd",
+                                "rTopN": "50",
+                                "rRightN": "50",
+                                "rBottomN": "50",
+                                "rLeftN": "50",
+                                "styleH": "solid",
+                                "topH": "1",
+                                "rightH": "1",
+                                "bottomH": "1",
+                                "leftH": "1",
+                                "colorH": "#d7d9e5",
+                                "rTopH": "50",
+                                "rRightH": "50",
+                                "rBottomH": "50",
+                                "rLeftH": "50"
+                            },
+                            "m9BtnColor": {
+                                "enable": false,
+                                "normal": "#000",
+                                "hover": ""
+                            },
+                            "m9BtnBgColor": {
+                                "enable": false,
+                                "normal": "#000",
+                                "hover": ""
+                            },
+                            "m9BtnPadding": {
+                                "mTop": "15",
+                                "mRight": "30",
+                                "mBottom": "15",
+                                "mLeft": "30"
+                            },
+                            "m9BtnOnHeight": false,
+                            "m9BtnBorder": {
+                                "rTopN": "50",
+                                "rRightN": "50",
+                                "rBottomN": "50",
+                                "rLeftN": "50",
+                                "rTopH": "50",
+                                "rRightH": "50",
+                                "rBottomH": "50",
+                                "rLeftH": "50"
+                            },
+                            "m9TxtAreaPadding": {
+                                "mTop": "10",
+                                "mRight": "10",
+                                "mBottom": "5",
+                                "mLeft": "20"
+                            },
+                            "m9TxtAreaOnHeight": false,
+                            "m9TxtAreaBorder": {
+                                "styleN": "solid",
+                                "topN": "1",
+                                "rightN": "1",
+                                "bottomN": "1",
+                                "leftN": "1",
+                                "colorN": "#eef0fd",
+                                "rTopN": "10",
+                                "rRightN": "10",
+                                "rBottomN": "10",
+                                "rLeftN": "10",
+                                "styleH": "solid",
+                                "topH": "1",
+                                "rightH": "1",
+                                "bottomH": "1",
+                                "leftH": "1",
+                                "colorH": "#d7d9e5",
+                                "rTopH": "10",
+                                "rRightH": "10",
+                                "rBottomH": "10",
+                                "rLeftH": "10"
+                            },
+                            "m9TxtAreaColor": {
+                                "enable": true,
+                                "normal": "#707b8e",
+                                "hover": ""
+                            },
+                            "m9TxtAreaBgColor": {
+                                "enable": true,
+                                "normal": "#fbfbfd",
+                                "hover": ""
+                            },
+                            "m9BtnTypography": {
+                                "fontType": "google",
+                                "googleFont": "Open+Sans",
+                                "fontWeight": "600",
+                                "mobileFontSize": 14,
+                                "mobileLetterSpacing": 1
+                            },
+                            "mAnimation": {
+                                "Animation": "slideInUp",
+                                "IterationType": "1",
+                                "Iteration": "1",
+                                "Delay": "0.5"
+                            },
+                            "mBGType": "color",
+                            "mBGImageSizeType": "full",
+                            "mBGColor": "#ffffff",
+                            "mBGVideoLoop": true,
+                            "mBGVideoMute": true,
+                            "mOnOverlay": false,
+                            "mMargin": {
+                                "dTop": "-100",
+                                "tTop": "-100"
+                            },
+                            "mPadding": {
+                                "mTop": "20",
+                                "mRight": "20",
+                                "mBottom": "10",
+                                "mLeft": "20",
+                                "dTop": "40",
+                                "dRight": "40",
+                                "dBottom": "20",
+                                "dLeft": "40"
+                            },
+                            "mBxShadow": {
+                                "nColor": "rgba(0,0,0,0.15)",
+                                "nX": "0",
+                                "nY": "0",
+                                "nBlur": "40",
+                                "nSpread": "2"
+                            },
+                            "mTag": "section",
+                            "mID": "",
+                            "mTShape": "",
+                            "mTShapeOnColor": "",
+                            "mTShapeVFlip": false,
+                            "mTShapeHFlip": false,
+                            "mTShapePos": "",
+                            "mBShape": "",
+                            "mBShapeOnColor": "",
+                            "mBShapeVFlip": false,
+                            "mBShapeHFlip": false,
+                            "mBShapePos": "",
+                            "mOnPos": false,
+                            "mContOnVAlign": false,
+                            "mContVAlign": "g-c-r-valign",
+                            "mContVAlignT": "g-c-r-valign",
+                            "mContVAlignD": "g-c-r-valign",
+                            "mPosTypeD": "g-pos-d",
+                            "mPosOptD": "default",
+                            "mPosMarginAutoD": false,
+                            "mPosTypeT": "g-pos-d",
+                            "mPosOptT": "default",
+                            "mPosMarginAutoT": false,
+                            "mPosTypeM": "g-pos-d",
+                            "mPosOptM": "default",
+                            "mPosMarginAutoM": false,
+                            "mPosDWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosTWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mPosMWidth": {
+                                "type": "%",
+                                "width": ""
+                            },
+                            "mOnHeight": false,
+                            "mHideContSpace": {
+                                "mobile": true
+                            }
+                        },
+                        "innerBlocks": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "clientId": "d8e4f4f1-e857-4aea-83ca-57fca013f342",
+        "name": "gutentor/e4",
+        "isValid": true,
+        "validationIssues": [],
+        "originalContent": "",
+        "attributes": {
+            "gName": "gutentor/e4",
+            "id": "gutentor-google-map-d8e4f4f1",
+            "gID": "d8e4f4f1-e857-4aea-83ca-57fca013f342",
+            "e4Loc": "La Sagrada Familia, Barcelona, Spain",
+            "e4Lat": "41.4036299",
+            "e4Lon": "2.1743558000000576",
+            "e4Type": "roadmap",
+            "e4Zoom": 15,
+            "e4Height": {
+                "type": "px",
+                "desktop": 400,
+                "tablet": 350,
+                "mobile": 250
+            },
+            "e4Draggable": true,
+            "e4TypeCtrl": true,
+            "e4ZoomCtrl": true,
+            "e4FullScrCtrl": true,
+            "e4StreetViewCtrl": true,
+            "e4Markers": [],
+            "eOnPos": false,
+            "ePosTypeD": "g-pos-d",
+            "ePosOptD": "default",
+            "ePosMarginAutoD": false,
+            "ePosTypeT": "g-pos-d",
+            "ePosOptT": "default",
+            "ePosMarginAutoT": false,
+            "ePosTypeM": "g-pos-d",
+            "ePosOptM": "default",
+            "ePosMarginAutoM": false,
+            "ePosDWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "ePosTWidth": {
+                "type": "%",
+                "width": ""
+            },
+            "ePosMWidth": {
+                "type": "%",
+                "width": ""
+            }
+        },
+        "innerBlocks": []
+    }
+]
