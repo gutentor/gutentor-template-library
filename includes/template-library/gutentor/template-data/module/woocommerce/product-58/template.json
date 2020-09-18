@@ -1,11 +1,11 @@
 {
-    "clientId": "f46cfb8d-7584-45f8-953d-8881d9e3960e",
+    "clientId": "0ac5f048-6570-4194-b297-d6ee4a709823",
     "name": "gutentor/p3",
     "isValid": true,
     "attributes": {
-        "gID": "gm1f2a23a",
+        "gID": "gm2551f9f",
         "gName": "gutentor/p3",
-        "mPID": "c36f9100-9f16-433e-b611-b7cbc8824cc0",
+        "mPID": "2d0e19fc-dc87-4eb6-a78e-f2117f461011",
         "p3Dots": true,
         "p3DotsT": true,
         "p3DotsM": true,
@@ -15,7 +15,7 @@
             "hover": "#f37224"
         },
         "p3ArrowPosition": {
-            "desktop": "gutentor-slick-a-default",
+            "desktop": "gutentor-slick-a-t-right",
             "tablet": "gutentor-slick-a-default",
             "mobile": "gutentor-slick-a-default"
         },
@@ -48,11 +48,11 @@
     },
     "innerBlocks": [
         {
-            "clientId": "ca3c9139-270f-46ce-924e-c063bf89f266",
+            "clientId": "abef79e1-47d1-48f0-a660-2781a5e82221",
             "name": "gutentor/p1",
             "isValid": true,
             "attributes": {
-                "gID": "c36f9100-9f16-433e-b611-b7cbc8824cc0",
+                "gID": "2d0e19fc-dc87-4eb6-a78e-f2117f461011",
                 "pPostType": "product",
                 "postsToShow": 6,
                 "pTaxType": "",
@@ -115,12 +115,12 @@
                 "pReverseContent": false,
                 "p1CarouselOpt": {
                     "enable": true,
-                    "carouselID": "gm1f2a23a",
+                    "carouselID": "gm2551f9f",
                     "dots": true,
                     "dotsT": true,
                     "dotsM": true,
                     "arrowsPosition": {
-                        "desktop": "gutentor-slick-a-default",
+                        "desktop": "gutentor-slick-a-t-right",
                         "tablet": "gutentor-slick-a-default",
                         "mobile": "gutentor-slick-a-default"
                     },
