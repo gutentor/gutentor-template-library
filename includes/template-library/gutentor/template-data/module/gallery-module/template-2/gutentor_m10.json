@@ -1,0 +1,1592 @@
+{
+    "clientId": "4bc70a83-770c-476d-ad2e-5cdd27f1a8a2",
+    "name": "gutentor/m10",
+    "isValid": true,
+    "attributes": {
+        "gID": "gm9a3a5f9",
+        "gName": "gutentor/m10",
+        "blockItemsColumn": {
+            "desktop": "grid-lg-4",
+            "tablet": "grid-md-4",
+            "mobile": "grid-12"
+        },
+        "m10MsyOn": true,
+        "m10PopOn": true,
+        "m10PopPos": "g-popup-middle-center",
+        "m10PopI": {
+            "label": "fa-search",
+            "code": "f002",
+            "value": "fas fa-search"
+        },
+        "m10PopIC": {
+            "enable": true,
+            "normal": "#ffffff",
+            "hover": "#ffffff"
+        },
+        "m10PopIBgC": {
+            "enable": true,
+            "normal": "#f48132",
+            "hover": "#ee6d17"
+        },
+        "m10PopIOnW": true,
+        "m10PopIW": {
+            "mobile": 40
+        },
+        "m10PopIOnH": true,
+        "m10PopIH": {
+            "mobile": 40
+        },
+        "m10PopIBr": {
+            "rTopN": "50",
+            "rRightN": "50",
+            "rBottomN": "50",
+            "rLeftN": "50"
+        },
+        "m10PopHover": {
+            "enable": true
+        },
+        "mAnimation": {
+            "Animation": "none",
+            "Delay": "",
+            "Speed": "",
+            "IterationType": "1",
+            "Iteration": "1"
+        },
+        "mBGImageSizeType": "full",
+        "mBGVideoLoop": true,
+        "mBGVideoMute": true,
+        "mOnOverlay": false,
+        "mTag": "section",
+        "mID": "gallery-module2",
+        "mTShapeOpt": "gb-svg",
+        "mTShapeImg": "",
+        "mTShapeImgSizeType": "full",
+        "mTShapeSVGOpt": "gb-svg-default",
+        "mTShapeCustomSVG": "",
+        "mTShape": "",
+        "mTShapeOnColor": "",
+        "mTShapeVFlip": false,
+        "mTShapeHFlip": false,
+        "mTShapePos": "",
+        "mBShapeOpt": "gb-svg",
+        "mBShapeImg": "",
+        "mBShapeImgSizeType": "full",
+        "mBShapeSVGOpt": "gb-svg-default",
+        "mBShapeCustomSVG": "",
+        "mBShape": "",
+        "mBShapeOnColor": "",
+        "mBShapeVFlip": false,
+        "mBShapeHFlip": false,
+        "mBShapePos": "",
+        "mOnPos": false,
+        "mContOnVAlign": false,
+        "mContVAlign": "g-c-r-valign",
+        "mContVAlignT": "g-c-r-valign",
+        "mContVAlignD": "g-c-r-valign",
+        "mPosTypeD": "g-pos-d",
+        "mPosOptD": "default",
+        "mPosMarginAutoD": false,
+        "mPosTypeT": "g-pos-d",
+        "mPosOptT": "default",
+        "mPosMarginAutoT": false,
+        "mPosTypeM": "g-pos-d",
+        "mPosOptM": "default",
+        "mPosMarginAutoM": false,
+        "mPosDWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosTWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mPosMWidth": {
+            "type": "%",
+            "width": ""
+        },
+        "mOnHeight": false,
+        "mHideContSpace": {
+            "mobile": true
+        }
+    },
+    "innerBlocks": [
+        {
+            "clientId": "6f05c9aa-746b-4568-865e-f118e1135ab8",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm6b7eb3",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 265,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-150x150.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 200,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-300x200.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "large": {
+                            "height": 427,
+                            "width": 640,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-1024x683.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg",
+                            "height": 854,
+                            "width": 1280,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "cb4ad711-3a9a-4a84-993d-09b966edf276",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g6c2976",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 265,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-300x200.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 427,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654-1024x683.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg",
+                                    "height": 854,
+                                    "width": 1280,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g6c2976\" class=\"wp-block-gutentor-e6 section-g6c2976 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm6b7eb3\" class=\"wp-block-gutentor-m10-col col-gm6b7eb3 gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gm6b7eb3\" class=\"section-gm6b7eb3 gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1516654.jpeg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "ea71551c-22a9-4785-9709-ba6fd78b7aa1",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm058360",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 263,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803-150x150.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 300,
+                            "width": 225,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803-225x300.jpeg",
+                            "orientation": "portrait"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg",
+                            "height": 853,
+                            "width": 640,
+                            "orientation": "portrait"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "edfcc4ff-b7e0-4f36-babe-d71b0c76881b",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gd4c279",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 263,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 225,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803-225x300.jpeg",
+                                    "orientation": "portrait"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg",
+                                    "height": 853,
+                                    "width": 640,
+                                    "orientation": "portrait"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gd4c279\" class=\"wp-block-gutentor-e6 section-gd4c279 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm058360\" class=\"wp-block-gutentor-m10-col col-gm058360 gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gm058360\" class=\"section-gm058360 gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1157803.jpeg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "fa77838b-ca55-46a1-a600-60719a4f4dc3",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmab3856",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 264,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322-150x150.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 200,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322-300x200.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg",
+                            "height": 427,
+                            "width": 640,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "6588f58c-660c-4cf3-bdca-064e4b96cc30",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "geec3a5",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 264,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322-300x200.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg",
+                                    "height": 427,
+                                    "width": 640,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-geec3a5\" class=\"wp-block-gutentor-e6 section-geec3a5 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gmab3856\" class=\"wp-block-gutentor-m10-col col-gmab3856 gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gmab3856\" class=\"section-gmab3856 gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1493322.jpeg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "3c092adc-185a-4fe0-a760-bee1306c602c",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm357564",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 262,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997-150x150.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 200,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997-300x200.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg",
+                            "height": 427,
+                            "width": 640,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "e64aa716-a744-4532-b7a7-8ee30075a2ef",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "ged11fd",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 262,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997-300x200.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg",
+                                    "height": 427,
+                                    "width": 640,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-ged11fd\" class=\"wp-block-gutentor-e6 section-ged11fd gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm357564\" class=\"wp-block-gutentor-m10-col col-gm357564 gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gm357564\" class=\"section-gm357564 gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037997.jpeg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "dbdaffff-c7ba-4646-93ff-f304b169abb3",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm12807c",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 261,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-150x150.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 200,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-300x200.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "large": {
+                            "height": 427,
+                            "width": 640,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-1024x683.jpeg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg",
+                            "height": 1800,
+                            "width": 2697,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "1e8ec52f-50f7-4e0e-98f7-3575c174fe4d",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gd1573c",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 261,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-150x150.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-300x200.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 427,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992-1024x683.jpeg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg",
+                                    "height": 1800,
+                                    "width": 2697,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gd1573c\" class=\"wp-block-gutentor-e6 section-gd1573c gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm12807c\" class=\"wp-block-gutentor-m10-col col-gm12807c gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gm12807c\" class=\"section-gm12807c gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/pexels-photo-1037992.jpeg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "b9ed7101-83a8-46be-925e-09541b125660",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gm63d9ef",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 258,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-150x150.jpg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-300x300.jpg",
+                            "orientation": "landscape"
+                        },
+                        "large": {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-1024x1024.jpg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg",
+                            "height": 1920,
+                            "width": 1920,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "1cd7646c-d55a-48da-a825-19122ce07c8c",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g109376",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 258,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-300x300.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 640,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920-1024x1024.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg",
+                                    "height": 1920,
+                                    "width": 1920,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g109376\" class=\"wp-block-gutentor-e6 section-g109376 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gm63d9ef\" class=\"wp-block-gutentor-m10-col col-gm63d9ef gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gm63d9ef\" class=\"section-gm63d9ef gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/iphone-x-2864150_1920.jpg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "ce3a7b63-6e06-4b4f-a2b6-06f7eea69460",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gma86cb2",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 257,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-150x150.png",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-300x300.png",
+                            "orientation": "landscape"
+                        },
+                        "large": {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-1024x1024.png",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png",
+                            "height": 1920,
+                            "width": 1920,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "515b4eb8-7894-4162-a303-c78600eaa6ee",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "gca5932",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 257,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-150x150.png",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 300,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-300x300.png",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 640,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920-1024x1024.png",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png",
+                                    "height": 1920,
+                                    "width": 1920,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-gca5932\" class=\"wp-block-gutentor-e6 section-gca5932 gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gma86cb2\" class=\"wp-block-gutentor-m10-col col-gma86cb2 gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gma86cb2\" class=\"section-gma86cb2 gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/icon-1379249_1920.png\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        },
+        {
+            "clientId": "c51e3db9-505c-4dbe-a533-a5bea3d7912d",
+            "name": "gutentor/m10-col",
+            "isValid": true,
+            "attributes": {
+                "gID": "gmf44ffe",
+                "gName": "gutentor/m10-col",
+                "mPID": "9a3a5f9c-0f66-463c-a01d-79058ac9b679",
+                "blockItemsColumn": {
+                    "desktop": "grid-lg-4",
+                    "tablet": "grid-md-4",
+                    "mobile": "grid-12"
+                },
+                "m10ColPopOn": true,
+                "m10ColPopI": {
+                    "label": "fa-search",
+                    "code": "f002",
+                    "value": "fas fa-search"
+                },
+                "m10ColPopMedia": "g-popup-img",
+                "m10ColPopSrc": "self-hosted-local",
+                "m10ColPopVExtUrl": "https://www.youtube.com/watch?v=bGMi7L78hVk",
+                "m10ColPopImg": {
+                    "id": 260,
+                    "sizes": {
+                        "thumbnail": {
+                            "height": 150,
+                            "width": 150,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-150x150.jpg",
+                            "orientation": "landscape"
+                        },
+                        "medium": {
+                            "height": 200,
+                            "width": 300,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-300x200.jpg",
+                            "orientation": "landscape"
+                        },
+                        "large": {
+                            "height": 427,
+                            "width": 640,
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-1024x683.jpg",
+                            "orientation": "landscape"
+                        },
+                        "full": {
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg",
+                            "height": 1281,
+                            "width": 1920,
+                            "orientation": "landscape"
+                        }
+                    },
+                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg",
+                    "alt": ""
+                },
+                "m10ColPopIC": {
+                    "enable": true,
+                    "normal": "#ffffff",
+                    "hover": "#ffffff"
+                },
+                "m10ColPopIBgC": {
+                    "enable": true,
+                    "normal": "#f48132",
+                    "hover": "#ee6d17"
+                },
+                "m10ColPopPos": "g-popup-middle-center",
+                "m10ColPopIBr": {
+                    "rTopN": "50",
+                    "rRightN": "50",
+                    "rBottomN": "50",
+                    "rLeftN": "50"
+                },
+                "m10ColPopIOnW": true,
+                "m10ColPopIW": {
+                    "mobile": 40
+                },
+                "m10ColPopIOnH": true,
+                "m10ColPopIH": {
+                    "mobile": 40
+                },
+                "mColAnimation": {
+                    "Animation": "none",
+                    "Delay": "",
+                    "Speed": "",
+                    "IterationType": "1",
+                    "Iteration": "1"
+                },
+                "mBGImageSizeType": "full",
+                "mBGVideoLoop": true,
+                "mBGVideoMute": true,
+                "mOnOverlay": false,
+                "mMargin": {
+                    "mTop": "15",
+                    "mBottom": "15"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "clientId": "17a86d3b-0296-4edf-8c4a-b8199d2e2efa",
+                    "name": "gutentor/e6",
+                    "isValid": true,
+                    "attributes": {
+                        "gID": "g50cbee",
+                        "gName": "gutentor/e6",
+                        "e6ImgSrcOpt": "local-image",
+                        "e6Img": {
+                            "id": 260,
+                            "sizes": {
+                                "thumbnail": {
+                                    "height": 150,
+                                    "width": 150,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-150x150.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "medium": {
+                                    "height": 200,
+                                    "width": 300,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-300x200.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "large": {
+                                    "height": 427,
+                                    "width": 640,
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920-1024x683.jpg",
+                                    "orientation": "landscape"
+                                },
+                                "full": {
+                                    "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg",
+                                    "height": 1281,
+                                    "width": 1920,
+                                    "orientation": "landscape"
+                                }
+                            },
+                            "url": "https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg",
+                            "alt": ""
+                        },
+                        "e6RetinaImg": "",
+                        "e6OverlayColor": {
+                            "enable": false,
+                            "normal": "rgba(39,92,246,0.2)",
+                            "hover": ""
+                        },
+                        "e6LinkOpt": {
+                            "openInNewTab": false,
+                            "rel": "",
+                            "imageLinkEnable": "",
+                            "imageLink": "",
+                            "noFollow": false
+                        },
+                        "e6Style": "normal-image",
+                        "e6BgProps": {
+                            "size": "cover",
+                            "pos": "center",
+                            "repeat": "no-repeat",
+                            "attachment": "scroll"
+                        },
+                        "e6OnWidth": false,
+                        "e6Size": "full",
+                        "e6OnWidthHeight": false,
+                        "e6OnHeight": false,
+                        "eOnPos": false,
+                        "ePosTypeD": "g-pos-d",
+                        "ePosOptD": "default",
+                        "ePosMarginAutoD": false,
+                        "ePosTypeT": "g-pos-d",
+                        "ePosOptT": "default",
+                        "ePosMarginAutoT": false,
+                        "ePosTypeM": "g-pos-d",
+                        "ePosOptM": "default",
+                        "ePosMarginAutoM": false,
+                        "ePosDWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosTWidth": {
+                            "type": "%",
+                            "width": ""
+                        },
+                        "ePosMWidth": {
+                            "type": "%",
+                            "width": ""
+                        }
+                    },
+                    "innerBlocks": [],
+                    "validationIssues": [],
+                    "originalContent": "<div id=\"section-g50cbee\" class=\"wp-block-gutentor-e6 section-g50cbee gutentor-element gutentor-element-image\"><div class=\"gutentor-element-image-box\"><div class=\"gutentor-image-thumb\"><img class=\"normal-image\" src=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg\"/></div></div></div>"
+                }
+            ],
+            "validationIssues": [],
+            "originalContent": "<div id=\"col-gmf44ffe\" class=\"wp-block-gutentor-m10-col col-gmf44ffe gutentor-module g-gm-col grid-lg-4 grid-md-4 grid-12\"><div id=\"section-gmf44ffe\" class=\"section-gmf44ffe gutentor-single-col\"><a data-media-type=\"g-popup-img\" href=\"https://www.demo.gutentor.com/wp-content/uploads/2019/07/laptop-3190194_1920.jpg\" class=\"g-gm-popup\"><i class=\"g-gm-popup-icon fas fa-search\"></i></a></div></div>"
+        }
+    ],
+    "validationIssues": [],
+    "originalContent": "<section id=\"gallery-module2\" class=\"wp-block-gutentor-m10 section-gm9a3a5f9 gutentor-module g-gm-module g-on-masonry g-on-popup g-popup-middle-center g-popup-icon-on-width\"><div class=\"grid-container gutentor-rm-ct-space\"><div class=\"grid-row g-gm-item-wrap\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></section>"
+}
