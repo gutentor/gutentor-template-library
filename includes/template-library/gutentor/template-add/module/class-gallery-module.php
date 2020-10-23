@@ -68,7 +68,7 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Gallery_Module' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'gallery', 'gallery-module' ),
 					'categories'		=> array( 'gallery-module' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/gallery-module/template-1/gutentor_m8.json',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/gallery-module/template-1/gutentor_m10.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/gallery-module/template-1/template-1.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/gallery-module/#gallery-module1',
 				),
