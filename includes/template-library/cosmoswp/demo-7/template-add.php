@@ -75,11 +75,20 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_7' ) ) {
 					'demo_url'    => 'https://www.demo.cosmoswp.com/demo-7/contact/#section-4e26d11d-92ce-4cec-9aca-907513d2e12a',
                 ),
             
-  
-
-                        
-
                 //Block Templates ends
+
+                // Template Kits Starts
+				array(
+					'id'             => 'cosmoswp-demo-7',
+					'title'          => __( 'Blog 1', 'gutentor' ),
+					'type'           => 'template-kit',
+					'author'         => __( 'CosmosWP', 'gutentor' ),
+					'keywords'       => array( 'blog'),
+					'categories'     => array( 'blog' ),
+					'template_url'   => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/home/template.json',
+					'screenshot_url' => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/home/screenshot.jpg',
+				),
+                // Template Kits ends
 
 
                 //Page Templates Starts
@@ -92,6 +101,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_7' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-7/',
+                    'template_kit_id' => 'cosmoswp-demo-7',
                 ),
                
                 array(
@@ -103,6 +113,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_7' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/about/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/about/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-7/about/',
+                    'template_kit_id' => 'cosmoswp-demo-7',
                 ),
                 
                 array(
@@ -114,6 +125,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_7' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/contact/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-7/template-data/templates/contact/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-7/contact/',
+                    'template_kit_id' => 'cosmoswp-demo-7',
                 ),
                 //Page Templates Ends
             );
