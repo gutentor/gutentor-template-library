@@ -121,6 +121,19 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_16' ) ) {
 
                 //Block Templates ends
 
+                // Template Kits Starts
+				array(
+					'id'             => 'cosmoswp-demo-16',
+					'title'          => __( 'Edd 1', 'gutentor' ),
+					'type'           => 'template-kit',
+					'author'         => __( 'CosmosWP', 'gutentor' ),
+					'keywords'       => array( 'edd', 'corporate' ),
+					'categories'     => array( 'edd' ),
+					'template_url'   => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/home/template.json',
+					'screenshot_url' => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/home/screenshot.jpg',
+				),
+				// Template Kits ends
+
 
                 //Page Templates Starts
                 array(
@@ -132,6 +145,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_16' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-16/',
+                    'template_kit_id' => 'cosmoswp-demo-16',
                 ),               
                 array(
                     'title'             => __( 'Contact 16', 'gutentor' ),
@@ -142,6 +156,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_16' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/contact/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-16/template-data/templates/contact/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-16/contact/',
+                    'template_kit_id' => 'cosmoswp-demo-16',
                 ),
                 //Page Templates Ends
             );
