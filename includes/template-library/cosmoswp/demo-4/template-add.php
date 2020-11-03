@@ -70,7 +70,19 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_4' ) ) {
 
                 //Block Templates ends
 
-
+                // Template Kits Starts
+				array(
+					'id'             => 'cosmoswp-demo-4',
+					'title'          => __( 'Woocommerce 1', 'gutentor' ),
+					'type'           => 'template-kit',
+					'author'         => __( 'CosmosWP', 'gutentor' ),
+					'keywords'       => array( 'woocommerce'),
+					'categories'     => array( 'woocommerce' ),
+					'template_url'   => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-4/template-data/templates/home/template.json',
+					'screenshot_url' => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-4/template-data/templates/home/screenshot.jpg',
+				),
+                // Template Kits ends
+                
                 //Page Templates Starts
                 array(
                     'title'             => __('Home 4', 'gutentor' ),
@@ -81,6 +93,7 @@ if ( ! class_exists( 'Gutentor_Template_Library_CosmosWP_Demo_4' ) ) {
                     'template_url'        => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-4/template-data/templates/home/template.json',
                     'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_COSMOSWP_URL . 'demo-4/template-data/templates/home/screenshot.jpg',
                     'demo_url'    => 'https://www.demo.cosmoswp.com/demo-4/',
+                    'template_kit_id' => 'cosmoswp-demo-4',
                 ),               
                 
                 //Page Templates Ends
