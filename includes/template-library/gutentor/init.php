@@ -122,7 +122,7 @@ class Gutentor_Template_Library_Gutentor {
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-form-wrapper.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-woocommerce.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-gallery-module.php';
-        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-term-category-module.php';
+        require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-term-category-feature.php';
         require_once GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_PATH . 'template-add/module/class-filter-module.php';
     }
 }
