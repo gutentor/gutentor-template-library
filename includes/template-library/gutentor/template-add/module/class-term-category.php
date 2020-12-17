@@ -68,8 +68,8 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'term', 'category' ),
 					'categories'		=> array( 'term-category' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-1/gutentor_t1.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-1/template-1.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-1/gutentor_t1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-1/template-1.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category/#term-category-1',
 				),
 				array(
@@ -78,8 +78,8 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'term', 'category' ),
 					'categories'		=> array( 'term-category' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-2/gutentor_t1.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-2/template-2.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-2/gutentor_t1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-2/template-2.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category/#term-category-2',
 				),
 				array(
@@ -88,8 +88,8 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'term', 'category' ),
 					'categories'		=> array( 'term-category' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-3/gutentor_t1.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-3/template-3.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-3/gutentor_t1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-3/template-3.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category/#term-category-3',
 				),
 				array(
@@ -98,8 +98,8 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category' ) ) {
 					'author'			=> __( 'Gutentor', 'gutentor' ),
 					'keywords'			=> array( 'term', 'category' ),
 					'categories'		=> array( 'term-category' ),
-					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-4/gutentor_t1.json',
-					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-module/template-4/template-4.jpg',
+					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-4/gutentor_t1.json',
+					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category/template-4/template-4.jpg',
 					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category/#term-category-4'
 				),
                 
