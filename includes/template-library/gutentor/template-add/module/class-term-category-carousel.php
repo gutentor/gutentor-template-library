@@ -70,7 +70,7 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category_Carousel' ) )
 					'categories'		=> array( 'term-category-carousel' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-1/gutentor_t3.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-1/template-1.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category1',
+					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category-1',
 				),
 				array(
 					'title'				=> __( 'Term Category Carousel', 'gutentor' ),
@@ -80,7 +80,7 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category_Carousel' ) )
 					'categories'		=> array( 'term-category-carousel' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-2/gutentor_t3.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-2/template-2.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category2',
+					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category-2',
 				),
 				array(
 					'title'				=> __( 'Term Category Carousel', 'gutentor' ),
@@ -90,7 +90,7 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category_Carousel' ) )
 					'categories'		=> array( 'term-category-carousel' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-3/gutentor_t3.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-3/template-3.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category3',
+					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category-3',
 				),
 				array(
 					'title'				=> __( 'Term Category Carousel', 'gutentor' ),
@@ -100,7 +100,7 @@ if ( ! class_exists('Gutentor_Template_Library_Block_Term_Category_Carousel' ) )
 					'categories'		=> array( 'term-category-carousel' ),
 					'template_url'		=> GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-4/gutentor_t3.json',
 					'screenshot_url'    => GUTENTOR_TEMPLATE_LIBRARY_GUTENTOR_URL.'template-data/module/term-category-carousel/template-4/template-4.jpg',
-					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category4'
+					'demo_url'    => 'https://www.demo.gutentor.com/module-elements/term-category-carousel/#term-category-4'
 				),
 				
 				
