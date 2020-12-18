@@ -1,10 +1,11 @@
 {
-    "clientId": "6d8a9fed-b777-434c-b0ce-1b9f1c675fcf",
+    "clientId": "ef1eda7c-8577-4255-8118-b7eb0b4a14b8",
     "name": "gutentor/t2",
     "isValid": true,
     "attributes": {
-        "gID": "gt9ea93e5",
+        "gID": "gt3f0f04e",
         "gName": "gutentor/t2",
+        "pName": "gutentor/t2",
         "t2Temp": 1,
         "t2Taxonomy": "category",
         "t2Order": "desc",
@@ -243,10 +244,10 @@
         },
         "mOnHeight": true,
         "mHeight": {
-            "type": "px",
-            "mobile": 400,
-            "tablet": 400,
-            "desktop": 400
+            "type": "vh",
+            "mobile": 70,
+            "tablet": 70,
+            "desktop": 70
         },
         "mHideContSpace": {
             "mobile": true

@@ -1,11 +1,11 @@
 {
-    "clientId": "f1cb0efa-b4fd-4686-9d54-503511306c9a",
+    "clientId": "914fe8cb-62a7-4c7b-b1d0-616faddf7ca5",
     "name": "gutentor/t3",
     "isValid": true,
     "attributes": {
-        "gID": "gt55c3ee6",
+        "gID": "gt56e165f",
         "gName": "gutentor/t3",
-        "mPID": "gt218f773",
+        "mPID": "gt0c78690",
         "t3Dots": false,
         "t3DotsT": false,
         "t3DotsM": false,
@@ -63,11 +63,11 @@
     },
     "innerBlocks": [
         {
-            "clientId": "ed47465d-e246-44bf-aa8a-c9cad8789539",
+            "clientId": "db3c3f1c-0126-43b7-94dc-b75b305d8624",
             "name": "gutentor/t1",
             "isValid": true,
             "attributes": {
-                "gID": "gt218f773",
+                "gID": "gt0c78690",
                 "order": "desc",
                 "orderBy": "date",
                 "blockSortableItems": [
@@ -100,7 +100,7 @@
                 "tRevCont": false,
                 "t1CarouselOpt": {
                     "enable": true,
-                    "carouselID": "gt55c3ee6",
+                    "carouselID": "gt56e165f",
                     "dots": false,
                     "dotsT": false,
                     "dotsM": false,

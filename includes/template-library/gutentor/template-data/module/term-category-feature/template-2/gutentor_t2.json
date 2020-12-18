@@ -1,10 +1,11 @@
 {
-    "clientId": "83c90f2f-4828-4ee1-9e86-96367cac4aec",
+    "clientId": "0fd35f2b-e946-449f-99c9-907a05b6c866",
     "name": "gutentor/t2",
     "isValid": true,
     "attributes": {
-        "gID": "gt5d358e1",
+        "gID": "gt2c82f54",
         "gName": "gutentor/t2",
+        "pName": "gutentor/t2",
         "t2Temp": 2,
         "t2Taxonomy": "category",
         "t2Order": "desc",

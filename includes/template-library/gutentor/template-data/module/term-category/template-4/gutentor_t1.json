@@ -1,9 +1,9 @@
 {
-    "clientId": "cbb0b53e-a218-43b4-9c30-4ce12f2a4b89",
+    "clientId": "a993f4ab-305d-4fae-bd16-f8f314ad4ef6",
     "name": "gutentor/t1",
     "isValid": true,
     "attributes": {
-        "gID": "gt3cb45d3",
+        "gID": "gt291fd58",
         "order": "desc",
         "orderBy": "date",
         "blockSortableItems": [
@@ -26,6 +26,7 @@
         ],
         "timestamp": 0,
         "gName": "gutentor/t1",
+        "pName": "gutentor/t1",
         "t1Temp": "gutentor_t1_template1",
         "termStyle": "gtf-grid",
         "blockItemsColumn": {
